@@ -37,3 +37,7 @@ python build_readme.py
     ]
 } 
 ```
+
+2.
+
+다시 `How to create`의 `create_files`, `build_readme` 과정을 진행한다.
