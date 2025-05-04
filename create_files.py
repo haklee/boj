@@ -14,10 +14,21 @@ def get_language_extension(language):
     }
     return language_extensions.get(language, ".txt")
 
+def get_skip_list():
+    try:
+        with open('skip_list.json', 'r', encoding='utf-8') as f:
+            data = json.load(f)
+            return set(data.get("skip_problems", []))
+    except FileNotFoundError:
+        return set()
+
 def create_files():
     # Read the JSON file
     with open('solved_problems.json', 'r', encoding='utf-8') as f:
         data = json.load(f)
+    
+    # Get skip list
+    skip_list = get_skip_list()
     
     # Create base directory if it doesn't exist
     base_dir = Path("boj")
@@ -26,6 +37,11 @@ def create_files():
     # Process each submission
     for submission in data:
         problem_id = submission["problem_id"]
+        
+        # Skip if problem is in skip list
+        if int(problem_id) in skip_list:
+            continue
+            
         submission_id = submission["submission_id"]
         language = submission["language"]
         
