@@ -52,8 +52,8 @@
 | [4635](https://www.acmicpc.net/problem/4635) | Speed Limit | ✓ |   |   |   |   |
 | [4740](https://www.acmicpc.net/problem/4740) | 거울, 오! 거울 | ✓ |   |   |   |   |
 | [4806](https://www.acmicpc.net/problem/4806) | 줄 세기 | ✓ |   |   |   |   |
-| [5337](https://www.acmicpc.net/problem/5337) | 웰컴 |   |   |   |   | ✓ |
-| [5338](https://www.acmicpc.net/problem/5338) | 마이크로소프트 로고 |   |   |   |   | ✓ |
+| [5337](https://www.acmicpc.net/problem/5337) | 웰컴 |   |   |   |   | [✓](boj/5337/91505264.txt) |
+| [5338](https://www.acmicpc.net/problem/5338) | 마이크로소프트 로고 |   |   |   |   | [✓](boj/5338/90507110.txt) |
 | [5554](https://www.acmicpc.net/problem/5554) | 심부름 가는 길 | ✓ |   |   |   |   |
 | [6840](https://www.acmicpc.net/problem/6840) | Who is in the middle? | ✓ |   |   |   |   |
 | [7287](https://www.acmicpc.net/problem/7287) | 등록 | [✓](boj/7287/90410178.py) |   |   |   |   |
@@ -62,8 +62,8 @@
 | [9288](https://www.acmicpc.net/problem/9288) | More Dice | ✓ |   |   |   |   |
 | [9550](https://www.acmicpc.net/problem/9550) | 아이들은 사탕을 좋아해 | ✓ |   |   |   |   |
 | [9663](https://www.acmicpc.net/problem/9663) | N-Queen | ✓ |   |   |   |   |
-| [10171](https://www.acmicpc.net/problem/10171) | 고양이 |   |   |   |   | ✓ |
-| [10172](https://www.acmicpc.net/problem/10172) | 개 |   |   |   |   | ✓ |
+| [10171](https://www.acmicpc.net/problem/10171) | 고양이 |   |   |   |   | [✓](boj/10171/90693605.txt) |
+| [10172](https://www.acmicpc.net/problem/10172) | 개 |   |   |   |   | [✓](boj/10172/90561873.txt) |
 | [10699](https://www.acmicpc.net/problem/10699) | 오늘 날짜 | [✓](boj/10699/90381697.py) | [✓](boj/10699/90381637.cpp) | [✓](boj/10699/90381720.cs) | [✓](boj/10699/90381683.js) | [✓](boj/10699/90381735.txt) |
 | [10718](https://www.acmicpc.net/problem/10718) | We love kriii | ✓ |   |   |   |   |
 | [10773](https://www.acmicpc.net/problem/10773) | 제로 | ✓ |   |   |   |   |
@@ -105,7 +105,7 @@
 | [15666](https://www.acmicpc.net/problem/15666) | N과 M (12) | ✓ |   |   |   |   |
 | [15680](https://www.acmicpc.net/problem/15680) | 연세대학교 | ✓ |   |   |   |   |
 | [15947](https://www.acmicpc.net/problem/15947) | 아기 석환 뚜루루 뚜루 | ✓ |   |   |   |   |
-| [15962](https://www.acmicpc.net/problem/15962) | 새로운 시작 |   |   |   |   | ✓ |
+| [15962](https://www.acmicpc.net/problem/15962) | 새로운 시작 |   |   |   |   | [✓](boj/15962/91280580.txt) |
 | [15964](https://www.acmicpc.net/problem/15964) | 이상한 기호 | ✓ |   |   |   |   |
 | [16483](https://www.acmicpc.net/problem/16483) | 접시 안의 원 | ✓ |   |   |   |   |
 | [17072](https://www.acmicpc.net/problem/17072) | 아스키 아트 | ✓ |   |   |   |   |
