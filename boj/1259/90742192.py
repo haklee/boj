@@ -1,0 +1,1 @@
+while(x:=input())!='0':print('yneos'[x!=x[::-1]::2])

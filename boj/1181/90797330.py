@@ -1,0 +1,1 @@
+print(*sorted(sorted(set([*open(0)][1:])),key=lambda i:len(i)),sep='')
