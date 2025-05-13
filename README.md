@@ -16,12 +16,12 @@
 | [1008](https://www.acmicpc.net/problem/1008) | A/B | [✓](boj/1008/91363145.py) |   |   |   |   |
 | [1181](https://www.acmicpc.net/problem/1181) | 단어 정렬 | [✓](boj/1181/90797330.py) |   |   |   |   |
 | [1259](https://www.acmicpc.net/problem/1259) | 팰린드롬수 | [✓](boj/1259/90741930.py) |   |   |   |   |
-| [1271](https://www.acmicpc.net/problem/1271) | 엄청난 부자2 | ✓ |   |   |   |   |
+| [1271](https://www.acmicpc.net/problem/1271) | 엄청난 부자2 | [✓](boj/1271/93769960.py) |   |   |   |   |
 | [1436](https://www.acmicpc.net/problem/1436) | 영화감독 숌 | ✓ |   |   |   |   |
 | [1546](https://www.acmicpc.net/problem/1546) | 평균 | ✓ |   |   |   |   |
-| [1629](https://www.acmicpc.net/problem/1629) | 곱셈 | ✓ |   |   |   |   |
+| [1629](https://www.acmicpc.net/problem/1629) | 곱셈 | [✓](boj/1629/91048349.py) |   |   |   |   |
 | [1676](https://www.acmicpc.net/problem/1676) | 팩토리얼 0의 개수 | ✓ |   |   |   |   |
-| [2083](https://www.acmicpc.net/problem/2083) | 럭비 클럽 | ✓ |   |   |   |   |
+| [2083](https://www.acmicpc.net/problem/2083) | 럭비 클럽 | [✓](boj/2083/91774381.py) |   |   |   |   |
 | [2167](https://www.acmicpc.net/problem/2167) | 2차원 배열의 합 | ✓ |   |   |   |   |
 | [2231](https://www.acmicpc.net/problem/2231) | 분해합 | ✓ |   |   |   |   |
 | [2292](https://www.acmicpc.net/problem/2292) | 벌집 | ✓ |   |   |   |   |
@@ -31,10 +31,10 @@
 | [2530](https://www.acmicpc.net/problem/2530) | 인공지능 시계 | ✓ |   |   |   |   |
 | [2557](https://www.acmicpc.net/problem/2557) | Hello World | [✓](boj/2557/90356881.py) | [✓](boj/2557/90357149.cpp) | [✓](boj/2557/90357233.cs) | [✓](boj/2557/90357205.js) |   |
 | [2577](https://www.acmicpc.net/problem/2577) | 숫자의 개수 | ✓ |   |   |   |   |
-| [2605](https://www.acmicpc.net/problem/2605) | 줄 세우기 | [✓](boj/2605/94071106.py) |   |   |   |   |
+| [2605](https://www.acmicpc.net/problem/2605) | 줄 세우기 | ✓ |   |   |   |   |
 | [2609](https://www.acmicpc.net/problem/2609) | 최대공약수와 최소공배수 | ✓ |   |   |   |   |
 | [2739](https://www.acmicpc.net/problem/2739) | 구구단 | ✓ |   |   |   |   |
-| [2742](https://www.acmicpc.net/problem/2742) | 기찍 N | [✓](boj/2742/94181562.py) |   |   |   |   |
+| [2742](https://www.acmicpc.net/problem/2742) | 기찍 N | ✓ |   |   |   |   |
 | [2743](https://www.acmicpc.net/problem/2743) | 단어 길이 재기 | ✓ |   |   |   |   |
 | [2747](https://www.acmicpc.net/problem/2747) | 피보나치 수 | ✓ |   |   |   |   |
 | [2748](https://www.acmicpc.net/problem/2748) | 피보나치 수 2 | ✓ |   |   |   |   |
@@ -59,7 +59,7 @@
 | [5554](https://www.acmicpc.net/problem/5554) | 심부름 가는 길 | ✓ |   |   |   |   |
 | [6840](https://www.acmicpc.net/problem/6840) | Who is in the middle? | ✓ |   |   |   |   |
 | [7287](https://www.acmicpc.net/problem/7287) | 등록 | [✓](boj/7287/90410178.py) |   |   |   |   |
-| [7510](https://www.acmicpc.net/problem/7510) | 고급 수학 | [✓](boj/7510/94110031.py) |   |   |   |   |
+| [7510](https://www.acmicpc.net/problem/7510) | 고급 수학 | ✓ |   |   |   |   |
 | [7523](https://www.acmicpc.net/problem/7523) | Gauß | ✓ |   |   |   |   |
 | [8393](https://www.acmicpc.net/problem/8393) | 합 | ✓ |   |   |   |   |
 | [9288](https://www.acmicpc.net/problem/9288) | More Dice | ✓ |   |   |   |   |
@@ -101,7 +101,7 @@
 | [15000](https://www.acmicpc.net/problem/15000) | CAPS | ✓ |   |   |   |   |
 | [15552](https://www.acmicpc.net/problem/15552) | 빠른 A+B | ✓ |   |   | ✓ |   |
 | [15624](https://www.acmicpc.net/problem/15624) | 피보나치 수 7 | ✓ |   |   |   |   |
-| [15633](https://www.acmicpc.net/problem/15633) | Fan Death | [✓](boj/15633/94235641.py) |   |   |   |   |
+| [15633](https://www.acmicpc.net/problem/15633) | Fan Death | ✓ |   |   |   |   |
 | [15641](https://www.acmicpc.net/problem/15641) | SUPER SUPER BINARY SEARCH DELUXE 2.5: THE LEGEND OF THE GOLDEN MAZASSUMNIDA, EPISODE 2: THE MAZWAETL UNIVERSE, PART 2: THE PARALLEL UNIVERSE AND THE LOST MAZASSUMNIDA: GAME OF THE YEAR EDITION |   |   |   |   | ✓ |
 | [15650](https://www.acmicpc.net/problem/15650) | N과 M (2) | ✓ |   |   |   |   |
 | [15652](https://www.acmicpc.net/problem/15652) | N과 M (4) | ✓ |   |   |   |   |
@@ -109,14 +109,14 @@
 | [15663](https://www.acmicpc.net/problem/15663) | N과 M (9) | ✓ |   |   |   |   |
 | [15666](https://www.acmicpc.net/problem/15666) | N과 M (12) | ✓ |   |   |   |   |
 | [15680](https://www.acmicpc.net/problem/15680) | 연세대학교 | ✓ |   |   |   |   |
-| [15873](https://www.acmicpc.net/problem/15873) | 공백 없는 A+B | [✓](boj/15873/94181387.py) |   |   |   |   |
+| [15873](https://www.acmicpc.net/problem/15873) | 공백 없는 A+B | ✓ |   |   |   |   |
 | [15947](https://www.acmicpc.net/problem/15947) | 아기 석환 뚜루루 뚜루 | ✓ |   |   |   |   |
 | [15962](https://www.acmicpc.net/problem/15962) | 새로운 시작 |   |   |   |   | [✓](boj/15962/91280580.txt) |
 | [15964](https://www.acmicpc.net/problem/15964) | 이상한 기호 | ✓ |   |   |   |   |
 | [16483](https://www.acmicpc.net/problem/16483) | 접시 안의 원 | ✓ |   |   |   |   |
 | [16953](https://www.acmicpc.net/problem/16953) | A → B | ✓ |   |   |   |   |
 | [17072](https://www.acmicpc.net/problem/17072) | 아스키 아트 | ✓ |   |   |   |   |
-| [17173](https://www.acmicpc.net/problem/17173) | 배수들의 합 | [✓](boj/17173/94054521.py) |   |   |   |   |
+| [17173](https://www.acmicpc.net/problem/17173) | 배수들의 합 | ✓ |   |   |   |   |
 | [18269](https://www.acmicpc.net/problem/18269) | Where Am I? | ✓ |   |   |   |   |
 | [19698](https://www.acmicpc.net/problem/19698) | 헛간 청약 | ✓ |   |   |   |   |
 | [20001](https://www.acmicpc.net/problem/20001) | 고무오리 디버깅 | ✓ |   |   |   |   |
@@ -128,8 +128,8 @@
 | [24723](https://www.acmicpc.net/problem/24723) | 녹색거탑 | ✓ |   |   |   |   |
 | [24883](https://www.acmicpc.net/problem/24883) | 자동완성 | ✓ |   |   |   |   |
 | [25083](https://www.acmicpc.net/problem/25083) | 새싹 | ✓ |   |   |   |   |
-| [25206](https://www.acmicpc.net/problem/25206) | 너의 평점은 | [✓](boj/25206/94007128.py) |   |   |   |   |
-| [25238](https://www.acmicpc.net/problem/25238) | 가희와 방어율 무시 | [✓](boj/25238/94149616.py) |   |   |   |   |
+| [25206](https://www.acmicpc.net/problem/25206) | 너의 평점은 | ✓ |   |   |   |   |
+| [25238](https://www.acmicpc.net/problem/25238) | 가희와 방어율 무시 | ✓ |   |   |   |   |
 | [25372](https://www.acmicpc.net/problem/25372) | 성택이의 은밀한 비밀번호 | ✓ |   |   |   |   |
 | [25400](https://www.acmicpc.net/problem/25400) | 제자리 | ✓ |   |   |   |   |
 | [25591](https://www.acmicpc.net/problem/25591) | 푸앙이와 종윤이 | ✓ |   |   |   |   |

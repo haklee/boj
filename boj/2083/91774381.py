@@ -1,0 +1,1 @@
+for i in[*open(0)][:-1]:a,b,c=i.split();print(a,'JSue'[int(b)>17 or int(c)>79::2]+'nior')
