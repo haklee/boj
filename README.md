@@ -14,10 +14,10 @@
 | [1000](https://www.acmicpc.net/problem/1000) | A+B | [✓](boj/1000/90688966.py) |   |   |   |   |
 | [1001](https://www.acmicpc.net/problem/1001) | A-B | [✓](boj/1001/90693709.py) |   |   |   |   |
 | [1008](https://www.acmicpc.net/problem/1008) | A/B | [✓](boj/1008/91363145.py) |   |   |   |   |
-| [1094](https://www.acmicpc.net/problem/1094) | 막대기 | ✓ |   |   |   |   |
-| [1149](https://www.acmicpc.net/problem/1149) | RGB거리 | ✓ |   |   |   |   |
+| [1094](https://www.acmicpc.net/problem/1094) | 막대기 | [✓](boj/1094/94604823.py) |   |   |   |   |
+| [1149](https://www.acmicpc.net/problem/1149) | RGB거리 | [✓](boj/1149/94900068.py) |   |   |   |   |
 | [1181](https://www.acmicpc.net/problem/1181) | 단어 정렬 | [✓](boj/1181/90797330.py) |   |   |   |   |
-| [1212](https://www.acmicpc.net/problem/1212) | 8진수 2진수 | ✓ |   |   |   |   |
+| [1212](https://www.acmicpc.net/problem/1212) | 8진수 2진수 | [✓](boj/1212/94692869.py) |   |   |   |   |
 | [1259](https://www.acmicpc.net/problem/1259) | 팰린드롬수 | [✓](boj/1259/90741930.py) |   |   |   |   |
 | [1271](https://www.acmicpc.net/problem/1271) | 엄청난 부자2 | [✓](boj/1271/93769960.py) |   |   |   |   |
 | [1436](https://www.acmicpc.net/problem/1436) | 영화감독 숌 | ✓ |   |   |   |   |
