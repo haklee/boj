@@ -11,9 +11,9 @@
 
 | Problem | Name | py | cpp | cs | js | txt |
 |---------|------|----|-----|----|----|-----|
-| [1000](https://www.acmicpc.net/problem/1000) | A+B | [✓](boj/1000/90688966.py) |   |   |   |   |
-| [1001](https://www.acmicpc.net/problem/1001) | A-B | [✓](boj/1001/90693709.py) |   |   |   |   |
-| [1008](https://www.acmicpc.net/problem/1008) | A/B | [✓](boj/1008/91363145.py) |   |   |   |   |
+| [1000](https://www.acmicpc.net/problem/1000) | A+B | [✓](boj/1000/90688966.py) |   |   | [✓](boj/1000/95037866.js) |   |
+| [1001](https://www.acmicpc.net/problem/1001) | A-B | [✓](boj/1001/90693709.py) |   |   | [✓](boj/1001/95037980.js) |   |
+| [1008](https://www.acmicpc.net/problem/1008) | A/B | [✓](boj/1008/91363145.py) |   |   | [✓](boj/1008/95037997.js) |   |
 | [1094](https://www.acmicpc.net/problem/1094) | 막대기 | [✓](boj/1094/94604823.py) |   |   |   |   |
 | [1149](https://www.acmicpc.net/problem/1149) | RGB거리 | [✓](boj/1149/94900068.py) |   |   |   |   |
 | [1181](https://www.acmicpc.net/problem/1181) | 단어 정렬 | [✓](boj/1181/90797330.py) |   |   |   |   |
@@ -57,6 +57,7 @@
 | [3040](https://www.acmicpc.net/problem/3040) | 백설 공주와 일곱 난쟁이 | ✓ |   |   |   |   |
 | [3062](https://www.acmicpc.net/problem/3062) | 수 뒤집기 | ✓ |   |   |   |   |
 | [3578](https://www.acmicpc.net/problem/3578) | Holes | ✓ |   |   |   |   |
+| [3711](https://www.acmicpc.net/problem/3711) | 학번 | ✓ |   |   |   |   |
 | [3765](https://www.acmicpc.net/problem/3765) | Celebrity jeopardy | ✓ |   |   |   |   |
 | [4150](https://www.acmicpc.net/problem/4150) | 피보나치 수 | ✓ |   |   |   |   |
 | [4153](https://www.acmicpc.net/problem/4153) | 직각삼각형 | ✓ |   |   |   |   |
@@ -91,7 +92,7 @@
 | [10950](https://www.acmicpc.net/problem/10950) | A+B - 3 | ✓ |   |   |   |   |
 | [10987](https://www.acmicpc.net/problem/10987) | 모음의 개수 | ✓ |   |   |   |   |
 | [10989](https://www.acmicpc.net/problem/10989) | 수 정렬하기 3 | ✓ |   |   |   |   |
-| [10998](https://www.acmicpc.net/problem/10998) | A×B | ✓ |   |   |   |   |
+| [10998](https://www.acmicpc.net/problem/10998) | A×B | [✓](boj/10998/90873842.py) |   |   | [✓](boj/10998/95038020.js) |   |
 | [11021](https://www.acmicpc.net/problem/11021) | A+B - 7 | ✓ |   |   |   |   |
 | [11050](https://www.acmicpc.net/problem/11050) | 이항 계수 1 | ✓ |   |   |   |   |
 | [11051](https://www.acmicpc.net/problem/11051) | 이항 계수 2 | ✓ |   |   |   |   |
@@ -105,7 +106,11 @@
 | [11651](https://www.acmicpc.net/problem/11651) | 좌표 정렬하기 2 | ✓ |   |   |   |   |
 | [11659](https://www.acmicpc.net/problem/11659) | 구간 합 구하기 4 | ✓ |   |   |   |   |
 | [11660](https://www.acmicpc.net/problem/11660) | 구간 합 구하기 5 | ✓ |   |   |   |   |
+| [11721](https://www.acmicpc.net/problem/11721) | 열 개씩 끊어 출력하기 | ✓ |   |   |   |   |
+| [11722](https://www.acmicpc.net/problem/11722) | 가장 긴 감소하는 부분 수열 | ✓ |   |   |   |   |
 | [11725](https://www.acmicpc.net/problem/11725) | 트리의 부모 찾기 | ✓ |   |   |   |   |
+| [12015](https://www.acmicpc.net/problem/12015) | 가장 긴 증가하는 부분 수열 2 | ✓ |   |   |   |   |
+| [12738](https://www.acmicpc.net/problem/12738) | 가장 긴 증가하는 부분 수열 3 | ✓ |   |   |   |   |
 | [13172](https://www.acmicpc.net/problem/13172) | Σ | ✓ |   |   |   |   |
 | [13623](https://www.acmicpc.net/problem/13623) | Zero or One | ✓ |   |   |   |   |
 | [14470](https://www.acmicpc.net/problem/14470) | 전자레인지 | ✓ |   |   |   |   |
@@ -135,6 +140,7 @@
 | [17072](https://www.acmicpc.net/problem/17072) | 아스키 아트 | ✓ |   |   |   |   |
 | [17173](https://www.acmicpc.net/problem/17173) | 배수들의 합 | ✓ |   |   |   |   |
 | [17201](https://www.acmicpc.net/problem/17201) | 자석 체인 | ✓ |   |   |   |   |
+| [17224](https://www.acmicpc.net/problem/17224) | APC는 왜 서브태스크 대회가 되었을까? | ✓ |   |   |   |   |
 | [17256](https://www.acmicpc.net/problem/17256) | 달달함이 넘쳐흘러 | ✓ |   |   |   |   |
 | [18245](https://www.acmicpc.net/problem/18245) | 이상한 나라의 암호 | ✓ |   |   |   |   |
 | [18269](https://www.acmicpc.net/problem/18269) | Where Am I? | ✓ |   |   |   |   |
@@ -183,6 +189,8 @@
 | [31868](https://www.acmicpc.net/problem/31868) | 수박 게임 | ✓ |   |   |   |   |
 | [32158](https://www.acmicpc.net/problem/32158) | SWAPC | ✓ |   |   |   |   |
 | [32215](https://www.acmicpc.net/problem/32215) | 코드마스터 2024 | ✓ |   |   |   |   |
+| [32642](https://www.acmicpc.net/problem/32642) | 당구 좀 치자 제발 | ✓ |   |   |   |   |
 | [32651](https://www.acmicpc.net/problem/32651) | 인간은 무엇인가 | ✓ |   |   |   |   |
 | [32775](https://www.acmicpc.net/problem/32775) | 가희와 4시간의 벽 1 | ✓ |   |   |   |   |
 | [32951](https://www.acmicpc.net/problem/32951) | AI 선도대학 | ✓ |   |   |   |   |
+| [33612](https://www.acmicpc.net/problem/33612) | 피갤컵 | ✓ |   |   |   |   |
