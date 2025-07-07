@@ -1,0 +1,2165 @@
+[
+  {
+    "submission_id": "96001546",
+    "problem_id": "30456",
+    "problem_title": "바닥수",
+    "language": "PyPy3",
+    "submission_time": "2025-07-06 11:30:08"
+  },
+  {
+    "submission_id": "95970342",
+    "problem_id": "20154",
+    "problem_title": "이 구역의 승자는 누구야?!",
+    "language": "PyPy3",
+    "submission_time": "2025-07-05 10:11:44"
+  },
+  {
+    "submission_id": "95944322",
+    "problem_id": "17266",
+    "problem_title": "어두운 굴다리",
+    "language": "PyPy3",
+    "submission_time": "2025-07-04 14:00:47"
+  },
+  {
+    "submission_id": "95915323",
+    "problem_id": "16204",
+    "problem_title": "카드 뽑기",
+    "language": "PyPy3",
+    "submission_time": "2025-07-03 16:43:12"
+  },
+  {
+    "submission_id": "95866620",
+    "problem_id": "28691",
+    "problem_title": "정보보호학부 동아리 소개",
+    "language": "PyPy3",
+    "submission_time": "2025-07-02 12:28:27"
+  },
+  {
+    "submission_id": "95866613",
+    "problem_id": "28691",
+    "problem_title": "정보보호학부 동아리 소개",
+    "language": "PyPy3",
+    "submission_time": "2025-07-02 12:28:04"
+  },
+  {
+    "submission_id": "95866601",
+    "problem_id": "28691",
+    "problem_title": "정보보호학부 동아리 소개",
+    "language": "PyPy3",
+    "submission_time": "2025-07-02 12:27:40"
+  },
+  {
+    "submission_id": "95866452",
+    "problem_id": "28691",
+    "problem_title": "정보보호학부 동아리 소개",
+    "language": "PyPy3",
+    "submission_time": "2025-07-02 12:22:29"
+  },
+  {
+    "submission_id": "95841350",
+    "problem_id": "7600",
+    "problem_title": "문자가 몇갤까",
+    "language": "PyPy3",
+    "submission_time": "2025-07-01 17:07:03"
+  },
+  {
+    "submission_id": "95839931",
+    "problem_id": "5211",
+    "problem_title": "가단조와 다장조",
+    "language": "PyPy3",
+    "submission_time": "2025-07-01 16:37:25"
+  },
+  {
+    "submission_id": "95796627",
+    "problem_id": "11557",
+    "problem_title": "Yangjojang of The Year",
+    "language": "PyPy3",
+    "submission_time": "2025-06-30 13:41:03"
+  },
+  {
+    "submission_id": "95768728",
+    "problem_id": "18964",
+    "problem_title": "Questionnaire",
+    "language": "PyPy3",
+    "submission_time": "2025-06-29 13:51:53"
+  },
+  {
+    "submission_id": "95750367",
+    "problem_id": "31450",
+    "problem_title": "Everyone is a winner",
+    "language": "PyPy3",
+    "submission_time": "2025-06-28 18:39:37"
+  },
+  {
+    "submission_id": "95710610",
+    "problem_id": "1316",
+    "problem_title": "그룹 단어 체커",
+    "language": "PyPy3",
+    "submission_time": "2025-06-27 14:14:32"
+  },
+  {
+    "submission_id": "95677795",
+    "problem_id": "25184",
+    "problem_title": "동가수열 구하기",
+    "language": "PyPy3",
+    "submission_time": "2025-06-26 14:51:38"
+  },
+  {
+    "submission_id": "95641171",
+    "problem_id": "5591",
+    "problem_title": "最大の和",
+    "language": "PyPy3",
+    "submission_time": "2025-06-25 12:34:00"
+  },
+  {
+    "submission_id": "95608290",
+    "problem_id": "15228",
+    "problem_title": "3D Printed Statues",
+    "language": "PyPy3",
+    "submission_time": "2025-06-24 12:09:48"
+  },
+  {
+    "submission_id": "95587931",
+    "problem_id": "7572",
+    "problem_title": "간지(干支)",
+    "language": "PyPy3",
+    "submission_time": "2025-06-23 17:19:27"
+  },
+  {
+    "submission_id": "95564422",
+    "problem_id": "2166",
+    "problem_title": "다각형의 면적",
+    "language": "PyPy3",
+    "submission_time": "2025-06-22 20:51:27"
+  },
+  {
+    "submission_id": "95556924",
+    "problem_id": "30794",
+    "problem_title": "가희와 클럽 오디션 1",
+    "language": "PyPy3",
+    "submission_time": "2025-06-22 16:05:31"
+  },
+  {
+    "submission_id": "95556827",
+    "problem_id": "14924",
+    "problem_title": "폰 노이만과 파리",
+    "language": "PyPy3",
+    "submission_time": "2025-06-22 16:02:42"
+  },
+  {
+    "submission_id": "95521989",
+    "problem_id": "31215",
+    "problem_title": "이상한 섞기 연산",
+    "language": "PyPy3",
+    "submission_time": "2025-06-21 10:05:37"
+  },
+  {
+    "submission_id": "95500245",
+    "problem_id": "14566",
+    "problem_title": "Dongjak N1",
+    "language": "PyPy3",
+    "submission_time": "2025-06-20 13:07:59"
+  },
+  {
+    "submission_id": "95467421",
+    "problem_id": "5555",
+    "problem_title": "반지",
+    "language": "PyPy3",
+    "submission_time": "2025-06-19 09:36:12"
+  },
+  {
+    "submission_id": "95467386",
+    "problem_id": "5555",
+    "problem_title": "반지",
+    "language": "PyPy3",
+    "submission_time": "2025-06-19 09:33:26"
+  },
+  {
+    "submission_id": "95467375",
+    "problem_id": "5555",
+    "problem_title": "반지",
+    "language": "PyPy3",
+    "submission_time": "2025-06-19 09:32:44"
+  },
+  {
+    "submission_id": "95461874",
+    "problem_id": "33575",
+    "problem_title": "시간표",
+    "language": "PyPy3",
+    "submission_time": "2025-06-18 23:29:37"
+  },
+  {
+    "submission_id": "95411092",
+    "problem_id": "2948",
+    "problem_title": "2009년",
+    "language": "PyPy3",
+    "submission_time": "2025-06-17 09:17:44"
+  },
+  {
+    "submission_id": "95405867",
+    "problem_id": "1996",
+    "problem_title": "지뢰 찾기",
+    "language": "PyPy3",
+    "submission_time": "2025-06-16 23:26:21"
+  },
+  {
+    "submission_id": "95359502",
+    "problem_id": "24765",
+    "problem_title": "Mia",
+    "language": "PyPy3",
+    "submission_time": "2025-06-15 10:27:42"
+  },
+  {
+    "submission_id": "95359309",
+    "problem_id": "20660",
+    "problem_title": "Pizza",
+    "language": "PyPy3",
+    "submission_time": "2025-06-15 10:14:24"
+  },
+  {
+    "submission_id": "95328783",
+    "problem_id": "14004",
+    "problem_title": "ICPC",
+    "language": "PyPy3",
+    "submission_time": "2025-06-14 09:09:23"
+  },
+  {
+    "submission_id": "95302397",
+    "problem_id": "31000",
+    "problem_title": "교환 분배법칙",
+    "language": "PyPy3",
+    "submission_time": "2025-06-13 08:36:22"
+  },
+  {
+    "submission_id": "95292099",
+    "problem_id": "26575",
+    "problem_title": "Pups",
+    "language": "PyPy3",
+    "submission_time": "2025-06-12 20:19:02"
+  },
+  {
+    "submission_id": "95265922",
+    "problem_id": "5957",
+    "problem_title": "Cleaning the Dishes",
+    "language": "PyPy3",
+    "submission_time": "2025-06-11 19:43:06"
+  },
+  {
+    "submission_id": "95220952",
+    "problem_id": "3047",
+    "problem_title": "ABC",
+    "language": "PyPy3",
+    "submission_time": "2025-06-10 10:55:13"
+  },
+  {
+    "submission_id": "95188816",
+    "problem_id": "9698",
+    "problem_title": "SAHUR & IMSA’",
+    "language": "PyPy3",
+    "submission_time": "2025-06-09 10:07:25"
+  },
+  {
+    "submission_id": "95168367",
+    "problem_id": "5753",
+    "problem_title": "Pascal Library",
+    "language": "PyPy3",
+    "submission_time": "2025-06-08 15:59:35"
+  },
+  {
+    "submission_id": "95167977",
+    "problem_id": "29700",
+    "problem_title": "우당탕탕 영화예매",
+    "language": "PyPy3",
+    "submission_time": "2025-06-08 15:50:15"
+  },
+  {
+    "submission_id": "95151882",
+    "problem_id": "20546",
+    "problem_title": "🐜 기적의 매매법 🐜",
+    "language": "PyPy3",
+    "submission_time": "2025-06-07 22:45:14"
+  },
+  {
+    "submission_id": "95105835",
+    "problem_id": "17177",
+    "problem_title": "내접사각형 만들기",
+    "language": "PyPy3",
+    "submission_time": "2025-06-06 10:55:31"
+  },
+  {
+    "submission_id": "95099930",
+    "problem_id": "28115",
+    "problem_title": "등차수열의 합",
+    "language": "PyPy3",
+    "submission_time": "2025-06-05 23:33:35"
+  },
+  {
+    "submission_id": "95062623",
+    "problem_id": "25858",
+    "problem_title": "Divide the Cash",
+    "language": "node.js",
+    "submission_time": "2025-06-04 19:38:20"
+  },
+  {
+    "submission_id": "95038020",
+    "problem_id": "10998",
+    "problem_title": "A×B",
+    "language": "node.js",
+    "submission_time": "2025-06-03 22:58:45"
+  },
+  {
+    "submission_id": "95037997",
+    "problem_id": "1008",
+    "problem_title": "A/B",
+    "language": "node.js",
+    "submission_time": "2025-06-03 22:57:55"
+  },
+  {
+    "submission_id": "95037980",
+    "problem_id": "1001",
+    "problem_title": "A-B",
+    "language": "node.js",
+    "submission_time": "2025-06-03 22:57:22"
+  },
+  {
+    "submission_id": "95037866",
+    "problem_id": "1000",
+    "problem_title": "A+B",
+    "language": "node.js",
+    "submission_time": "2025-06-03 22:53:46"
+  },
+  {
+    "submission_id": "95017037",
+    "problem_id": "3711",
+    "problem_title": "학번",
+    "language": "PyPy3",
+    "submission_time": "2025-06-03 09:50:22"
+  },
+  {
+    "submission_id": "94989240",
+    "problem_id": "17224",
+    "problem_title": "APC는 왜 서브태스크 대회가 되었을까?",
+    "language": "PyPy3",
+    "submission_time": "2025-06-02 13:21:35"
+  },
+  {
+    "submission_id": "94954985",
+    "problem_id": "33612",
+    "problem_title": "피갤컵",
+    "language": "PyPy3",
+    "submission_time": "2025-06-01 09:19:33"
+  },
+  {
+    "submission_id": "94954931",
+    "problem_id": "32642",
+    "problem_title": "당구 좀 치자 제발",
+    "language": "PyPy3",
+    "submission_time": "2025-06-01 09:11:59"
+  },
+  {
+    "submission_id": "94927974",
+    "problem_id": "11722",
+    "problem_title": "가장 긴 감소하는 부분 수열",
+    "language": "PyPy3",
+    "submission_time": "2025-05-31 12:40:54"
+  },
+  {
+    "submission_id": "94927791",
+    "problem_id": "12738",
+    "problem_title": "가장 긴 증가하는 부분 수열 3",
+    "language": "PyPy3",
+    "submission_time": "2025-05-31 12:32:47"
+  },
+  {
+    "submission_id": "94927688",
+    "problem_id": "12015",
+    "problem_title": "가장 긴 증가하는 부분 수열 2",
+    "language": "PyPy3",
+    "submission_time": "2025-05-31 12:28:44"
+  },
+  {
+    "submission_id": "94927562",
+    "problem_id": "11721",
+    "problem_title": "열 개씩 끊어 출력하기",
+    "language": "Python 3",
+    "submission_time": "2025-05-31 12:22:28"
+  },
+  {
+    "submission_id": "94902913",
+    "problem_id": "11053",
+    "problem_title": "가장 긴 증가하는 부분 수열",
+    "language": "PyPy3",
+    "submission_time": "2025-05-30 15:28:50"
+  },
+  {
+    "submission_id": "94901205",
+    "problem_id": "1991",
+    "problem_title": "트리 순회",
+    "language": "PyPy3",
+    "submission_time": "2025-05-30 14:46:47"
+  },
+  {
+    "submission_id": "94901034",
+    "problem_id": "1991",
+    "problem_title": "트리 순회",
+    "language": "PyPy3",
+    "submission_time": "2025-05-30 14:42:41"
+  },
+  {
+    "submission_id": "94900068",
+    "problem_id": "1149",
+    "problem_title": "RGB거리",
+    "language": "PyPy3",
+    "submission_time": "2025-05-30 14:19:39"
+  },
+  {
+    "submission_id": "94899798",
+    "problem_id": "1932",
+    "problem_title": "정수 삼각형",
+    "language": "PyPy3",
+    "submission_time": "2025-05-30 14:11:53"
+  },
+  {
+    "submission_id": "94892206",
+    "problem_id": "2864",
+    "problem_title": "5와 6의 차이",
+    "language": "PyPy3",
+    "submission_time": "2025-05-30 08:09:33"
+  },
+  {
+    "submission_id": "94878720",
+    "problem_id": "14487",
+    "problem_title": "욱제는 효도쟁이야!!",
+    "language": "PyPy3",
+    "submission_time": "2025-05-29 18:44:48"
+  },
+  {
+    "submission_id": "94829630",
+    "problem_id": "2096",
+    "problem_title": "내려가기",
+    "language": "PyPy3",
+    "submission_time": "2025-05-28 12:27:00"
+  },
+  {
+    "submission_id": "94829036",
+    "problem_id": "9935",
+    "problem_title": "문자열 폭발",
+    "language": "PyPy3",
+    "submission_time": "2025-05-28 11:59:22"
+  },
+  {
+    "submission_id": "94828063",
+    "problem_id": "19564",
+    "problem_title": "반복",
+    "language": "PyPy3",
+    "submission_time": "2025-05-28 11:25:56"
+  },
+  {
+    "submission_id": "94790656",
+    "problem_id": "2744",
+    "problem_title": "대소문자 바꾸기",
+    "language": "PyPy3",
+    "submission_time": "2025-05-27 10:51:23"
+  },
+  {
+    "submission_id": "94756123",
+    "problem_id": "10797",
+    "problem_title": "10부제",
+    "language": "PyPy3",
+    "submission_time": "2025-05-26 13:37:38"
+  },
+  {
+    "submission_id": "94720087",
+    "problem_id": "4299",
+    "problem_title": "AFC 윔블던",
+    "language": "PyPy3",
+    "submission_time": "2025-05-25 12:16:00"
+  },
+  {
+    "submission_id": "94692869",
+    "problem_id": "1212",
+    "problem_title": "8진수 2진수",
+    "language": "PyPy3",
+    "submission_time": "2025-05-24 14:10:10"
+  },
+  {
+    "submission_id": "94692577",
+    "problem_id": "17201",
+    "problem_title": "자석 체인",
+    "language": "PyPy3",
+    "submission_time": "2025-05-24 14:00:24"
+  },
+  {
+    "submission_id": "94654990",
+    "problem_id": "25373",
+    "problem_title": "벼락치기",
+    "language": "PyPy3",
+    "submission_time": "2025-05-23 11:09:51"
+  },
+  {
+    "submission_id": "94654760",
+    "problem_id": "25373",
+    "problem_title": "벼락치기",
+    "language": "PyPy3",
+    "submission_time": "2025-05-23 11:02:40"
+  },
+  {
+    "submission_id": "94654553",
+    "problem_id": "25373",
+    "problem_title": "벼락치기",
+    "language": "PyPy3",
+    "submission_time": "2025-05-23 10:56:10"
+  },
+  {
+    "submission_id": "94643591",
+    "problem_id": "32158",
+    "problem_title": "SWAPC",
+    "language": "PyPy3",
+    "submission_time": "2025-05-22 19:40:33"
+  },
+  {
+    "submission_id": "94642852",
+    "problem_id": "32158",
+    "problem_title": "SWAPC",
+    "language": "PyPy3",
+    "submission_time": "2025-05-22 19:22:06"
+  },
+  {
+    "submission_id": "94606460",
+    "problem_id": "13172",
+    "problem_title": "Σ",
+    "language": "PyPy3",
+    "submission_time": "2025-05-21 21:09:01"
+  },
+  {
+    "submission_id": "94605666",
+    "problem_id": "9465",
+    "problem_title": "스티커",
+    "language": "PyPy3",
+    "submission_time": "2025-05-21 20:47:41"
+  },
+  {
+    "submission_id": "94604823",
+    "problem_id": "1094",
+    "problem_title": "막대기",
+    "language": "PyPy3",
+    "submission_time": "2025-05-21 20:26:54"
+  },
+  {
+    "submission_id": "94549755",
+    "problem_id": "17256",
+    "problem_title": "달달함이 넘쳐흘러",
+    "language": "PyPy3",
+    "submission_time": "2025-05-20 17:26:16"
+  },
+  {
+    "submission_id": "94490291",
+    "problem_id": "14928",
+    "problem_title": "큰 수 (BIG)",
+    "language": "PyPy3",
+    "submission_time": "2025-05-19 11:10:54"
+  },
+  {
+    "submission_id": "94489769",
+    "problem_id": "25600",
+    "problem_title": "Triathlon",
+    "language": "PyPy3",
+    "submission_time": "2025-05-19 10:57:44"
+  },
+  {
+    "submission_id": "94489660",
+    "problem_id": "25600",
+    "problem_title": "Triathlon",
+    "language": "PyPy3",
+    "submission_time": "2025-05-19 10:54:47"
+  },
+  {
+    "submission_id": "94452870",
+    "problem_id": "24266",
+    "problem_title": "알고리즘 수업 - 알고리즘의 수행 시간 5",
+    "language": "PyPy3",
+    "submission_time": "2025-05-18 11:32:43"
+  },
+  {
+    "submission_id": "94405752",
+    "problem_id": "18245",
+    "problem_title": "이상한 나라의 암호",
+    "language": "PyPy3",
+    "submission_time": "2025-05-17 11:06:41"
+  },
+  {
+    "submission_id": "94405630",
+    "problem_id": "18245",
+    "problem_title": "이상한 나라의 암호",
+    "language": "PyPy3",
+    "submission_time": "2025-05-17 11:02:09"
+  },
+  {
+    "submission_id": "94363004",
+    "problem_id": "30403",
+    "problem_title": "무지개 만들기",
+    "language": "PyPy3",
+    "submission_time": "2025-05-16 09:32:26"
+  },
+  {
+    "submission_id": "94317354",
+    "problem_id": "1924",
+    "problem_title": "2007년",
+    "language": "PyPy3",
+    "submission_time": "2025-05-15 07:35:45"
+  },
+  {
+    "submission_id": "94299788",
+    "problem_id": "23246",
+    "problem_title": "Sport Climbing Combined",
+    "language": "PyPy3",
+    "submission_time": "2025-05-14 19:35:14"
+  },
+  {
+    "submission_id": "94235723",
+    "problem_id": "15633",
+    "problem_title": "Fan Death",
+    "language": "PyPy3",
+    "submission_time": "2025-05-13 13:22:46"
+  },
+  {
+    "submission_id": "94235641",
+    "problem_id": "15633",
+    "problem_title": "Fan Death",
+    "language": "PyPy3",
+    "submission_time": "2025-05-13 13:20:20"
+  },
+  {
+    "submission_id": "94181562",
+    "problem_id": "2742",
+    "problem_title": "기찍 N",
+    "language": "PyPy3",
+    "submission_time": "2025-05-12 09:12:08"
+  },
+  {
+    "submission_id": "94181387",
+    "problem_id": "15873",
+    "problem_title": "공백 없는 A+B",
+    "language": "PyPy3",
+    "submission_time": "2025-05-12 09:01:32"
+  },
+  {
+    "submission_id": "94149616",
+    "problem_id": "25238",
+    "problem_title": "가희와 방어율 무시",
+    "language": "PyPy3",
+    "submission_time": "2025-05-11 12:20:46"
+  },
+  {
+    "submission_id": "94110070",
+    "problem_id": "7510",
+    "problem_title": "고급 수학",
+    "language": "PyPy3",
+    "submission_time": "2025-05-10 11:46:44"
+  },
+  {
+    "submission_id": "94110031",
+    "problem_id": "7510",
+    "problem_title": "고급 수학",
+    "language": "PyPy3",
+    "submission_time": "2025-05-10 11:45:37"
+  },
+  {
+    "submission_id": "94071106",
+    "problem_id": "2605",
+    "problem_title": "줄 세우기",
+    "language": "PyPy3",
+    "submission_time": "2025-05-09 11:04:01"
+  },
+  {
+    "submission_id": "94054580",
+    "problem_id": "17173",
+    "problem_title": "배수들의 합",
+    "language": "PyPy3",
+    "submission_time": "2025-05-08 21:06:22"
+  },
+  {
+    "submission_id": "94054521",
+    "problem_id": "17173",
+    "problem_title": "배수들의 합",
+    "language": "PyPy3",
+    "submission_time": "2025-05-08 21:04:33"
+  },
+  {
+    "submission_id": "94007128",
+    "problem_id": "25206",
+    "problem_title": "너의 평점은",
+    "language": "PyPy3",
+    "submission_time": "2025-05-07 19:47:32"
+  },
+  {
+    "submission_id": "93947161",
+    "problem_id": "2231",
+    "problem_title": "분해합",
+    "language": "PyPy3",
+    "submission_time": "2025-05-06 14:06:45"
+  },
+  {
+    "submission_id": "93942136",
+    "problem_id": "28352",
+    "problem_title": "10!",
+    "language": "PyPy3",
+    "submission_time": "2025-05-06 10:48:08"
+  },
+  {
+    "submission_id": "93919836",
+    "problem_id": "16953",
+    "problem_title": "A → B",
+    "language": "PyPy3",
+    "submission_time": "2025-05-05 16:36:00"
+  },
+  {
+    "submission_id": "93919480",
+    "problem_id": "11725",
+    "problem_title": "트리의 부모 찾기",
+    "language": "PyPy3",
+    "submission_time": "2025-05-05 16:26:31"
+  },
+  {
+    "submission_id": "93910723",
+    "problem_id": "20254",
+    "problem_title": "Site Score",
+    "language": "PyPy3",
+    "submission_time": "2025-05-05 11:38:56"
+  },
+  {
+    "submission_id": "93910670",
+    "problem_id": "24723",
+    "problem_title": "녹색거탑",
+    "language": "PyPy3",
+    "submission_time": "2025-05-05 11:36:33"
+  },
+  {
+    "submission_id": "93880965",
+    "problem_id": "4806",
+    "problem_title": "줄 세기",
+    "language": "PyPy3",
+    "submission_time": "2025-05-04 11:29:05"
+  },
+  {
+    "submission_id": "93849516",
+    "problem_id": "2577",
+    "problem_title": "숫자의 개수",
+    "language": "PyPy3",
+    "submission_time": "2025-05-03 11:35:10"
+  },
+  {
+    "submission_id": "93849449",
+    "problem_id": "2577",
+    "problem_title": "숫자의 개수",
+    "language": "PyPy3",
+    "submission_time": "2025-05-03 11:32:45"
+  },
+  {
+    "submission_id": "93825680",
+    "problem_id": "2167",
+    "problem_title": "2차원 배열의 합",
+    "language": "PyPy3",
+    "submission_time": "2025-05-02 15:52:01"
+  },
+  {
+    "submission_id": "93825452",
+    "problem_id": "11659",
+    "problem_title": "구간 합 구하기 4",
+    "language": "PyPy3",
+    "submission_time": "2025-05-02 15:47:23"
+  },
+  {
+    "submission_id": "93825262",
+    "problem_id": "11660",
+    "problem_title": "구간 합 구하기 5",
+    "language": "PyPy3",
+    "submission_time": "2025-05-02 15:43:28"
+  },
+  {
+    "submission_id": "93824384",
+    "problem_id": "2448",
+    "problem_title": "별 찍기 - 11",
+    "language": "PyPy3",
+    "submission_time": "2025-05-02 15:23:27"
+  },
+  {
+    "submission_id": "93816288",
+    "problem_id": "11094",
+    "problem_title": "꿍 가라사대",
+    "language": "PyPy3",
+    "submission_time": "2025-05-02 11:15:24"
+  },
+  {
+    "submission_id": "93816197",
+    "problem_id": "11094",
+    "problem_title": "꿍 가라사대",
+    "language": "PyPy3",
+    "submission_time": "2025-05-02 11:12:13"
+  },
+  {
+    "submission_id": "93781200",
+    "problem_id": "28432",
+    "problem_title": "끝말잇기",
+    "language": "PyPy3",
+    "submission_time": "2025-05-01 12:09:52"
+  },
+  {
+    "submission_id": "93769960",
+    "problem_id": "1271",
+    "problem_title": "엄청난 부자2",
+    "language": "PyPy3",
+    "submission_time": "2025-04-30 23:27:25"
+  },
+  {
+    "submission_id": "93695137",
+    "problem_id": "4740",
+    "problem_title": "거울, 오! 거울",
+    "language": "PyPy3",
+    "submission_time": "2025-04-29 10:56:43"
+  },
+  {
+    "submission_id": "93695113",
+    "problem_id": "4740",
+    "problem_title": "거울, 오! 거울",
+    "language": "PyPy3",
+    "submission_time": "2025-04-29 10:56:02"
+  },
+  {
+    "submission_id": "93652949",
+    "problem_id": "31518",
+    "problem_title": "Triple Sevens",
+    "language": "PyPy3",
+    "submission_time": "2025-04-28 09:18:09"
+  },
+  {
+    "submission_id": "93621305",
+    "problem_id": "32651",
+    "problem_title": "인간은 무엇인가",
+    "language": "PyPy3",
+    "submission_time": "2025-04-27 10:35:32"
+  },
+  {
+    "submission_id": "93621284",
+    "problem_id": "32651",
+    "problem_title": "인간은 무엇인가",
+    "language": "PyPy3",
+    "submission_time": "2025-04-27 10:34:19"
+  },
+  {
+    "submission_id": "93621057",
+    "problem_id": "16483",
+    "problem_title": "접시 안의 원",
+    "language": "PyPy3",
+    "submission_time": "2025-04-27 10:21:12"
+  },
+  {
+    "submission_id": "93621030",
+    "problem_id": "16483",
+    "problem_title": "접시 안의 원",
+    "language": "PyPy3",
+    "submission_time": "2025-04-27 10:19:52"
+  },
+  {
+    "submission_id": "93588715",
+    "problem_id": "7523",
+    "problem_title": "Gauß",
+    "language": "PyPy3",
+    "submission_time": "2025-04-26 09:58:32"
+  },
+  {
+    "submission_id": "93588702",
+    "problem_id": "7523",
+    "problem_title": "Gauß",
+    "language": "PyPy3",
+    "submission_time": "2025-04-26 09:57:23"
+  },
+  {
+    "submission_id": "93588698",
+    "problem_id": "7523",
+    "problem_title": "Gauß",
+    "language": "PyPy3",
+    "submission_time": "2025-04-26 09:56:50"
+  },
+  {
+    "submission_id": "93554729",
+    "problem_id": "14710",
+    "problem_title": "고장난 시계",
+    "language": "PyPy3",
+    "submission_time": "2025-04-25 10:00:10"
+  },
+  {
+    "submission_id": "93545758",
+    "problem_id": "15641",
+    "problem_title": "SUPER SUPER BINARY SEARCH DELUXE 2.5: THE LEGEND OF THE GOLDEN MAZASSUMNIDA, EPISODE 2: THE MAZWAETL UNIVERSE, PART 2: THE PARALLEL UNIVERSE AND THE LOST MAZASSUMNIDA: GAME OF THE YEAR EDITION",
+    "language": "Text",
+    "submission_time": "2025-04-24 23:31:41"
+  },
+  {
+    "submission_id": "93545192",
+    "problem_id": "15947",
+    "problem_title": "아기 석환 뚜루루 뚜루",
+    "language": "PyPy3",
+    "submission_time": "2025-04-24 23:18:15"
+  },
+  {
+    "submission_id": "93479672",
+    "problem_id": "2743",
+    "problem_title": "단어 길이 재기",
+    "language": "PyPy3",
+    "submission_time": "2025-04-23 11:59:53"
+  },
+  {
+    "submission_id": "93434344",
+    "problem_id": "28701",
+    "problem_title": "세제곱의 합",
+    "language": "PyPy3",
+    "submission_time": "2025-04-22 09:00:26"
+  },
+  {
+    "submission_id": "93434182",
+    "problem_id": "14470",
+    "problem_title": "전자레인지",
+    "language": "PyPy3",
+    "submission_time": "2025-04-22 08:52:11"
+  },
+  {
+    "submission_id": "93394729",
+    "problem_id": "13623",
+    "problem_title": "Zero or One",
+    "language": "PyPy3",
+    "submission_time": "2025-04-21 10:24:53"
+  },
+  {
+    "submission_id": "93359505",
+    "problem_id": "2914",
+    "problem_title": "저작권",
+    "language": "PyPy3",
+    "submission_time": "2025-04-20 11:12:50"
+  },
+  {
+    "submission_id": "93317437",
+    "problem_id": "3040",
+    "problem_title": "백설 공주와 일곱 난쟁이",
+    "language": "PyPy3",
+    "submission_time": "2025-04-19 10:11:58"
+  },
+  {
+    "submission_id": "93317382",
+    "problem_id": "3040",
+    "problem_title": "백설 공주와 일곱 난쟁이",
+    "language": "PyPy3",
+    "submission_time": "2025-04-19 10:09:50"
+  },
+  {
+    "submission_id": "93317311",
+    "problem_id": "3040",
+    "problem_title": "백설 공주와 일곱 난쟁이",
+    "language": "PyPy3",
+    "submission_time": "2025-04-19 10:05:26"
+  },
+  {
+    "submission_id": "93292137",
+    "problem_id": "25400",
+    "problem_title": "제자리",
+    "language": "PyPy3",
+    "submission_time": "2025-04-18 16:12:48"
+  },
+  {
+    "submission_id": "93292000",
+    "problem_id": "25400",
+    "problem_title": "제자리",
+    "language": "PyPy3",
+    "submission_time": "2025-04-18 16:10:00"
+  },
+  {
+    "submission_id": "93291877",
+    "problem_id": "25400",
+    "problem_title": "제자리",
+    "language": "PyPy3",
+    "submission_time": "2025-04-18 16:07:34"
+  },
+  {
+    "submission_id": "93291822",
+    "problem_id": "25400",
+    "problem_title": "제자리",
+    "language": "PyPy3",
+    "submission_time": "2025-04-18 16:06:43"
+  },
+  {
+    "submission_id": "93256020",
+    "problem_id": "18269",
+    "problem_title": "Where Am I?",
+    "language": "PyPy3",
+    "submission_time": "2025-04-17 19:30:29"
+  },
+  {
+    "submission_id": "93255844",
+    "problem_id": "18269",
+    "problem_title": "Where Am I?",
+    "language": "PyPy3",
+    "submission_time": "2025-04-17 19:25:57"
+  },
+  {
+    "submission_id": "93213567",
+    "problem_id": "15680",
+    "problem_title": "연세대학교",
+    "language": "PyPy3",
+    "submission_time": "2025-04-16 21:09:21"
+  },
+  {
+    "submission_id": "93131195",
+    "problem_id": "9288",
+    "problem_title": "More Dice",
+    "language": "PyPy3",
+    "submission_time": "2025-04-15 10:20:17"
+  },
+  {
+    "submission_id": "93079645",
+    "problem_id": "27465",
+    "problem_title": "소수가 아닌 수",
+    "language": "PyPy3",
+    "submission_time": "2025-04-14 09:24:36"
+  },
+  {
+    "submission_id": "93079626",
+    "problem_id": "27465",
+    "problem_title": "소수가 아닌 수",
+    "language": "PyPy3",
+    "submission_time": "2025-04-14 09:23:58"
+  },
+  {
+    "submission_id": "93079594",
+    "problem_id": "27465",
+    "problem_title": "소수가 아닌 수",
+    "language": "PyPy3",
+    "submission_time": "2025-04-14 09:22:51"
+  },
+  {
+    "submission_id": "93043029",
+    "problem_id": "17072",
+    "problem_title": "아스키 아트",
+    "language": "PyPy3",
+    "submission_time": "2025-04-13 11:30:21"
+  },
+  {
+    "submission_id": "93042504",
+    "problem_id": "26566",
+    "problem_title": "Pizza",
+    "language": "PyPy3",
+    "submission_time": "2025-04-13 11:10:22"
+  },
+  {
+    "submission_id": "93042476",
+    "problem_id": "2991",
+    "problem_title": "사나운 개",
+    "language": "PyPy3",
+    "submission_time": "2025-04-13 11:09:11"
+  },
+  {
+    "submission_id": "93042368",
+    "problem_id": "2991",
+    "problem_title": "사나운 개",
+    "language": "PyPy3",
+    "submission_time": "2025-04-13 11:04:52"
+  },
+  {
+    "submission_id": "93042339",
+    "problem_id": "2991",
+    "problem_title": "사나운 개",
+    "language": "PyPy3",
+    "submission_time": "2025-04-13 11:03:46"
+  },
+  {
+    "submission_id": "93042271",
+    "problem_id": "2991",
+    "problem_title": "사나운 개",
+    "language": "PyPy3",
+    "submission_time": "2025-04-13 11:01:14"
+  },
+  {
+    "submission_id": "93036559",
+    "problem_id": "26566",
+    "problem_title": "Pizza",
+    "language": "PyPy3",
+    "submission_time": "2025-04-13 01:05:17"
+  },
+  {
+    "submission_id": "93036500",
+    "problem_id": "26566",
+    "problem_title": "Pizza",
+    "language": "PyPy3",
+    "submission_time": "2025-04-13 01:02:46"
+  },
+  {
+    "submission_id": "93036017",
+    "problem_id": "26566",
+    "problem_title": "Pizza",
+    "language": "PyPy3",
+    "submission_time": "2025-04-13 00:44:29"
+  },
+  {
+    "submission_id": "93036010",
+    "problem_id": "26566",
+    "problem_title": "Pizza",
+    "language": "PyPy3",
+    "submission_time": "2025-04-13 00:44:15"
+  },
+  {
+    "submission_id": "93031167",
+    "problem_id": "26566",
+    "problem_title": "Pizza",
+    "language": "PyPy3",
+    "submission_time": "2025-04-12 22:55:42"
+  },
+  {
+    "submission_id": "92952059",
+    "problem_id": "29807",
+    "problem_title": "학번을 찾아줘!",
+    "language": "PyPy3",
+    "submission_time": "2025-04-11 10:30:35"
+  },
+  {
+    "submission_id": "92890522",
+    "problem_id": "32775",
+    "problem_title": "가희와 4시간의 벽 1",
+    "language": "PyPy3",
+    "submission_time": "2025-04-10 08:42:59"
+  },
+  {
+    "submission_id": "92890482",
+    "problem_id": "32775",
+    "problem_title": "가희와 4시간의 벽 1",
+    "language": "PyPy3",
+    "submission_time": "2025-04-10 08:40:48"
+  },
+  {
+    "submission_id": "92836251",
+    "problem_id": "10718",
+    "problem_title": "We love kriii",
+    "language": "PyPy3",
+    "submission_time": "2025-04-09 11:29:55"
+  },
+  {
+    "submission_id": "92768702",
+    "problem_id": "14954",
+    "problem_title": "Happy Number",
+    "language": "PyPy3",
+    "submission_time": "2025-04-08 09:43:32"
+  },
+  {
+    "submission_id": "92711450",
+    "problem_id": "3578",
+    "problem_title": "Holes",
+    "language": "PyPy3",
+    "submission_time": "2025-04-07 11:42:41"
+  },
+  {
+    "submission_id": "92711364",
+    "problem_id": "3578",
+    "problem_title": "Holes",
+    "language": "PyPy3",
+    "submission_time": "2025-04-07 11:40:53"
+  },
+  {
+    "submission_id": "92711229",
+    "problem_id": "3578",
+    "problem_title": "Holes",
+    "language": "PyPy3",
+    "submission_time": "2025-04-07 11:38:23"
+  },
+  {
+    "submission_id": "92711164",
+    "problem_id": "3578",
+    "problem_title": "Holes",
+    "language": "PyPy3",
+    "submission_time": "2025-04-07 11:37:02"
+  },
+  {
+    "submission_id": "92710433",
+    "problem_id": "9550",
+    "problem_title": "아이들은 사탕을 좋아해",
+    "language": "PyPy3",
+    "submission_time": "2025-04-07 11:22:19"
+  },
+  {
+    "submission_id": "92710358",
+    "problem_id": "9550",
+    "problem_title": "아이들은 사탕을 좋아해",
+    "language": "PyPy3",
+    "submission_time": "2025-04-07 11:20:43"
+  },
+  {
+    "submission_id": "92657702",
+    "problem_id": "27590",
+    "problem_title": "Sun and Moon",
+    "language": "PyPy3",
+    "submission_time": "2025-04-06 10:36:11"
+  },
+  {
+    "submission_id": "92641761",
+    "problem_id": "30876",
+    "problem_title": "Tren del Fin del Mundo",
+    "language": "PyPy3",
+    "submission_time": "2025-04-05 21:51:51"
+  },
+  {
+    "submission_id": "92564367",
+    "problem_id": "21633",
+    "problem_title": "Bank Transfer",
+    "language": "PyPy3",
+    "submission_time": "2025-04-04 11:31:13"
+  },
+  {
+    "submission_id": "92532192",
+    "problem_id": "27294",
+    "problem_title": "몇개고?",
+    "language": "PyPy3",
+    "submission_time": "2025-04-03 19:31:31"
+  },
+  {
+    "submission_id": "92477185",
+    "problem_id": "20492",
+    "problem_title": "세금",
+    "language": "PyPy3",
+    "submission_time": "2025-04-02 22:17:44"
+  },
+  {
+    "submission_id": "92349916",
+    "problem_id": "10804",
+    "problem_title": "카드 역배치",
+    "language": "PyPy3",
+    "submission_time": "2025-04-01 09:06:55"
+  },
+  {
+    "submission_id": "92293834",
+    "problem_id": "31868",
+    "problem_title": "수박 게임",
+    "language": "PyPy3",
+    "submission_time": "2025-03-31 11:46:03"
+  },
+  {
+    "submission_id": "92247476",
+    "problem_id": "15624",
+    "problem_title": "피보나치 수 7",
+    "language": "PyPy3",
+    "submission_time": "2025-03-30 13:25:51"
+  },
+  {
+    "submission_id": "92247451",
+    "problem_id": "10870",
+    "problem_title": "피보나치 수 5",
+    "language": "PyPy3",
+    "submission_time": "2025-03-30 13:25:08"
+  },
+  {
+    "submission_id": "92247381",
+    "problem_id": "10826",
+    "problem_title": "피보나치 수 4",
+    "language": "PyPy3",
+    "submission_time": "2025-03-30 13:23:36"
+  },
+  {
+    "submission_id": "92247362",
+    "problem_id": "4150",
+    "problem_title": "피보나치 수",
+    "language": "PyPy3",
+    "submission_time": "2025-03-30 13:23:01"
+  },
+  {
+    "submission_id": "92247280",
+    "problem_id": "2748",
+    "problem_title": "피보나치 수 2",
+    "language": "PyPy3",
+    "submission_time": "2025-03-30 13:20:54"
+  },
+  {
+    "submission_id": "92247256",
+    "problem_id": "2747",
+    "problem_title": "피보나치 수",
+    "language": "PyPy3",
+    "submission_time": "2025-03-30 13:20:10"
+  },
+  {
+    "submission_id": "92244780",
+    "problem_id": "2749",
+    "problem_title": "피보나치 수 3",
+    "language": "PyPy3",
+    "submission_time": "2025-03-30 12:09:27"
+  },
+  {
+    "submission_id": "92244724",
+    "problem_id": "11444",
+    "problem_title": "피보나치 수 6",
+    "language": "PyPy3",
+    "submission_time": "2025-03-30 12:07:36"
+  },
+  {
+    "submission_id": "92244261",
+    "problem_id": "32215",
+    "problem_title": "코드마스터 2024",
+    "language": "PyPy3",
+    "submission_time": "2025-03-30 11:54:29"
+  },
+  {
+    "submission_id": "92243833",
+    "problem_id": "31668",
+    "problem_title": "특별한 가지",
+    "language": "PyPy3",
+    "submission_time": "2025-03-30 11:44:46"
+  },
+  {
+    "submission_id": "92223724",
+    "problem_id": "9663",
+    "problem_title": "N-Queen",
+    "language": "PyPy3",
+    "submission_time": "2025-03-29 20:55:16"
+  },
+  {
+    "submission_id": "92194562",
+    "problem_id": "3765",
+    "problem_title": "Celebrity jeopardy",
+    "language": "PyPy3",
+    "submission_time": "2025-03-29 10:41:08"
+  },
+  {
+    "submission_id": "92147108",
+    "problem_id": "23825",
+    "problem_title": "SASA 모형을 만들어보자",
+    "language": "PyPy3",
+    "submission_time": "2025-03-28 10:32:22"
+  },
+  {
+    "submission_id": "92147093",
+    "problem_id": "23825",
+    "problem_title": "SASA 모형을 만들어보자",
+    "language": "PyPy3",
+    "submission_time": "2025-03-28 10:31:51"
+  },
+  {
+    "submission_id": "92084875",
+    "problem_id": "15000",
+    "problem_title": "CAPS",
+    "language": "PyPy3",
+    "submission_time": "2025-03-27 09:07:26"
+  },
+  {
+    "submission_id": "92076528",
+    "problem_id": "8393",
+    "problem_title": "합",
+    "language": "PyPy3",
+    "submission_time": "2025-03-26 23:32:52"
+  },
+  {
+    "submission_id": "92003748",
+    "problem_id": "15666",
+    "problem_title": "N과 M (12)",
+    "language": "PyPy3",
+    "submission_time": "2025-03-25 20:16:49"
+  },
+  {
+    "submission_id": "91909918",
+    "problem_id": "15663",
+    "problem_title": "N과 M (9)",
+    "language": "PyPy3",
+    "submission_time": "2025-03-24 12:21:33"
+  },
+  {
+    "submission_id": "91858995",
+    "problem_id": "20001",
+    "problem_title": "고무오리 디버깅",
+    "language": "PyPy3",
+    "submission_time": "2025-03-23 11:12:51"
+  },
+  {
+    "submission_id": "91858834",
+    "problem_id": "20001",
+    "problem_title": "고무오리 디버깅",
+    "language": "PyPy3",
+    "submission_time": "2025-03-23 11:04:11"
+  },
+  {
+    "submission_id": "91858710",
+    "problem_id": "30032",
+    "problem_title": "알파벳 뒤집기",
+    "language": "PyPy3",
+    "submission_time": "2025-03-23 10:56:49"
+  },
+  {
+    "submission_id": "91811839",
+    "problem_id": "25625",
+    "problem_title": "샤틀버스",
+    "language": "PyPy3",
+    "submission_time": "2025-03-22 09:03:45"
+  },
+  {
+    "submission_id": "91811807",
+    "problem_id": "19698",
+    "problem_title": "헛간 청약",
+    "language": "PyPy3",
+    "submission_time": "2025-03-22 09:00:37"
+  },
+  {
+    "submission_id": "91774381",
+    "problem_id": "2083",
+    "problem_title": "럭비 클럽",
+    "language": "PyPy3",
+    "submission_time": "2025-03-21 15:35:53"
+  },
+  {
+    "submission_id": "91773910",
+    "problem_id": "32951",
+    "problem_title": "AI 선도대학",
+    "language": "PyPy3",
+    "submission_time": "2025-03-21 15:29:05"
+  },
+  {
+    "submission_id": "91691399",
+    "problem_id": "11021",
+    "problem_title": "A+B - 7",
+    "language": "PyPy3",
+    "submission_time": "2025-03-20 10:56:52"
+  },
+  {
+    "submission_id": "91672426",
+    "problem_id": "2739",
+    "problem_title": "구구단",
+    "language": "PyPy3",
+    "submission_time": "2025-03-19 22:53:21"
+  },
+  {
+    "submission_id": "91565306",
+    "problem_id": "26145",
+    "problem_title": "출제비 재분배",
+    "language": "PyPy3",
+    "submission_time": "2025-03-18 11:34:21"
+  },
+  {
+    "submission_id": "91564913",
+    "problem_id": "4635",
+    "problem_title": "Speed Limit",
+    "language": "PyPy3",
+    "submission_time": "2025-03-18 11:27:26"
+  },
+  {
+    "submission_id": "91564693",
+    "problem_id": "4635",
+    "problem_title": "Speed Limit",
+    "language": "PyPy3",
+    "submission_time": "2025-03-18 11:23:40"
+  },
+  {
+    "submission_id": "91505264",
+    "problem_id": "5337",
+    "problem_title": "웰컴",
+    "language": "Text",
+    "submission_time": "2025-03-17 12:24:56"
+  },
+  {
+    "submission_id": "91454014",
+    "problem_id": "26560",
+    "problem_title": "Periods",
+    "language": "PyPy3",
+    "submission_time": "2025-03-16 11:43:24"
+  },
+  {
+    "submission_id": "91453989",
+    "problem_id": "26560",
+    "problem_title": "Periods",
+    "language": "PyPy3",
+    "submission_time": "2025-03-16 11:42:29"
+  },
+  {
+    "submission_id": "91453857",
+    "problem_id": "21612",
+    "problem_title": "Boiling Water",
+    "language": "PyPy3",
+    "submission_time": "2025-03-16 11:37:26"
+  },
+  {
+    "submission_id": "91447994",
+    "problem_id": "2338",
+    "problem_title": "긴자리 계산",
+    "language": "PyPy3",
+    "submission_time": "2025-03-16 02:31:18"
+  },
+  {
+    "submission_id": "91363145",
+    "problem_id": "1008",
+    "problem_title": "A/B",
+    "language": "PyPy3",
+    "submission_time": "2025-03-14 11:57:53"
+  },
+  {
+    "submission_id": "91311992",
+    "problem_id": "5554",
+    "problem_title": "심부름 가는 길",
+    "language": "PyPy3",
+    "submission_time": "2025-03-13 12:40:12"
+  },
+  {
+    "submission_id": "91281191",
+    "problem_id": "2530",
+    "problem_title": "인공지능 시계",
+    "language": "PyPy3",
+    "submission_time": "2025-03-12 19:33:04"
+  },
+  {
+    "submission_id": "91280861",
+    "problem_id": "6840",
+    "problem_title": "Who is in the middle?",
+    "language": "PyPy3",
+    "submission_time": "2025-03-12 19:26:33"
+  },
+  {
+    "submission_id": "91280580",
+    "problem_id": "15962",
+    "problem_title": "새로운 시작",
+    "language": "Text",
+    "submission_time": "2025-03-12 19:21:32"
+  },
+  {
+    "submission_id": "91212641",
+    "problem_id": "15654",
+    "problem_title": "N과 M (5)",
+    "language": "PyPy3",
+    "submission_time": "2025-03-11 16:29:49"
+  },
+  {
+    "submission_id": "91139109",
+    "problem_id": "15652",
+    "problem_title": "N과 M (4)",
+    "language": "PyPy3",
+    "submission_time": "2025-03-10 12:09:06"
+  },
+  {
+    "submission_id": "91139085",
+    "problem_id": "15652",
+    "problem_title": "N과 M (4)",
+    "language": "PyPy3",
+    "submission_time": "2025-03-10 12:08:11"
+  },
+  {
+    "submission_id": "91129613",
+    "problem_id": "15552",
+    "problem_title": "빠른 A+B",
+    "language": "node.js",
+    "submission_time": "2025-03-10 04:10:19"
+  },
+  {
+    "submission_id": "91129594",
+    "problem_id": "15552",
+    "problem_title": "빠른 A+B",
+    "language": "node.js",
+    "submission_time": "2025-03-10 04:07:56"
+  },
+  {
+    "submission_id": "91089388",
+    "problem_id": "15650",
+    "problem_title": "N과 M (2)",
+    "language": "PyPy3",
+    "submission_time": "2025-03-09 11:16:30"
+  },
+  {
+    "submission_id": "91082908",
+    "problem_id": "3062",
+    "problem_title": "수 뒤집기",
+    "language": "PyPy3",
+    "submission_time": "2025-03-09 01:46:26"
+  },
+  {
+    "submission_id": "91048349",
+    "problem_id": "1629",
+    "problem_title": "곱셈",
+    "language": "PyPy3",
+    "submission_time": "2025-03-08 12:54:13"
+  },
+  {
+    "submission_id": "91046559",
+    "problem_id": "11648",
+    "problem_title": "지속",
+    "language": "PyPy3",
+    "submission_time": "2025-03-08 11:57:36"
+  },
+  {
+    "submission_id": "91040611",
+    "problem_id": "10950",
+    "problem_title": "A+B - 3",
+    "language": "PyPy3",
+    "submission_time": "2025-03-08 05:23:40"
+  },
+  {
+    "submission_id": "91040604",
+    "problem_id": "10950",
+    "problem_title": "A+B - 3",
+    "language": "PyPy3",
+    "submission_time": "2025-03-08 05:22:38"
+  },
+  {
+    "submission_id": "91040276",
+    "problem_id": "15552",
+    "problem_title": "빠른 A+B",
+    "language": "PyPy3",
+    "submission_time": "2025-03-08 04:20:27"
+  },
+  {
+    "submission_id": "91040259",
+    "problem_id": "15552",
+    "problem_title": "빠른 A+B",
+    "language": "PyPy3",
+    "submission_time": "2025-03-08 04:17:57"
+  },
+  {
+    "submission_id": "91040123",
+    "problem_id": "27890",
+    "problem_title": "특별한 작은 분수",
+    "language": "PyPy3",
+    "submission_time": "2025-03-08 03:59:24"
+  },
+  {
+    "submission_id": "90991578",
+    "problem_id": "25591",
+    "problem_title": "푸앙이와 종윤이",
+    "language": "PyPy3",
+    "submission_time": "2025-03-07 07:25:48"
+  },
+  {
+    "submission_id": "90991565",
+    "problem_id": "25591",
+    "problem_title": "푸앙이와 종윤이",
+    "language": "PyPy3",
+    "submission_time": "2025-03-07 07:22:59"
+  },
+  {
+    "submission_id": "90954721",
+    "problem_id": "10987",
+    "problem_title": "모음의 개수",
+    "language": "PyPy3",
+    "submission_time": "2025-03-06 15:05:26"
+  },
+  {
+    "submission_id": "90954674",
+    "problem_id": "10987",
+    "problem_title": "모음의 개수",
+    "language": "PyPy3",
+    "submission_time": "2025-03-06 15:04:40"
+  },
+  {
+    "submission_id": "90953942",
+    "problem_id": "31429",
+    "problem_title": "SUAPC 2023 Summer",
+    "language": "PyPy3",
+    "submission_time": "2025-03-06 14:53:17"
+  },
+  {
+    "submission_id": "90953657",
+    "problem_id": "31429",
+    "problem_title": "SUAPC 2023 Summer",
+    "language": "PyPy3",
+    "submission_time": "2025-03-06 14:48:51"
+  },
+  {
+    "submission_id": "90944663",
+    "problem_id": "3003",
+    "problem_title": "킹, 퀸, 룩, 비숍, 나이트, 폰",
+    "language": "PyPy3",
+    "submission_time": "2025-03-06 11:39:26"
+  },
+  {
+    "submission_id": "90944622",
+    "problem_id": "28444",
+    "problem_title": "HI-ARC=?",
+    "language": "PyPy3",
+    "submission_time": "2025-03-06 11:38:28"
+  },
+  {
+    "submission_id": "90888071",
+    "problem_id": "10869",
+    "problem_title": "사칙연산",
+    "language": "PyPy3",
+    "submission_time": "2025-03-05 10:57:48"
+  },
+  {
+    "submission_id": "90873842",
+    "problem_id": "10998",
+    "problem_title": "A×B",
+    "language": "PyPy3",
+    "submission_time": "2025-03-04 23:03:53"
+  },
+  {
+    "submission_id": "90798281",
+    "problem_id": "2869",
+    "problem_title": "달팽이는 올라가고 싶다",
+    "language": "PyPy3",
+    "submission_time": "2025-03-03 14:13:52"
+  },
+  {
+    "submission_id": "90798245",
+    "problem_id": "2869",
+    "problem_title": "달팽이는 올라가고 싶다",
+    "language": "PyPy3",
+    "submission_time": "2025-03-03 14:12:54"
+  },
+  {
+    "submission_id": "90798196",
+    "problem_id": "2869",
+    "problem_title": "달팽이는 올라가고 싶다",
+    "language": "PyPy3",
+    "submission_time": "2025-03-03 14:11:45"
+  },
+  {
+    "submission_id": "90797959",
+    "problem_id": "10773",
+    "problem_title": "제로",
+    "language": "PyPy3",
+    "submission_time": "2025-03-03 14:04:31"
+  },
+  {
+    "submission_id": "90797590",
+    "problem_id": "1436",
+    "problem_title": "영화감독 숌",
+    "language": "PyPy3",
+    "submission_time": "2025-03-03 13:54:26"
+  },
+  {
+    "submission_id": "90797554",
+    "problem_id": "1436",
+    "problem_title": "영화감독 숌",
+    "language": "PyPy3",
+    "submission_time": "2025-03-03 13:53:28"
+  },
+  {
+    "submission_id": "90797330",
+    "problem_id": "1181",
+    "problem_title": "단어 정렬",
+    "language": "PyPy3",
+    "submission_time": "2025-03-03 13:47:20"
+  },
+  {
+    "submission_id": "90795314",
+    "problem_id": "10814",
+    "problem_title": "나이순 정렬",
+    "language": "PyPy3",
+    "submission_time": "2025-03-03 12:44:17"
+  },
+  {
+    "submission_id": "90795070",
+    "problem_id": "11651",
+    "problem_title": "좌표 정렬하기 2",
+    "language": "PyPy3",
+    "submission_time": "2025-03-03 12:36:36"
+  },
+  {
+    "submission_id": "90795024",
+    "problem_id": "11651",
+    "problem_title": "좌표 정렬하기 2",
+    "language": "PyPy3",
+    "submission_time": "2025-03-03 12:35:12"
+  },
+  {
+    "submission_id": "90794272",
+    "problem_id": "11650",
+    "problem_title": "좌표 정렬하기",
+    "language": "PyPy3",
+    "submission_time": "2025-03-03 12:08:25"
+  },
+  {
+    "submission_id": "90794057",
+    "problem_id": "2751",
+    "problem_title": "수 정렬하기 2",
+    "language": "PyPy3",
+    "submission_time": "2025-03-03 12:00:19"
+  },
+  {
+    "submission_id": "90793957",
+    "problem_id": "2751",
+    "problem_title": "수 정렬하기 2",
+    "language": "PyPy3",
+    "submission_time": "2025-03-03 11:55:55"
+  },
+  {
+    "submission_id": "90793887",
+    "problem_id": "2751",
+    "problem_title": "수 정렬하기 2",
+    "language": "PyPy3",
+    "submission_time": "2025-03-03 11:52:12"
+  },
+  {
+    "submission_id": "90793683",
+    "problem_id": "11401",
+    "problem_title": "이항 계수 3",
+    "language": "PyPy3",
+    "submission_time": "2025-03-03 11:44:40"
+  },
+  {
+    "submission_id": "90793543",
+    "problem_id": "11401",
+    "problem_title": "이항 계수 3",
+    "language": "PyPy3",
+    "submission_time": "2025-03-03 11:39:47"
+  },
+  {
+    "submission_id": "90793280",
+    "problem_id": "11051",
+    "problem_title": "이항 계수 2",
+    "language": "PyPy3",
+    "submission_time": "2025-03-03 11:30:11"
+  },
+  {
+    "submission_id": "90793250",
+    "problem_id": "11050",
+    "problem_title": "이항 계수 1",
+    "language": "PyPy3",
+    "submission_time": "2025-03-03 11:29:11"
+  },
+  {
+    "submission_id": "90793210",
+    "problem_id": "11050",
+    "problem_title": "이항 계수 1",
+    "language": "PyPy3",
+    "submission_time": "2025-03-03 11:27:48"
+  },
+  {
+    "submission_id": "90787134",
+    "problem_id": "10989",
+    "problem_title": "수 정렬하기 3",
+    "language": "Python 3",
+    "submission_time": "2025-03-03 01:26:15"
+  },
+  {
+    "submission_id": "90755641",
+    "problem_id": "1676",
+    "problem_title": "팩토리얼 0의 개수",
+    "language": "PyPy3",
+    "submission_time": "2025-03-02 13:41:15"
+  },
+  {
+    "submission_id": "90755532",
+    "problem_id": "1676",
+    "problem_title": "팩토리얼 0의 개수",
+    "language": "PyPy3",
+    "submission_time": "2025-03-02 13:38:14"
+  },
+  {
+    "submission_id": "90755168",
+    "problem_id": "2231",
+    "problem_title": "분해합",
+    "language": "PyPy3",
+    "submission_time": "2025-03-02 13:27:51"
+  },
+  {
+    "submission_id": "90754405",
+    "problem_id": "2292",
+    "problem_title": "벌집",
+    "language": "PyPy3",
+    "submission_time": "2025-03-02 13:05:58"
+  },
+  {
+    "submission_id": "90751364",
+    "problem_id": "4153",
+    "problem_title": "직각삼각형",
+    "language": "PyPy3",
+    "submission_time": "2025-03-02 11:18:08"
+  },
+  {
+    "submission_id": "90751197",
+    "problem_id": "27433",
+    "problem_title": "팩토리얼 2",
+    "language": "PyPy3",
+    "submission_time": "2025-03-02 11:08:08"
+  },
+  {
+    "submission_id": "90747171",
+    "problem_id": "25372",
+    "problem_title": "성택이의 은밀한 비밀번호",
+    "language": "PyPy3",
+    "submission_time": "2025-03-02 02:13:47"
+  },
+  {
+    "submission_id": "90747147",
+    "problem_id": "25372",
+    "problem_title": "성택이의 은밀한 비밀번호",
+    "language": "PyPy3",
+    "submission_time": "2025-03-02 02:12:17"
+  },
+  {
+    "submission_id": "90747008",
+    "problem_id": "24883",
+    "problem_title": "자동완성",
+    "language": "PyPy3",
+    "submission_time": "2025-03-02 02:04:47"
+  },
+  {
+    "submission_id": "90746961",
+    "problem_id": "24883",
+    "problem_title": "자동완성",
+    "language": "PyPy3",
+    "submission_time": "2025-03-02 02:03:00"
+  },
+  {
+    "submission_id": "90746881",
+    "problem_id": "27434",
+    "problem_title": "팩토리얼 3",
+    "language": "PyPy3",
+    "submission_time": "2025-03-02 01:59:28"
+  },
+  {
+    "submission_id": "90745369",
+    "problem_id": "11109",
+    "problem_title": "괴짜 교수",
+    "language": "PyPy3",
+    "submission_time": "2025-03-02 00:57:44"
+  },
+  {
+    "submission_id": "90744932",
+    "problem_id": "2875",
+    "problem_title": "대회 or 인턴",
+    "language": "PyPy3",
+    "submission_time": "2025-03-02 00:44:23"
+  },
+  {
+    "submission_id": "90742192",
+    "problem_id": "1259",
+    "problem_title": "팰린드롬수",
+    "language": "PyPy3",
+    "submission_time": "2025-03-01 23:39:25"
+  },
+  {
+    "submission_id": "90742072",
+    "problem_id": "1259",
+    "problem_title": "팰린드롬수",
+    "language": "PyPy3",
+    "submission_time": "2025-03-01 23:37:11"
+  },
+  {
+    "submission_id": "90741930",
+    "problem_id": "1259",
+    "problem_title": "팰린드롬수",
+    "language": "PyPy3",
+    "submission_time": "2025-03-01 23:35:00"
+  },
+  {
+    "submission_id": "90694915",
+    "problem_id": "1546",
+    "problem_title": "평균",
+    "language": "PyPy3",
+    "submission_time": "2025-02-28 18:43:02"
+  },
+  {
+    "submission_id": "90694858",
+    "problem_id": "1546",
+    "problem_title": "평균",
+    "language": "PyPy3",
+    "submission_time": "2025-02-28 18:41:25"
+  },
+  {
+    "submission_id": "90694725",
+    "problem_id": "1546",
+    "problem_title": "평균",
+    "language": "PyPy3",
+    "submission_time": "2025-02-28 18:37:31"
+  },
+  {
+    "submission_id": "90694332",
+    "problem_id": "2609",
+    "problem_title": "최대공약수와 최소공배수",
+    "language": "PyPy3",
+    "submission_time": "2025-02-28 18:27:16"
+  },
+  {
+    "submission_id": "90694310",
+    "problem_id": "2609",
+    "problem_title": "최대공약수와 최소공배수",
+    "language": "PyPy3",
+    "submission_time": "2025-02-28 18:26:30"
+  },
+  {
+    "submission_id": "90694198",
+    "problem_id": "2609",
+    "problem_title": "최대공약수와 최소공배수",
+    "language": "PyPy3",
+    "submission_time": "2025-02-28 18:23:44"
+  },
+  {
+    "submission_id": "90694027",
+    "problem_id": "2475",
+    "problem_title": "검증수",
+    "language": "PyPy3",
+    "submission_time": "2025-02-28 18:19:23"
+  },
+  {
+    "submission_id": "90693987",
+    "problem_id": "2475",
+    "problem_title": "검증수",
+    "language": "PyPy3",
+    "submission_time": "2025-02-28 18:18:27"
+  },
+  {
+    "submission_id": "90693879",
+    "problem_id": "2475",
+    "problem_title": "검증수",
+    "language": "PyPy3",
+    "submission_time": "2025-02-28 18:16:03"
+  },
+  {
+    "submission_id": "90693809",
+    "problem_id": "15964",
+    "problem_title": "이상한 기호",
+    "language": "PyPy3",
+    "submission_time": "2025-02-28 18:14:20"
+  },
+  {
+    "submission_id": "90693709",
+    "problem_id": "1001",
+    "problem_title": "A-B",
+    "language": "PyPy3",
+    "submission_time": "2025-02-28 18:11:46"
+  },
+  {
+    "submission_id": "90693649",
+    "problem_id": "25083",
+    "problem_title": "새싹",
+    "language": "PyPy3",
+    "submission_time": "2025-02-28 18:10:12"
+  },
+  {
+    "submission_id": "90693605",
+    "problem_id": "10171",
+    "problem_title": "고양이",
+    "language": "Text",
+    "submission_time": "2025-02-28 18:09:27"
+  },
+  {
+    "submission_id": "90688966",
+    "problem_id": "1000",
+    "problem_title": "A+B",
+    "language": "PyPy3",
+    "submission_time": "2025-02-28 16:42:55"
+  },
+  {
+    "submission_id": "90666222",
+    "problem_id": "27323",
+    "problem_title": "직사각형",
+    "language": "PyPy3",
+    "submission_time": "2025-02-28 00:21:13"
+  },
+  {
+    "submission_id": "90601024",
+    "problem_id": "14681",
+    "problem_title": "사분면 고르기",
+    "language": "PyPy3",
+    "submission_time": "2025-02-26 18:00:29"
+  },
+  {
+    "submission_id": "90561873",
+    "problem_id": "10172",
+    "problem_title": "개",
+    "language": "Text",
+    "submission_time": "2025-02-25 21:32:15"
+  },
+  {
+    "submission_id": "90507110",
+    "problem_id": "5338",
+    "problem_title": "마이크로소프트 로고",
+    "language": "Text",
+    "submission_time": "2025-02-24 18:29:05"
+  },
+  {
+    "submission_id": "90473544",
+    "problem_id": "14645",
+    "problem_title": "와이버스 부릉부릉",
+    "language": "Text",
+    "submission_time": "2025-02-23 22:22:05"
+  },
+  {
+    "submission_id": "90473517",
+    "problem_id": "14645",
+    "problem_title": "와이버스 부릉부릉",
+    "language": "PyPy3",
+    "submission_time": "2025-02-23 22:21:41"
+  },
+  {
+    "submission_id": "90410178",
+    "problem_id": "7287",
+    "problem_title": "등록",
+    "language": "PyPy3",
+    "submission_time": "2025-02-22 11:16:17"
+  },
+  {
+    "submission_id": "90381735",
+    "problem_id": "10699",
+    "problem_title": "오늘 날짜",
+    "language": "Text",
+    "submission_time": "2025-02-21 16:10:16"
+  },
+  {
+    "submission_id": "90381720",
+    "problem_id": "10699",
+    "problem_title": "오늘 날짜",
+    "language": "C#",
+    "submission_time": "2025-02-21 16:10:01"
+  },
+  {
+    "submission_id": "90381697",
+    "problem_id": "10699",
+    "problem_title": "오늘 날짜",
+    "language": "PyPy3",
+    "submission_time": "2025-02-21 16:09:37"
+  },
+  {
+    "submission_id": "90381683",
+    "problem_id": "10699",
+    "problem_title": "오늘 날짜",
+    "language": "node.js",
+    "submission_time": "2025-02-21 16:09:21"
+  },
+  {
+    "submission_id": "90381649",
+    "problem_id": "10699",
+    "problem_title": "오늘 날짜",
+    "language": "C++17",
+    "submission_time": "2025-02-21 16:08:41"
+  },
+  {
+    "submission_id": "90381637",
+    "problem_id": "10699",
+    "problem_title": "오늘 날짜",
+    "language": "C++17",
+    "submission_time": "2025-02-21 16:08:35"
+  },
+  {
+    "submission_id": "90357233",
+    "problem_id": "2557",
+    "problem_title": "Hello World",
+    "language": "C#",
+    "submission_time": "2025-02-20 23:22:56"
+  },
+  {
+    "submission_id": "90357205",
+    "problem_id": "2557",
+    "problem_title": "Hello World",
+    "language": "node.js",
+    "submission_time": "2025-02-20 23:22:25"
+  },
+  {
+    "submission_id": "90357164",
+    "problem_id": "2557",
+    "problem_title": "Hello World",
+    "language": "PyPy3",
+    "submission_time": "2025-02-20 23:21:28"
+  },
+  {
+    "submission_id": "90357149",
+    "problem_id": "2557",
+    "problem_title": "Hello World",
+    "language": "C++17",
+    "submission_time": "2025-02-20 23:21:13"
+  },
+  {
+    "submission_id": "90356881",
+    "problem_id": "2557",
+    "problem_title": "Hello World",
+    "language": "Python 3",
+    "submission_time": "2025-02-20 23:15:00"
+  }
+]

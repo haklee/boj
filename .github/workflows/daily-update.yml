@@ -1,0 +1,52 @@
+name: Daily Update
+
+on:
+  schedule:
+    # Run daily at 6:30 AM Seoul time (21:30 UTC)
+    - cron: '30 21 * * *'
+  workflow_dispatch: # Allow manual triggering
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+        fetch-depth: 0
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.9'
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+
+    - name: Run update_solved_problems.py
+      run: python update_solved_problems.py
+
+    - name: Run create_files.py
+      run: python create_files.py
+
+    - name: Run build_readme.py
+      run: python build_readme.py
+
+    - name: Configure git
+      run: |
+        git config --local user.email "haklee@haklee.com"
+        git config --local user.name "Hak Lee"
+
+    - name: Commit and push changes
+      run: |
+        git add .
+        if git diff --staged --quiet; then
+          echo "No changes to commit"
+        else
+          git commit -m "Daily update: $(date +'%Y-%m-%d')"
+          git push
+        fi 

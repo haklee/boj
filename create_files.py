@@ -24,7 +24,7 @@ def get_skip_list():
 
 def create_files():
     # Read the JSON file
-    with open('solved_problems.json', 'r', encoding='utf-8') as f:
+    with open('data/solved_problems.json', 'r', encoding='utf-8') as f:
         data = json.load(f)
     
     # Get skip list
