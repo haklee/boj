@@ -27,7 +27,6 @@
 | [1676](https://www.acmicpc.net/problem/1676) | 팩토리얼 0의 개수 | ✓ |   |   |   |   |
 | [1924](https://www.acmicpc.net/problem/1924) | 2007년 | ✓ |   |   |   |   |
 | [1932](https://www.acmicpc.net/problem/1932) | 정수 삼각형 | ✓ |   |   |   |   |
-| [1980](https://www.acmicpc.net/problem/1980) | 햄버거 사랑 | ✓ |   |   |   |   |
 | [1991](https://www.acmicpc.net/problem/1991) | 트리 순회 | ✓ |   |   |   |   |
 | [1996](https://www.acmicpc.net/problem/1996) | 지뢰 찾기 | ✓ |   |   |   |   |
 | [2083](https://www.acmicpc.net/problem/2083) | 럭비 클럽 | [✓](boj/2083/91774381.py) |   |   |   |   |
@@ -226,7 +225,6 @@
 | [31668](https://www.acmicpc.net/problem/31668) | 특별한 가지 | ✓ |   |   |   |   |
 | [31868](https://www.acmicpc.net/problem/31868) | 수박 게임 | ✓ |   |   |   |   |
 | [32158](https://www.acmicpc.net/problem/32158) | SWAPC | ✓ |   |   |   |   |
-| [32185](https://www.acmicpc.net/problem/32185) | 꿈 열정 나눔 | ✓ |   |   |   |   |
 | [32215](https://www.acmicpc.net/problem/32215) | 코드마스터 2024 | ✓ |   |   |   |   |
 | [32642](https://www.acmicpc.net/problem/32642) | 당구 좀 치자 제발 | ✓ |   |   |   |   |
 | [32651](https://www.acmicpc.net/problem/32651) | 인간은 무엇인가 | ✓ |   |   |   |   |
