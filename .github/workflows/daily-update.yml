@@ -6,13 +6,10 @@ on:
     - cron: '30 21 * * *'
   workflow_dispatch: # Allow manual triggering
 
-env:
-  # Setting an environment variable with the value of a configuration variable
-  env_var: ${{ vars.BOJ_VARS }}
-
 jobs:
   update:
     runs-on: ubuntu-latest
+    environment: boj_env
     
     steps:
     - name: Checkout repository
