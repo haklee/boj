@@ -9,9 +9,12 @@ on:
 jobs:
   update:
     runs-on: ubuntu-latest
-    environment: boj_env
-    
+
     steps:
+    - name: Create .env file
+      run: |
+        echo USER_ID=${{ vars.USER_ID }} >> .env
+
     - name: Checkout repository
       uses: actions/checkout@v4
       with:
