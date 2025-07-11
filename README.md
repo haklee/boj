@@ -27,6 +27,7 @@
 | [1676](https://www.acmicpc.net/problem/1676) | 팩토리얼 0의 개수 | ✓ |   |   |   |   |
 | [1924](https://www.acmicpc.net/problem/1924) | 2007년 | ✓ |   |   |   |   |
 | [1932](https://www.acmicpc.net/problem/1932) | 정수 삼각형 | ✓ |   |   |   |   |
+| [1980](https://www.acmicpc.net/problem/1980) | 햄버거 사랑 | ✓ |   |   |   |   |
 | [1991](https://www.acmicpc.net/problem/1991) | 트리 순회 | ✓ |   |   |   |   |
 | [1996](https://www.acmicpc.net/problem/1996) | 지뢰 찾기 | ✓ |   |   |   |   |
 | [2083](https://www.acmicpc.net/problem/2083) | 럭비 클럽 | [✓](boj/2083/91774381.py) |   |   |   |   |
@@ -43,6 +44,7 @@
 | [2577](https://www.acmicpc.net/problem/2577) | 숫자의 개수 | ✓ |   |   |   |   |
 | [2605](https://www.acmicpc.net/problem/2605) | 줄 세우기 | ✓ |   |   |   |   |
 | [2609](https://www.acmicpc.net/problem/2609) | 최대공약수와 최소공배수 | ✓ |   |   |   |   |
+| [2702](https://www.acmicpc.net/problem/2702) | 초6 수학 | ✓ |   |   |   |   |
 | [2739](https://www.acmicpc.net/problem/2739) | 구구단 | ✓ |   |   |   |   |
 | [2742](https://www.acmicpc.net/problem/2742) | 기찍 N | ✓ |   |   |   |   |
 | [2743](https://www.acmicpc.net/problem/2743) | 단어 길이 재기 | ✓ |   |   |   |   |
@@ -64,6 +66,7 @@
 | [3578](https://www.acmicpc.net/problem/3578) | Holes | ✓ |   |   |   |   |
 | [3711](https://www.acmicpc.net/problem/3711) | 학번 | ✓ |   |   |   |   |
 | [3765](https://www.acmicpc.net/problem/3765) | Celebrity jeopardy | ✓ |   |   |   |   |
+| [4101](https://www.acmicpc.net/problem/4101) | 크냐? | ✓ |   |   |   |   |
 | [4150](https://www.acmicpc.net/problem/4150) | 피보나치 수 | ✓ |   |   |   |   |
 | [4153](https://www.acmicpc.net/problem/4153) | 직각삼각형 | ✓ |   |   |   |   |
 | [4299](https://www.acmicpc.net/problem/4299) | AFC 윔블던 | ✓ |   |   |   |   |
@@ -85,6 +88,7 @@
 | [7572](https://www.acmicpc.net/problem/7572) | 간지(干支) | ✓ |   |   |   |   |
 | [7600](https://www.acmicpc.net/problem/7600) | 문자가 몇갤까 | ✓ |   |   |   |   |
 | [8393](https://www.acmicpc.net/problem/8393) | 합 | ✓ |   |   |   |   |
+| [8892](https://www.acmicpc.net/problem/8892) | 팰린드롬 | ✓ |   |   |   |   |
 | [9288](https://www.acmicpc.net/problem/9288) | More Dice | ✓ |   |   |   |   |
 | [9465](https://www.acmicpc.net/problem/9465) | 스티커 | ✓ |   |   |   |   |
 | [9550](https://www.acmicpc.net/problem/9550) | 아이들은 사탕을 좋아해 | ✓ |   |   |   |   |
@@ -154,6 +158,7 @@
 | [15962](https://www.acmicpc.net/problem/15962) | 새로운 시작 |   |   |   |   | [✓](boj/15962/91280580.txt) |
 | [15964](https://www.acmicpc.net/problem/15964) | 이상한 기호 | ✓ |   |   |   |   |
 | [16204](https://www.acmicpc.net/problem/16204) | 카드 뽑기 | ✓ |   |   |   |   |
+| [16430](https://www.acmicpc.net/problem/16430) | 제리와 톰 | ✓ |   |   |   |   |
 | [16483](https://www.acmicpc.net/problem/16483) | 접시 안의 원 | ✓ |   |   |   |   |
 | [16953](https://www.acmicpc.net/problem/16953) | A → B | ✓ |   |   |   |   |
 | [17072](https://www.acmicpc.net/problem/17072) | 아스키 아트 | ✓ |   |   |   |   |
@@ -190,6 +195,7 @@
 | [25373](https://www.acmicpc.net/problem/25373) | 벼락치기 | ✓ |   |   |   |   |
 | [25400](https://www.acmicpc.net/problem/25400) | 제자리 | ✓ |   |   |   |   |
 | [25591](https://www.acmicpc.net/problem/25591) | 푸앙이와 종윤이 | ✓ |   |   |   |   |
+| [25594](https://www.acmicpc.net/problem/25594) | HG 음성기호 | ✓ |   |   |   |   |
 | [25600](https://www.acmicpc.net/problem/25600) | Triathlon | ✓ |   |   |   |   |
 | [25625](https://www.acmicpc.net/problem/25625) | 샤틀버스 | ✓ |   |   |   |   |
 | [25858](https://www.acmicpc.net/problem/25858) | Divide the Cash |   |   |   | ✓ |   |
@@ -208,6 +214,7 @@
 | [28352](https://www.acmicpc.net/problem/28352) | 10! | ✓ |   |   |   |   |
 | [28432](https://www.acmicpc.net/problem/28432) | 끝말잇기 | ✓ |   |   |   |   |
 | [28444](https://www.acmicpc.net/problem/28444) | HI-ARC=? | ✓ |   |   |   |   |
+| [28445](https://www.acmicpc.net/problem/28445) | 알록달록 앵무새 | ✓ |   |   |   |   |
 | [28691](https://www.acmicpc.net/problem/28691) | 정보보호학부 동아리 소개 | ✓ |   |   |   |   |
 | [28701](https://www.acmicpc.net/problem/28701) | 세제곱의 합 | ✓ |   |   |   |   |
 | [29700](https://www.acmicpc.net/problem/29700) | 우당탕탕 영화예매 | ✓ |   |   |   |   |
@@ -225,6 +232,7 @@
 | [31668](https://www.acmicpc.net/problem/31668) | 특별한 가지 | ✓ |   |   |   |   |
 | [31868](https://www.acmicpc.net/problem/31868) | 수박 게임 | ✓ |   |   |   |   |
 | [32158](https://www.acmicpc.net/problem/32158) | SWAPC | ✓ |   |   |   |   |
+| [32185](https://www.acmicpc.net/problem/32185) | 꿈 열정 나눔 | ✓ |   |   |   |   |
 | [32215](https://www.acmicpc.net/problem/32215) | 코드마스터 2024 | ✓ |   |   |   |   |
 | [32642](https://www.acmicpc.net/problem/32642) | 당구 좀 치자 제발 | ✓ |   |   |   |   |
 | [32651](https://www.acmicpc.net/problem/32651) | 인간은 무엇인가 | ✓ |   |   |   |   |
