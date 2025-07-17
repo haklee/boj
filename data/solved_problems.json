@@ -1,5 +1,19 @@
 [
   {
+    "submission_id": "96454129",
+    "problem_id": "10886",
+    "problem_title": "0 = not cute / 1 = cute",
+    "language": "Python 3",
+    "submission_time": "2025-07-17 22:51:30"
+  },
+  {
+    "submission_id": "96418082",
+    "problem_id": "5543",
+    "problem_title": "상근날드",
+    "language": "PyPy3",
+    "submission_time": "2025-07-16 22:50:52"
+  },
+  {
     "submission_id": "96344278",
     "problem_id": "6012",
     "problem_title": "The Big Dance",

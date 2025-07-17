@@ -77,6 +77,7 @@
 | [5337](https://www.acmicpc.net/problem/5337) | 웰컴 |   |   |   |   | [✓](boj/5337/91505264.txt) |
 | [5338](https://www.acmicpc.net/problem/5338) | 마이크로소프트 로고 |   |   |   |   | [✓](boj/5338/90507110.txt) |
 | [5426](https://www.acmicpc.net/problem/5426) | 비밀 편지 | ✓ |   |   |   |   |
+| [5543](https://www.acmicpc.net/problem/5543) | 상근날드 | ✓ |   |   |   |   |
 | [5554](https://www.acmicpc.net/problem/5554) | 심부름 가는 길 | ✓ |   |   |   |   |
 | [5555](https://www.acmicpc.net/problem/5555) | 반지 | ✓ |   |   |   |   |
 | [5591](https://www.acmicpc.net/problem/5591) | 最大の和 | ✓ |   |   |   |   |
@@ -109,6 +110,7 @@
 | [10826](https://www.acmicpc.net/problem/10826) | 피보나치 수 4 | ✓ |   |   |   |   |
 | [10869](https://www.acmicpc.net/problem/10869) | 사칙연산 | ✓ |   |   |   |   |
 | [10870](https://www.acmicpc.net/problem/10870) | 피보나치 수 5 | ✓ |   |   |   |   |
+| [10886](https://www.acmicpc.net/problem/10886) | 0 = not cute / 1 = cute | ✓ |   |   |   |   |
 | [10950](https://www.acmicpc.net/problem/10950) | A+B - 3 | ✓ |   |   |   |   |
 | [10987](https://www.acmicpc.net/problem/10987) | 모음의 개수 | ✓ |   |   |   |   |
 | [10989](https://www.acmicpc.net/problem/10989) | 수 정렬하기 3 | ✓ |   |   |   |   |
