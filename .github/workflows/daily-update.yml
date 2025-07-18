@@ -14,7 +14,7 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v4
       with:
-        token: ${{ secrets.GITHUB_TOKEN }}
+        token: ${{ secrets.MY_GITHUB_TOKEN }}
         fetch-depth: 0
 
     - name: Set up Python
@@ -30,6 +30,7 @@ jobs:
     - name: Create .env file
       run: |
         echo USER_ID=${{ vars.USER_ID }} >> .env
+        echo PROXY=${{ vars.PROXY }} >> .env
 
     - name: Run update_solved_problems.py
       run: python update_solved_problems.py

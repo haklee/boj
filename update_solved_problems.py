@@ -7,6 +7,7 @@ from boj_crawler import BOJCrawler
 
 load_dotenv()
 user_id = os.environ.get("USER_ID")
+proxy = os.environ.get("PROXY")
 date = None
 
 with open("data/solved_problems.json", "r", encoding="utf-8") as f:
@@ -20,7 +21,11 @@ with open("data/solved_problems.json", "r", encoding="utf-8") as f:
 
 # 앞서 찾은 날짜를 포함하여 푼 문제 크롤링.
 # 마지막 크롤링 이후 같은 날 다른 문제를 더 풀었을 수 있다.
-crawler = BOJCrawler(user_id, start_date=date)
+if proxy:
+    crawler = BOJCrawler(user_id, start_date=date, proxies={"http": proxy, "https": proxy})
+else:
+    crawler = BOJCrawler(user_id, start_date=date)
+
 problems = crawler.get_solved_problems()
 
 # 새로운 문제들을 앞에 붙임
