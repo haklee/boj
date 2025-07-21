@@ -18,6 +18,7 @@
 | [1149](https://www.acmicpc.net/problem/1149) | RGB거리 | [✓](boj/1149/94900068.py) |   |   |   |   |
 | [1181](https://www.acmicpc.net/problem/1181) | 단어 정렬 | [✓](boj/1181/90797330.py) |   |   |   |   |
 | [1212](https://www.acmicpc.net/problem/1212) | 8진수 2진수 | [✓](boj/1212/94692869.py) |   |   |   |   |
+| [1244](https://www.acmicpc.net/problem/1244) | 스위치 켜고 끄기 | ✓ |   |   |   |   |
 | [1259](https://www.acmicpc.net/problem/1259) | 팰린드롬수 | [✓](boj/1259/90741930.py) |   |   |   |   |
 | [1271](https://www.acmicpc.net/problem/1271) | 엄청난 부자2 | [✓](boj/1271/93769960.py) |   |   |   |   |
 | [1316](https://www.acmicpc.net/problem/1316) | 그룹 단어 체커 | ✓ |   |   |   |   |
@@ -135,6 +136,7 @@
 | [12015](https://www.acmicpc.net/problem/12015) | 가장 긴 증가하는 부분 수열 2 | ✓ |   |   |   |   |
 | [12738](https://www.acmicpc.net/problem/12738) | 가장 긴 증가하는 부분 수열 3 | ✓ |   |   |   |   |
 | [13172](https://www.acmicpc.net/problem/13172) | Σ | ✓ |   |   |   |   |
+| [13268](https://www.acmicpc.net/problem/13268) | 셔틀런 | ✓ |   |   |   |   |
 | [13623](https://www.acmicpc.net/problem/13623) | Zero or One | ✓ |   |   |   |   |
 | [14004](https://www.acmicpc.net/problem/14004) | ICPC | ✓ |   |   |   |   |
 | [14470](https://www.acmicpc.net/problem/14470) | 전자레인지 | ✓ |   |   |   |   |
@@ -166,6 +168,7 @@
 | [16430](https://www.acmicpc.net/problem/16430) | 제리와 톰 | ✓ |   |   |   |   |
 | [16483](https://www.acmicpc.net/problem/16483) | 접시 안의 원 | ✓ |   |   |   |   |
 | [16953](https://www.acmicpc.net/problem/16953) | A → B | ✓ |   |   |   |   |
+| [16969](https://www.acmicpc.net/problem/16969) | 차량 번호판 2 | ✓ |   |   |   |   |
 | [17072](https://www.acmicpc.net/problem/17072) | 아스키 아트 | ✓ |   |   |   |   |
 | [17173](https://www.acmicpc.net/problem/17173) | 배수들의 합 | ✓ |   |   |   |   |
 | [17177](https://www.acmicpc.net/problem/17177) | 내접사각형 만들기 | ✓ |   |   |   |   |
@@ -188,7 +191,9 @@
 | [21612](https://www.acmicpc.net/problem/21612) | Boiling Water | ✓ |   |   |   |   |
 | [21633](https://www.acmicpc.net/problem/21633) | Bank Transfer | ✓ |   |   |   |   |
 | [23246](https://www.acmicpc.net/problem/23246) | Sport Climbing Combined | ✓ |   |   |   |   |
+| [23276](https://www.acmicpc.net/problem/23276) | Locust Locus | ✓ |   |   |   |   |
 | [23825](https://www.acmicpc.net/problem/23825) | SASA 모형을 만들어보자 | ✓ |   |   |   |   |
+| [23968](https://www.acmicpc.net/problem/23968) | 알고리즘 수업 - 버블 정렬 1 | ✓ |   |   |   |   |
 | [24266](https://www.acmicpc.net/problem/24266) | 알고리즘 수업 - 알고리즘의 수행 시간 5 | ✓ |   |   |   |   |
 | [24723](https://www.acmicpc.net/problem/24723) | 녹색거탑 | ✓ |   |   |   |   |
 | [24765](https://www.acmicpc.net/problem/24765) | Mia | ✓ |   |   |   |   |

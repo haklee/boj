@@ -1,5 +1,40 @@
 [
   {
+    "submission_id": "96559588",
+    "problem_id": "23968",
+    "problem_title": "알고리즘 수업 - 버블 정렬 1",
+    "language": "PyPy3",
+    "submission_time": "2025-07-21 09:49:20"
+  },
+  {
+    "submission_id": "96530110",
+    "problem_id": "1244",
+    "problem_title": "스위치 켜고 끄기",
+    "language": "PyPy3",
+    "submission_time": "2025-07-20 11:16:40"
+  },
+  {
+    "submission_id": "96521288",
+    "problem_id": "23276",
+    "problem_title": "Locust Locus",
+    "language": "PyPy3",
+    "submission_time": "2025-07-19 22:48:57"
+  },
+  {
+    "submission_id": "96520764",
+    "problem_id": "16969",
+    "problem_title": "차량 번호판 2",
+    "language": "PyPy3",
+    "submission_time": "2025-07-19 22:35:59"
+  },
+  {
+    "submission_id": "96464191",
+    "problem_id": "13268",
+    "problem_title": "셔틀런",
+    "language": "PyPy3",
+    "submission_time": "2025-07-18 10:33:08"
+  },
+  {
     "submission_id": "96454129",
     "problem_id": "10886",
     "problem_title": "0 = not cute / 1 = cute",
