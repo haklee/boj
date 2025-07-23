@@ -38,6 +38,7 @@
 | [2231](https://www.acmicpc.net/problem/2231) | 분해합 | ✓ |   |   |   |   |
 | [2292](https://www.acmicpc.net/problem/2292) | 벌집 | ✓ |   |   |   |   |
 | [2338](https://www.acmicpc.net/problem/2338) | 긴자리 계산 | ✓ |   |   |   |   |
+| [2444](https://www.acmicpc.net/problem/2444) | 별 찍기 - 7 | ✓ |   |   |   |   |
 | [2448](https://www.acmicpc.net/problem/2448) | 별 찍기 - 11 | ✓ |   |   |   |   |
 | [2475](https://www.acmicpc.net/problem/2475) | 검증수 | ✓ |   |   |   |   |
 | [2530](https://www.acmicpc.net/problem/2530) | 인공지능 시계 | ✓ |   |   |   |   |
@@ -167,6 +168,7 @@
 | [16204](https://www.acmicpc.net/problem/16204) | 카드 뽑기 | ✓ |   |   |   |   |
 | [16430](https://www.acmicpc.net/problem/16430) | 제리와 톰 | ✓ |   |   |   |   |
 | [16483](https://www.acmicpc.net/problem/16483) | 접시 안의 원 | ✓ |   |   |   |   |
+| [16917](https://www.acmicpc.net/problem/16917) | 양념 반 후라이드 반 | ✓ |   |   |   |   |
 | [16953](https://www.acmicpc.net/problem/16953) | A → B | ✓ |   |   |   |   |
 | [16969](https://www.acmicpc.net/problem/16969) | 차량 번호판 2 | ✓ |   |   |   |   |
 | [17072](https://www.acmicpc.net/problem/17072) | 아스키 아트 | ✓ |   |   |   |   |
