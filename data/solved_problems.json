@@ -1,5 +1,138 @@
 [
   {
+    "submission_id": "97079481",
+    "problem_id": "25374",
+    "problem_title": "등급 계산하기",
+    "language": "PyPy3",
+    "submission_time": "2025-08-04 12:17:14"
+  },
+  {
+    "submission_id": "97075811",
+    "problem_id": "17949",
+    "problem_title": "Drop The Byte!",
+    "language": "PyPy3",
+    "submission_time": "2025-08-04 10:39:16"
+  },
+  {
+    "submission_id": "97055743",
+    "problem_id": "2225",
+    "problem_title": "합분해",
+    "language": "PyPy3",
+    "submission_time": "2025-08-03 17:59:52"
+  },
+  {
+    "submission_id": "97055476",
+    "problem_id": "1011",
+    "problem_title": "Fly me to the Alpha Centauri",
+    "language": "PyPy3",
+    "submission_time": "2025-08-03 17:51:44"
+  },
+  {
+    "submission_id": "97054167",
+    "problem_id": "1806",
+    "problem_title": "부분합",
+    "language": "PyPy3",
+    "submission_time": "2025-08-03 17:16:29"
+  },
+  {
+    "submission_id": "97013790",
+    "problem_id": "2033",
+    "problem_title": "반올림",
+    "language": "PyPy3",
+    "submission_time": "2025-08-02 10:41:43"
+  },
+  {
+    "submission_id": "97000715",
+    "problem_id": "1531",
+    "problem_title": "투명",
+    "language": "PyPy3",
+    "submission_time": "2025-08-01 20:11:40"
+  },
+  {
+    "submission_id": "96962280",
+    "problem_id": "11726",
+    "problem_title": "2×n 타일링",
+    "language": "PyPy3",
+    "submission_time": "2025-07-31 19:26:48"
+  },
+  {
+    "submission_id": "96962249",
+    "problem_id": "11726",
+    "problem_title": "2×n 타일링",
+    "language": "PyPy3",
+    "submission_time": "2025-07-31 19:25:51"
+  },
+  {
+    "submission_id": "96962228",
+    "problem_id": "11726",
+    "problem_title": "2×n 타일링",
+    "language": "PyPy3",
+    "submission_time": "2025-07-31 19:25:07"
+  },
+  {
+    "submission_id": "96931962",
+    "problem_id": "1735",
+    "problem_title": "분수 합",
+    "language": "PyPy3",
+    "submission_time": "2025-07-30 23:24:35"
+  },
+  {
+    "submission_id": "96931793",
+    "problem_id": "5596",
+    "problem_title": "시험 점수",
+    "language": "PyPy3",
+    "submission_time": "2025-07-30 23:20:19"
+  },
+  {
+    "submission_id": "96883552",
+    "problem_id": "31288",
+    "problem_title": "캬루",
+    "language": "PyPy3",
+    "submission_time": "2025-07-29 18:55:42"
+  },
+  {
+    "submission_id": "96823574",
+    "problem_id": "25501",
+    "problem_title": "재귀의 귀재",
+    "language": "PyPy3",
+    "submission_time": "2025-07-28 12:03:00"
+  },
+  {
+    "submission_id": "96787285",
+    "problem_id": "14608",
+    "problem_title": "구분구적법 (Small)",
+    "language": "PyPy3",
+    "submission_time": "2025-07-27 11:40:06"
+  },
+  {
+    "submission_id": "96758585",
+    "problem_id": "2675",
+    "problem_title": "문자열 반복",
+    "language": "PyPy3",
+    "submission_time": "2025-07-26 12:47:43"
+  },
+  {
+    "submission_id": "96720860",
+    "problem_id": "32342",
+    "problem_title": "와우와 쿼리",
+    "language": "PyPy3",
+    "submission_time": "2025-07-25 10:26:21"
+  },
+  {
+    "submission_id": "96682438",
+    "problem_id": "15734",
+    "problem_title": "명장 남정훈",
+    "language": "PyPy3",
+    "submission_time": "2025-07-24 10:06:55"
+  },
+  {
+    "submission_id": "96682296",
+    "problem_id": "33871",
+    "problem_title": "서로소 게임",
+    "language": "PyPy3",
+    "submission_time": "2025-07-24 10:01:24"
+  },
+  {
     "submission_id": "96643759",
     "problem_id": "2444",
     "problem_title": "별 찍기 - 7",
