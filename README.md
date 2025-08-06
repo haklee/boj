@@ -206,6 +206,7 @@
 | [21633](https://www.acmicpc.net/problem/21633) | Bank Transfer | ✓ |   |   |   |   |
 | [23246](https://www.acmicpc.net/problem/23246) | Sport Climbing Combined | ✓ |   |   |   |   |
 | [23276](https://www.acmicpc.net/problem/23276) | Locust Locus | ✓ |   |   |   |   |
+| [23305](https://www.acmicpc.net/problem/23305) | 수강변경 | ✓ |   |   |   |   |
 | [23825](https://www.acmicpc.net/problem/23825) | SASA 모형을 만들어보자 | ✓ |   |   |   |   |
 | [23968](https://www.acmicpc.net/problem/23968) | 알고리즘 수업 - 버블 정렬 1 | ✓ |   |   |   |   |
 | [24266](https://www.acmicpc.net/problem/24266) | 알고리즘 수업 - 알고리즘의 수행 시간 5 | ✓ |   |   |   |   |
@@ -229,6 +230,7 @@
 | [26145](https://www.acmicpc.net/problem/26145) | 출제비 재분배 | ✓ |   |   |   |   |
 | [26560](https://www.acmicpc.net/problem/26560) | Periods | ✓ |   |   |   |   |
 | [26566](https://www.acmicpc.net/problem/26566) | Pizza | ✓ |   |   |   |   |
+| [26574](https://www.acmicpc.net/problem/26574) | Copier | ✓ |   |   |   |   |
 | [26575](https://www.acmicpc.net/problem/26575) | Pups | ✓ |   |   |   |   |
 | [27294](https://www.acmicpc.net/problem/27294) | 몇개고? | ✓ |   |   |   |   |
 | [27323](https://www.acmicpc.net/problem/27323) | 직사각형 | ✓ |   |   |   |   |
