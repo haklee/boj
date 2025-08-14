@@ -23,6 +23,7 @@
 | [1259](https://www.acmicpc.net/problem/1259) | 팰린드롬수 | [✓](boj/1259/90741930.py) |   |   |   |   |
 | [1271](https://www.acmicpc.net/problem/1271) | 엄청난 부자2 | [✓](boj/1271/93769960.py) |   |   |   |   |
 | [1316](https://www.acmicpc.net/problem/1316) | 그룹 단어 체커 | ✓ |   |   |   |   |
+| [1373](https://www.acmicpc.net/problem/1373) | 2진수 8진수 | ✓ |   |   |   |   |
 | [1436](https://www.acmicpc.net/problem/1436) | 영화감독 숌 | ✓ |   |   |   |   |
 | [1531](https://www.acmicpc.net/problem/1531) | 투명 | ✓ |   |   |   |   |
 | [1546](https://www.acmicpc.net/problem/1546) | 평균 | ✓ |   |   |   |   |
@@ -31,6 +32,7 @@
 | [1735](https://www.acmicpc.net/problem/1735) | 분수 합 | ✓ |   |   |   |   |
 | [1806](https://www.acmicpc.net/problem/1806) | 부분합 | ✓ |   |   |   |   |
 | [1924](https://www.acmicpc.net/problem/1924) | 2007년 | ✓ |   |   |   |   |
+| [1931](https://www.acmicpc.net/problem/1931) | 회의실 배정 | ✓ |   |   |   |   |
 | [1932](https://www.acmicpc.net/problem/1932) | 정수 삼각형 | ✓ |   |   |   |   |
 | [1980](https://www.acmicpc.net/problem/1980) | 햄버거 사랑 | ✓ |   |   |   |   |
 | [1991](https://www.acmicpc.net/problem/1991) | 트리 순회 | ✓ |   |   |   |   |
@@ -44,8 +46,10 @@
 | [2231](https://www.acmicpc.net/problem/2231) | 분해합 | ✓ |   |   |   |   |
 | [2292](https://www.acmicpc.net/problem/2292) | 벌집 | ✓ |   |   |   |   |
 | [2338](https://www.acmicpc.net/problem/2338) | 긴자리 계산 | ✓ |   |   |   |   |
+| [2393](https://www.acmicpc.net/problem/2393) | Rook |   |   |   |   | ✓ |
 | [2444](https://www.acmicpc.net/problem/2444) | 별 찍기 - 7 | ✓ |   |   |   |   |
 | [2448](https://www.acmicpc.net/problem/2448) | 별 찍기 - 11 | ✓ |   |   |   |   |
+| [2467](https://www.acmicpc.net/problem/2467) | 용액 | ✓ |   |   |   |   |
 | [2475](https://www.acmicpc.net/problem/2475) | 검증수 | ✓ |   |   |   |   |
 | [2530](https://www.acmicpc.net/problem/2530) | 인공지능 시계 | ✓ |   |   |   |   |
 | [2557](https://www.acmicpc.net/problem/2557) | Hello World | [✓](boj/2557/90356881.py) | [✓](boj/2557/90357149.cpp) | [✓](boj/2557/90357233.cs) | [✓](boj/2557/90357205.js) |   |
@@ -62,6 +66,7 @@
 | [2748](https://www.acmicpc.net/problem/2748) | 피보나치 수 2 | ✓ |   |   |   |   |
 | [2749](https://www.acmicpc.net/problem/2749) | 피보나치 수 3 | ✓ |   |   |   |   |
 | [2751](https://www.acmicpc.net/problem/2751) | 수 정렬하기 2 | ✓ |   |   |   |   |
+| [2810](https://www.acmicpc.net/problem/2810) | 컵홀더 | ✓ |   |   |   |   |
 | [2864](https://www.acmicpc.net/problem/2864) | 5와 6의 차이 | ✓ |   |   |   |   |
 | [2869](https://www.acmicpc.net/problem/2869) | 달팽이는 올라가고 싶다 | ✓ |   |   |   |   |
 | [2875](https://www.acmicpc.net/problem/2875) | 대회 or 인턴 | ✓ |   |   |   |   |
@@ -102,6 +107,7 @@
 | [7600](https://www.acmicpc.net/problem/7600) | 문자가 몇갤까 | ✓ |   |   |   |   |
 | [8393](https://www.acmicpc.net/problem/8393) | 합 | ✓ |   |   |   |   |
 | [8892](https://www.acmicpc.net/problem/8892) | 팰린드롬 | ✓ |   |   |   |   |
+| [8911](https://www.acmicpc.net/problem/8911) | 거북이 | ✓ |   |   |   |   |
 | [9288](https://www.acmicpc.net/problem/9288) | More Dice | ✓ |   |   |   |   |
 | [9465](https://www.acmicpc.net/problem/9465) | 스티커 | ✓ |   |   |   |   |
 | [9550](https://www.acmicpc.net/problem/9550) | 아이들은 사탕을 좋아해 | ✓ |   |   |   |   |
@@ -111,6 +117,7 @@
 | [10171](https://www.acmicpc.net/problem/10171) | 고양이 |   |   |   |   | [✓](boj/10171/90693605.txt) |
 | [10172](https://www.acmicpc.net/problem/10172) | 개 |   |   |   |   | [✓](boj/10172/90561873.txt) |
 | [10471](https://www.acmicpc.net/problem/10471) | 공간을 만들어 봅시다 | ✓ |   |   |   |   |
+| [10501](https://www.acmicpc.net/problem/10501) | Ragged Right | ✓ |   |   |   |   |
 | [10699](https://www.acmicpc.net/problem/10699) | 오늘 날짜 | [✓](boj/10699/90381697.py) | [✓](boj/10699/90381637.cpp) | [✓](boj/10699/90381720.cs) | [✓](boj/10699/90381683.js) | [✓](boj/10699/90381735.txt) |
 | [10718](https://www.acmicpc.net/problem/10718) | We love kriii | ✓ |   |   |   |   |
 | [10773](https://www.acmicpc.net/problem/10773) | 제로 | ✓ |   |   |   |   |
@@ -126,6 +133,8 @@
 | [10989](https://www.acmicpc.net/problem/10989) | 수 정렬하기 3 | ✓ |   |   |   |   |
 | [10998](https://www.acmicpc.net/problem/10998) | A×B | [✓](boj/10998/90873842.py) |   |   | [✓](boj/10998/95038020.js) |   |
 | [11021](https://www.acmicpc.net/problem/11021) | A+B - 7 | ✓ |   |   |   |   |
+| [11024](https://www.acmicpc.net/problem/11024) | 더하기 4 | ✓ |   |   |   |   |
+| [11048](https://www.acmicpc.net/problem/11048) | 이동하기 | ✓ |   |   |   |   |
 | [11050](https://www.acmicpc.net/problem/11050) | 이항 계수 1 | ✓ |   |   |   |   |
 | [11051](https://www.acmicpc.net/problem/11051) | 이항 계수 2 | ✓ |   |   |   |   |
 | [11053](https://www.acmicpc.net/problem/11053) | 가장 긴 증가하는 부분 수열 | ✓ |   |   |   |   |
@@ -146,6 +155,7 @@
 | [12015](https://www.acmicpc.net/problem/12015) | 가장 긴 증가하는 부분 수열 2 | ✓ |   |   |   |   |
 | [12738](https://www.acmicpc.net/problem/12738) | 가장 긴 증가하는 부분 수열 3 | ✓ |   |   |   |   |
 | [13172](https://www.acmicpc.net/problem/13172) | Σ | ✓ |   |   |   |   |
+| [13192](https://www.acmicpc.net/problem/13192) | Router 1 | ✓ |   |   |   |   |
 | [13268](https://www.acmicpc.net/problem/13268) | 셔틀런 | ✓ |   |   |   |   |
 | [13623](https://www.acmicpc.net/problem/13623) | Zero or One | ✓ |   |   |   |   |
 | [14004](https://www.acmicpc.net/problem/14004) | ICPC | ✓ |   |   |   |   |
@@ -153,6 +163,7 @@
 | [14487](https://www.acmicpc.net/problem/14487) | 욱제는 효도쟁이야!! | ✓ |   |   |   |   |
 | [14566](https://www.acmicpc.net/problem/14566) | Dongjak N1 | ✓ |   |   |   |   |
 | [14608](https://www.acmicpc.net/problem/14608) | 구분구적법 (Small) | ✓ |   |   |   |   |
+| [14623](https://www.acmicpc.net/problem/14623) | 감정이입 | ✓ |   |   |   |   |
 | [14645](https://www.acmicpc.net/problem/14645) | 와이버스 부릉부릉 | [✓](boj/14645/90473517.py) |   |   |   | [✓](boj/14645/90473544.txt) |
 | [14681](https://www.acmicpc.net/problem/14681) | 사분면 고르기 | ✓ |   |   |   |   |
 | [14710](https://www.acmicpc.net/problem/14710) | 고장난 시계 | ✓ |   |   |   |   |
@@ -179,6 +190,7 @@
 | [16204](https://www.acmicpc.net/problem/16204) | 카드 뽑기 | ✓ |   |   |   |   |
 | [16430](https://www.acmicpc.net/problem/16430) | 제리와 톰 | ✓ |   |   |   |   |
 | [16483](https://www.acmicpc.net/problem/16483) | 접시 안의 원 | ✓ |   |   |   |   |
+| [16533](https://www.acmicpc.net/problem/16533) | Mount Marathon | ✓ |   |   |   |   |
 | [16917](https://www.acmicpc.net/problem/16917) | 양념 반 후라이드 반 | ✓ |   |   |   |   |
 | [16953](https://www.acmicpc.net/problem/16953) | A → B | ✓ |   |   |   |   |
 | [16969](https://www.acmicpc.net/problem/16969) | 차량 번호판 2 | ✓ |   |   |   |   |
@@ -192,10 +204,12 @@
 | [17949](https://www.acmicpc.net/problem/17949) | Drop The Byte! | ✓ |   |   |   |   |
 | [18245](https://www.acmicpc.net/problem/18245) | 이상한 나라의 암호 | ✓ |   |   |   |   |
 | [18269](https://www.acmicpc.net/problem/18269) | Where Am I? | ✓ |   |   |   |   |
+| [18422](https://www.acmicpc.net/problem/18422) | Emacs | ✓ |   |   |   |   |
 | [18964](https://www.acmicpc.net/problem/18964) | Questionnaire | ✓ |   |   |   |   |
 | [19564](https://www.acmicpc.net/problem/19564) | 반복 | ✓ |   |   |   |   |
 | [19698](https://www.acmicpc.net/problem/19698) | 헛간 청약 | ✓ |   |   |   |   |
 | [19939](https://www.acmicpc.net/problem/19939) | 박 터뜨리기 | ✓ |   |   |   |   |
+| [19947](https://www.acmicpc.net/problem/19947) | 투자의 귀재 배주형 | ✓ |   |   |   |   |
 | [20001](https://www.acmicpc.net/problem/20001) | 고무오리 디버깅 | ✓ |   |   |   |   |
 | [20154](https://www.acmicpc.net/problem/20154) | 이 구역의 승자는 누구야?! | ✓ |   |   |   |   |
 | [20254](https://www.acmicpc.net/problem/20254) | Site Score | ✓ |   |   |   |   |
