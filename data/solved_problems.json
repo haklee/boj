@@ -1,5 +1,12 @@
 [
   {
+    "submission_id": "97488503",
+    "problem_id": "32630",
+    "problem_title": "$A_i \\times A_j$",
+    "language": "PyPy3",
+    "submission_time": "2025-08-15 13:40:02"
+  },
+  {
     "submission_id": "97475146",
     "problem_id": "2393",
     "problem_title": "Rook",
