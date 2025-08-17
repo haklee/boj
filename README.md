@@ -90,6 +90,7 @@
 | [5211](https://www.acmicpc.net/problem/5211) | 가단조와 다장조 | ✓ |   |   |   |   |
 | [5337](https://www.acmicpc.net/problem/5337) | 웰컴 |   |   |   |   | [✓](boj/5337/91505264.txt) |
 | [5338](https://www.acmicpc.net/problem/5338) | 마이크로소프트 로고 |   |   |   |   | [✓](boj/5338/90507110.txt) |
+| [5341](https://www.acmicpc.net/problem/5341) | Pyramids | ✓ |   |   |   |   |
 | [5426](https://www.acmicpc.net/problem/5426) | 비밀 편지 | ✓ |   |   |   |   |
 | [5543](https://www.acmicpc.net/problem/5543) | 상근날드 | ✓ |   |   |   |   |
 | [5554](https://www.acmicpc.net/problem/5554) | 심부름 가는 길 | ✓ |   |   |   |   |
@@ -213,6 +214,7 @@
 | [20001](https://www.acmicpc.net/problem/20001) | 고무오리 디버깅 | ✓ |   |   |   |   |
 | [20154](https://www.acmicpc.net/problem/20154) | 이 구역의 승자는 누구야?! | ✓ |   |   |   |   |
 | [20254](https://www.acmicpc.net/problem/20254) | Site Score | ✓ |   |   |   |   |
+| [20309](https://www.acmicpc.net/problem/20309) | 트리플 소트 | ✓ |   |   |   |   |
 | [20492](https://www.acmicpc.net/problem/20492) | 세금 | ✓ |   |   |   |   |
 | [20546](https://www.acmicpc.net/problem/20546) | 🐜 기적의 매매법 🐜 | ✓ |   |   |   |   |
 | [20660](https://www.acmicpc.net/problem/20660) | Pizza | ✓ |   |   |   |   |
