@@ -20,6 +20,7 @@
 | [1181](https://www.acmicpc.net/problem/1181) | 단어 정렬 | [✓](boj/1181/90797330.py) |   |   |   |   |
 | [1212](https://www.acmicpc.net/problem/1212) | 8진수 2진수 | [✓](boj/1212/94692869.py) |   |   |   |   |
 | [1244](https://www.acmicpc.net/problem/1244) | 스위치 켜고 끄기 | ✓ |   |   |   |   |
+| [1246](https://www.acmicpc.net/problem/1246) | 온라인 판매 | ✓ |   |   |   |   |
 | [1259](https://www.acmicpc.net/problem/1259) | 팰린드롬수 | [✓](boj/1259/90741930.py) |   |   |   |   |
 | [1271](https://www.acmicpc.net/problem/1271) | 엄청난 부자2 | [✓](boj/1271/93769960.py) |   |   |   |   |
 | [1316](https://www.acmicpc.net/problem/1316) | 그룹 단어 체커 | ✓ |   |   |   |   |
@@ -277,6 +278,7 @@
 | [31518](https://www.acmicpc.net/problem/31518) | Triple Sevens | ✓ |   |   |   |   |
 | [31668](https://www.acmicpc.net/problem/31668) | 특별한 가지 | ✓ |   |   |   |   |
 | [31868](https://www.acmicpc.net/problem/31868) | 수박 게임 | ✓ |   |   |   |   |
+| [32132](https://www.acmicpc.net/problem/32132) | PlayStation이 아니에요 | ✓ |   |   |   |   |
 | [32158](https://www.acmicpc.net/problem/32158) | SWAPC | ✓ |   |   |   |   |
 | [32185](https://www.acmicpc.net/problem/32185) | 꿈 열정 나눔 | ✓ |   |   |   |   |
 | [32215](https://www.acmicpc.net/problem/32215) | 코드마스터 2024 | ✓ |   |   |   |   |
