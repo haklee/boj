@@ -80,6 +80,7 @@
 | [3062](https://www.acmicpc.net/problem/3062) | 수 뒤집기 | ✓ |   |   |   |   |
 | [3578](https://www.acmicpc.net/problem/3578) | Holes | ✓ |   |   |   |   |
 | [3711](https://www.acmicpc.net/problem/3711) | 학번 | ✓ |   |   |   |   |
+| [3724](https://www.acmicpc.net/problem/3724) | 표 | ✓ |   |   |   |   |
 | [3765](https://www.acmicpc.net/problem/3765) | Celebrity jeopardy | ✓ |   |   |   |   |
 | [4101](https://www.acmicpc.net/problem/4101) | 크냐? | ✓ |   |   |   |   |
 | [4150](https://www.acmicpc.net/problem/4150) | 피보나치 수 | ✓ |   |   |   |   |
@@ -113,9 +114,11 @@
 | [9288](https://www.acmicpc.net/problem/9288) | More Dice | ✓ |   |   |   |   |
 | [9465](https://www.acmicpc.net/problem/9465) | 스티커 | ✓ |   |   |   |   |
 | [9550](https://www.acmicpc.net/problem/9550) | 아이들은 사탕을 좋아해 | ✓ |   |   |   |   |
+| [9653](https://www.acmicpc.net/problem/9653) | 스타워즈 로고 |   |   |   |   | ✓ |
 | [9663](https://www.acmicpc.net/problem/9663) | N-Queen | ✓ |   |   |   |   |
 | [9698](https://www.acmicpc.net/problem/9698) | SAHUR & IMSA’ | ✓ |   |   |   |   |
 | [9935](https://www.acmicpc.net/problem/9935) | 문자열 폭발 | ✓ |   |   |   |   |
+| [10103](https://www.acmicpc.net/problem/10103) | 주사위 게임 | ✓ |   |   |   |   |
 | [10171](https://www.acmicpc.net/problem/10171) | 고양이 |   |   |   |   | [✓](boj/10171/90693605.txt) |
 | [10172](https://www.acmicpc.net/problem/10172) | 개 |   |   |   |   | [✓](boj/10172/90561873.txt) |
 | [10471](https://www.acmicpc.net/problem/10471) | 공간을 만들어 봅시다 | ✓ |   |   |   |   |
