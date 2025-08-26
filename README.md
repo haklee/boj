@@ -31,6 +31,7 @@
 | [1629](https://www.acmicpc.net/problem/1629) | 곱셈 | [✓](boj/1629/91048349.py) |   |   |   |   |
 | [1676](https://www.acmicpc.net/problem/1676) | 팩토리얼 0의 개수 | ✓ |   |   |   |   |
 | [1735](https://www.acmicpc.net/problem/1735) | 분수 합 | ✓ |   |   |   |   |
+| [1740](https://www.acmicpc.net/problem/1740) | 거듭제곱 | ✓ |   |   |   |   |
 | [1806](https://www.acmicpc.net/problem/1806) | 부분합 | ✓ |   |   |   |   |
 | [1924](https://www.acmicpc.net/problem/1924) | 2007년 | ✓ |   |   |   |   |
 | [1931](https://www.acmicpc.net/problem/1931) | 회의실 배정 | ✓ |   |   |   |   |
@@ -85,6 +86,7 @@
 | [4101](https://www.acmicpc.net/problem/4101) | 크냐? | ✓ |   |   |   |   |
 | [4150](https://www.acmicpc.net/problem/4150) | 피보나치 수 | ✓ |   |   |   |   |
 | [4153](https://www.acmicpc.net/problem/4153) | 직각삼각형 | ✓ |   |   |   |   |
+| [4187](https://www.acmicpc.net/problem/4187) | Scrolling Sign | ✓ |   |   |   |   |
 | [4299](https://www.acmicpc.net/problem/4299) | AFC 윔블던 | ✓ |   |   |   |   |
 | [4635](https://www.acmicpc.net/problem/4635) | Speed Limit | ✓ |   |   |   |   |
 | [4740](https://www.acmicpc.net/problem/4740) | 거울, 오! 거울 | ✓ |   |   |   |   |
@@ -99,6 +101,7 @@
 | [5555](https://www.acmicpc.net/problem/5555) | 반지 | ✓ |   |   |   |   |
 | [5591](https://www.acmicpc.net/problem/5591) | 最大の和 | ✓ |   |   |   |   |
 | [5596](https://www.acmicpc.net/problem/5596) | 시험 점수 | ✓ |   |   |   |   |
+| [5623](https://www.acmicpc.net/problem/5623) | 수열의 합 | ✓ |   |   |   |   |
 | [5753](https://www.acmicpc.net/problem/5753) | Pascal Library | ✓ |   |   |   |   |
 | [5957](https://www.acmicpc.net/problem/5957) | Cleaning the Dishes | ✓ |   |   |   |   |
 | [6012](https://www.acmicpc.net/problem/6012) | The Big Dance | ✓ |   |   |   |   |
@@ -199,6 +202,7 @@
 | [16917](https://www.acmicpc.net/problem/16917) | 양념 반 후라이드 반 | ✓ |   |   |   |   |
 | [16953](https://www.acmicpc.net/problem/16953) | A → B | ✓ |   |   |   |   |
 | [16969](https://www.acmicpc.net/problem/16969) | 차량 번호판 2 | ✓ |   |   |   |   |
+| [17029](https://www.acmicpc.net/problem/17029) | Guess the Animal | ✓ |   |   |   |   |
 | [17072](https://www.acmicpc.net/problem/17072) | 아스키 아트 | ✓ |   |   |   |   |
 | [17173](https://www.acmicpc.net/problem/17173) | 배수들의 합 | ✓ |   |   |   |   |
 | [17177](https://www.acmicpc.net/problem/17177) | 내접사각형 만들기 | ✓ |   |   |   |   |
@@ -286,6 +290,8 @@
 | [32185](https://www.acmicpc.net/problem/32185) | 꿈 열정 나눔 | ✓ |   |   |   |   |
 | [32215](https://www.acmicpc.net/problem/32215) | 코드마스터 2024 | ✓ |   |   |   |   |
 | [32342](https://www.acmicpc.net/problem/32342) | 와우와 쿼리 | ✓ |   |   |   |   |
+| [32344](https://www.acmicpc.net/problem/32344) | 유물 발굴 | ✓ |   |   |   |   |
+| [32402](https://www.acmicpc.net/problem/32402) | TPS | ✓ |   |   |   |   |
 | [32630](https://www.acmicpc.net/problem/32630) | $A_i \times A_j$ | ✓ |   |   |   |   |
 | [32642](https://www.acmicpc.net/problem/32642) | 당구 좀 치자 제발 | ✓ |   |   |   |   |
 | [32651](https://www.acmicpc.net/problem/32651) | 인간은 무엇인가 | ✓ |   |   |   |   |
