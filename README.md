@@ -15,6 +15,7 @@
 | [1001](https://www.acmicpc.net/problem/1001) | A-B | [✓](boj/1001/90693709.py) |   |   | [✓](boj/1001/95037980.js) |   |
 | [1008](https://www.acmicpc.net/problem/1008) | A/B | [✓](boj/1008/91363145.py) |   |   | [✓](boj/1008/95037997.js) |   |
 | [1011](https://www.acmicpc.net/problem/1011) | Fly me to the Alpha Centauri | ✓ |   |   |   |   |
+| [1018](https://www.acmicpc.net/problem/1018) | 체스판 다시 칠하기 | ✓ |   |   |   |   |
 | [1094](https://www.acmicpc.net/problem/1094) | 막대기 | [✓](boj/1094/94604823.py) |   |   |   |   |
 | [1149](https://www.acmicpc.net/problem/1149) | RGB거리 | [✓](boj/1149/94900068.py) |   |   |   |   |
 | [1181](https://www.acmicpc.net/problem/1181) | 단어 정렬 | [✓](boj/1181/90797330.py) |   |   |   |   |
@@ -40,6 +41,7 @@
 | [1991](https://www.acmicpc.net/problem/1991) | 트리 순회 | ✓ |   |   |   |   |
 | [1996](https://www.acmicpc.net/problem/1996) | 지뢰 찾기 | ✓ |   |   |   |   |
 | [2033](https://www.acmicpc.net/problem/2033) | 반올림 | ✓ |   |   |   |   |
+| [2078](https://www.acmicpc.net/problem/2078) | 무한이진트리 | ✓ |   |   |   |   |
 | [2083](https://www.acmicpc.net/problem/2083) | 럭비 클럽 | [✓](boj/2083/91774381.py) |   |   |   |   |
 | [2096](https://www.acmicpc.net/problem/2096) | 내려가기 | ✓ |   |   |   |   |
 | [2166](https://www.acmicpc.net/problem/2166) | 다각형의 면적 | ✓ |   |   |   |   |
@@ -166,6 +168,7 @@
 | [13172](https://www.acmicpc.net/problem/13172) | Σ | ✓ |   |   |   |   |
 | [13192](https://www.acmicpc.net/problem/13192) | Router 1 | ✓ |   |   |   |   |
 | [13268](https://www.acmicpc.net/problem/13268) | 셔틀런 | ✓ |   |   |   |   |
+| [13399](https://www.acmicpc.net/problem/13399) | Rearranging a Sequence | ✓ |   |   |   |   |
 | [13623](https://www.acmicpc.net/problem/13623) | Zero or One | ✓ |   |   |   |   |
 | [14004](https://www.acmicpc.net/problem/14004) | ICPC | ✓ |   |   |   |   |
 | [14470](https://www.acmicpc.net/problem/14470) | 전자레인지 | ✓ |   |   |   |   |
@@ -252,6 +255,7 @@
 | [25594](https://www.acmicpc.net/problem/25594) | HG 음성기호 | ✓ |   |   |   |   |
 | [25600](https://www.acmicpc.net/problem/25600) | Triathlon | ✓ |   |   |   |   |
 | [25625](https://www.acmicpc.net/problem/25625) | 샤틀버스 | ✓ |   |   |   |   |
+| [25775](https://www.acmicpc.net/problem/25775) | Letter Frequency | ✓ |   |   |   |   |
 | [25858](https://www.acmicpc.net/problem/25858) | Divide the Cash |   |   |   | ✓ |   |
 | [26145](https://www.acmicpc.net/problem/26145) | 출제비 재분배 | ✓ |   |   |   |   |
 | [26560](https://www.acmicpc.net/problem/26560) | Periods | ✓ |   |   |   |   |
