@@ -51,6 +51,7 @@
 | [2292](https://www.acmicpc.net/problem/2292) | 벌집 | ✓ |   |   |   |   |
 | [2338](https://www.acmicpc.net/problem/2338) | 긴자리 계산 | ✓ |   |   |   |   |
 | [2393](https://www.acmicpc.net/problem/2393) | Rook |   |   |   |   | ✓ |
+| [2428](https://www.acmicpc.net/problem/2428) | 표절 | ✓ |   |   |   |   |
 | [2444](https://www.acmicpc.net/problem/2444) | 별 찍기 - 7 | ✓ |   |   |   |   |
 | [2448](https://www.acmicpc.net/problem/2448) | 별 찍기 - 11 | ✓ |   |   |   |   |
 | [2467](https://www.acmicpc.net/problem/2467) | 용액 | ✓ |   |   |   |   |

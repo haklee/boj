@@ -1,5 +1,19 @@
 [
   {
+    "submission_id": "98014300",
+    "problem_id": "2428",
+    "problem_title": "표절",
+    "language": "PyPy3",
+    "submission_time": "2025-09-01 10:52:01"
+  },
+  {
+    "submission_id": "98014250",
+    "problem_id": "2428",
+    "problem_title": "표절",
+    "language": "PyPy3",
+    "submission_time": "2025-09-01 10:49:53"
+  },
+  {
     "submission_id": "97996327",
     "problem_id": "2078",
     "problem_title": "무한이진트리",
