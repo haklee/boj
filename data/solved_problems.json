@@ -1,5 +1,33 @@
 [
   {
+    "submission_id": "98200915",
+    "problem_id": "31589",
+    "problem_title": "포도주 시음",
+    "language": "PyPy3",
+    "submission_time": "2025-09-06 11:48:53"
+  },
+  {
+    "submission_id": "98200861",
+    "problem_id": "31589",
+    "problem_title": "포도주 시음",
+    "language": "PyPy3",
+    "submission_time": "2025-09-06 11:46:51"
+  },
+  {
+    "submission_id": "98200732",
+    "problem_id": "31589",
+    "problem_title": "포도주 시음",
+    "language": "PyPy3",
+    "submission_time": "2025-09-06 11:42:31"
+  },
+  {
+    "submission_id": "98167810",
+    "problem_id": "9342",
+    "problem_title": "염색체",
+    "language": "PyPy3",
+    "submission_time": "2025-09-05 11:58:57"
+  },
+  {
     "submission_id": "98147311",
     "problem_id": "20920",
     "problem_title": "영단어 암기는 괴로워",
