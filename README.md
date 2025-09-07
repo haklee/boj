@@ -315,3 +315,4 @@
 | [33575](https://www.acmicpc.net/problem/33575) | 시간표 | ✓ |   |   |   |   |
 | [33612](https://www.acmicpc.net/problem/33612) | 피갤컵 | ✓ |   |   |   |   |
 | [33871](https://www.acmicpc.net/problem/33871) | 서로소 게임 | ✓ |   |   |   |   |
+| [34217](https://www.acmicpc.net/problem/34217) | 찾아오시는 길 | ✓ |   |   |   |   |
