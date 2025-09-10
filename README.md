@@ -25,6 +25,7 @@
 | [1259](https://www.acmicpc.net/problem/1259) | 팰린드롬수 | [✓](boj/1259/90741930.py) |   |   |   |   |
 | [1271](https://www.acmicpc.net/problem/1271) | 엄청난 부자2 | [✓](boj/1271/93769960.py) |   |   |   |   |
 | [1316](https://www.acmicpc.net/problem/1316) | 그룹 단어 체커 | ✓ |   |   |   |   |
+| [1330](https://www.acmicpc.net/problem/1330) | 두 수 비교하기 | ✓ |   |   |   |   |
 | [1373](https://www.acmicpc.net/problem/1373) | 2진수 8진수 | ✓ |   |   |   |   |
 | [1436](https://www.acmicpc.net/problem/1436) | 영화감독 숌 | ✓ |   |   |   |   |
 | [1531](https://www.acmicpc.net/problem/1531) | 투명 | ✓ |   |   |   |   |
@@ -45,6 +46,7 @@
 | [2078](https://www.acmicpc.net/problem/2078) | 무한이진트리 | ✓ |   |   |   |   |
 | [2083](https://www.acmicpc.net/problem/2083) | 럭비 클럽 | [✓](boj/2083/91774381.py) |   |   |   |   |
 | [2096](https://www.acmicpc.net/problem/2096) | 내려가기 | ✓ |   |   |   |   |
+| [2156](https://www.acmicpc.net/problem/2156) | 포도주 시식 | ✓ |   |   |   |   |
 | [2166](https://www.acmicpc.net/problem/2166) | 다각형의 면적 | ✓ |   |   |   |   |
 | [2167](https://www.acmicpc.net/problem/2167) | 2차원 배열의 합 | ✓ |   |   |   |   |
 | [2225](https://www.acmicpc.net/problem/2225) | 합분해 | ✓ |   |   |   |   |
@@ -53,6 +55,8 @@
 | [2338](https://www.acmicpc.net/problem/2338) | 긴자리 계산 | ✓ |   |   |   |   |
 | [2393](https://www.acmicpc.net/problem/2393) | Rook |   |   |   |   | ✓ |
 | [2428](https://www.acmicpc.net/problem/2428) | 표절 | ✓ |   |   |   |   |
+| [2438](https://www.acmicpc.net/problem/2438) | 별 찍기 - 1 | ✓ |   |   |   |   |
+| [2439](https://www.acmicpc.net/problem/2439) | 별 찍기 - 2 | ✓ |   |   |   |   |
 | [2444](https://www.acmicpc.net/problem/2444) | 별 찍기 - 7 | ✓ |   |   |   |   |
 | [2448](https://www.acmicpc.net/problem/2448) | 별 찍기 - 11 | ✓ |   |   |   |   |
 | [2467](https://www.acmicpc.net/problem/2467) | 용액 | ✓ |   |   |   |   |
@@ -120,6 +124,7 @@
 | [8393](https://www.acmicpc.net/problem/8393) | 합 | ✓ |   |   |   |   |
 | [8892](https://www.acmicpc.net/problem/8892) | 팰린드롬 | ✓ |   |   |   |   |
 | [8911](https://www.acmicpc.net/problem/8911) | 거북이 | ✓ |   |   |   |   |
+| [9086](https://www.acmicpc.net/problem/9086) | 문자열 | ✓ |   |   |   |   |
 | [9288](https://www.acmicpc.net/problem/9288) | More Dice | ✓ |   |   |   |   |
 | [9316](https://www.acmicpc.net/problem/9316) | Hello Judge | ✓ |   |   |   |   |
 | [9342](https://www.acmicpc.net/problem/9342) | 염색체 | ✓ |   |   |   |   |
@@ -141,6 +146,7 @@
 | [10804](https://www.acmicpc.net/problem/10804) | 카드 역배치 | ✓ |   |   |   |   |
 | [10814](https://www.acmicpc.net/problem/10814) | 나이순 정렬 | ✓ |   |   |   |   |
 | [10826](https://www.acmicpc.net/problem/10826) | 피보나치 수 4 | ✓ |   |   |   |   |
+| [10844](https://www.acmicpc.net/problem/10844) | 쉬운 계단 수 | ✓ |   |   |   |   |
 | [10869](https://www.acmicpc.net/problem/10869) | 사칙연산 | ✓ |   |   |   |   |
 | [10870](https://www.acmicpc.net/problem/10870) | 피보나치 수 5 | ✓ |   |   |   |   |
 | [10886](https://www.acmicpc.net/problem/10886) | 0 = not cute / 1 = cute | ✓ |   |   |   |   |
@@ -154,6 +160,8 @@
 | [11050](https://www.acmicpc.net/problem/11050) | 이항 계수 1 | ✓ |   |   |   |   |
 | [11051](https://www.acmicpc.net/problem/11051) | 이항 계수 2 | ✓ |   |   |   |   |
 | [11053](https://www.acmicpc.net/problem/11053) | 가장 긴 증가하는 부분 수열 | ✓ |   |   |   |   |
+| [11057](https://www.acmicpc.net/problem/11057) | 오르막 수 | ✓ |   |   |   |   |
+| [11068](https://www.acmicpc.net/problem/11068) | 회문인 수 | ✓ |   |   |   |   |
 | [11094](https://www.acmicpc.net/problem/11094) | 꿍 가라사대 | ✓ |   |   |   |   |
 | [11109](https://www.acmicpc.net/problem/11109) | 괴짜 교수 | ✓ |   |   |   |   |
 | [11401](https://www.acmicpc.net/problem/11401) | 이항 계수 3 | ✓ |   |   |   |   |
@@ -222,6 +230,7 @@
 | [17256](https://www.acmicpc.net/problem/17256) | 달달함이 넘쳐흘러 | ✓ |   |   |   |   |
 | [17266](https://www.acmicpc.net/problem/17266) | 어두운 굴다리 | ✓ |   |   |   |   |
 | [17949](https://www.acmicpc.net/problem/17949) | Drop The Byte! | ✓ |   |   |   |   |
+| [18130](https://www.acmicpc.net/problem/18130) | 여름나기 | ✓ |   |   |   |   |
 | [18245](https://www.acmicpc.net/problem/18245) | 이상한 나라의 암호 | ✓ |   |   |   |   |
 | [18269](https://www.acmicpc.net/problem/18269) | Where Am I? | ✓ |   |   |   |   |
 | [18422](https://www.acmicpc.net/problem/18422) | Emacs | ✓ |   |   |   |   |
@@ -262,6 +271,7 @@
 | [25594](https://www.acmicpc.net/problem/25594) | HG 음성기호 | ✓ |   |   |   |   |
 | [25600](https://www.acmicpc.net/problem/25600) | Triathlon | ✓ |   |   |   |   |
 | [25625](https://www.acmicpc.net/problem/25625) | 샤틀버스 | ✓ |   |   |   |   |
+| [25758](https://www.acmicpc.net/problem/25758) | 유전자 조합 | ✓ |   |   |   |   |
 | [25775](https://www.acmicpc.net/problem/25775) | Letter Frequency | ✓ |   |   |   |   |
 | [25858](https://www.acmicpc.net/problem/25858) | Divide the Cash |   |   |   | ✓ |   |
 | [26145](https://www.acmicpc.net/problem/26145) | 출제비 재분배 | ✓ |   |   |   |   |
@@ -286,6 +296,7 @@
 | [29700](https://www.acmicpc.net/problem/29700) | 우당탕탕 영화예매 | ✓ |   |   |   |   |
 | [29807](https://www.acmicpc.net/problem/29807) | 학번을 찾아줘! | ✓ |   |   |   |   |
 | [30032](https://www.acmicpc.net/problem/30032) | 알파벳 뒤집기 | ✓ |   |   |   |   |
+| [30189](https://www.acmicpc.net/problem/30189) | 경우의 수의 합 | ✓ |   |   |   |   |
 | [30403](https://www.acmicpc.net/problem/30403) | 무지개 만들기 | ✓ |   |   |   |   |
 | [30456](https://www.acmicpc.net/problem/30456) | 바닥수 | ✓ |   |   |   |   |
 | [30794](https://www.acmicpc.net/problem/30794) | 가희와 클럽 오디션 1 | ✓ |   |   |   |   |

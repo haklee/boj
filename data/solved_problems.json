@@ -1,5 +1,82 @@
 [
   {
+    "submission_id": "98376599",
+    "problem_id": "18130",
+    "problem_title": "여름나기",
+    "language": "PyPy3",
+    "submission_time": "2025-09-10 22:47:59"
+  },
+  {
+    "submission_id": "98375911",
+    "problem_id": "30189",
+    "problem_title": "경우의 수의 합",
+    "language": "PyPy3",
+    "submission_time": "2025-09-10 22:31:28"
+  },
+  {
+    "submission_id": "98375703",
+    "problem_id": "9086",
+    "problem_title": "문자열",
+    "language": "PyPy3",
+    "submission_time": "2025-09-10 22:26:25"
+  },
+  {
+    "submission_id": "98302431",
+    "problem_id": "2439",
+    "problem_title": "별 찍기 - 2",
+    "language": "PyPy3",
+    "submission_time": "2025-09-09 10:08:44"
+  },
+  {
+    "submission_id": "98270060",
+    "problem_id": "11057",
+    "problem_title": "오르막 수",
+    "language": "PyPy3",
+    "submission_time": "2025-09-08 14:18:33"
+  },
+  {
+    "submission_id": "98269828",
+    "problem_id": "2156",
+    "problem_title": "포도주 시식",
+    "language": "PyPy3",
+    "submission_time": "2025-09-08 14:13:48"
+  },
+  {
+    "submission_id": "98269362",
+    "problem_id": "10844",
+    "problem_title": "쉬운 계단 수",
+    "language": "PyPy3",
+    "submission_time": "2025-09-08 14:03:19"
+  },
+  {
+    "submission_id": "98269086",
+    "problem_id": "2438",
+    "problem_title": "별 찍기 - 1",
+    "language": "PyPy3",
+    "submission_time": "2025-09-08 13:56:35"
+  },
+  {
+    "submission_id": "98269023",
+    "problem_id": "1330",
+    "problem_title": "두 수 비교하기",
+    "language": "PyPy3",
+    "submission_time": "2025-09-08 13:55:15"
+  },
+  {
+    "submission_id": "98268856",
+    "problem_id": "11068",
+    "problem_title": "회문인 수",
+    "language": "PyPy3",
+    "submission_time": "2025-09-08 13:51:32"
+  },
+  {
+    "submission_id": "98268544",
+    "problem_id": "25758",
+    "problem_title": "유전자 조합",
+    "language": "PyPy3",
+    "submission_time": "2025-09-08 13:43:33"
+  },
+  {
     "submission_id": "98232973",
     "problem_id": "34217",
     "problem_title": "찾아오시는 길",
