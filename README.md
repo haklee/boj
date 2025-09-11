@@ -83,6 +83,7 @@
 | [2875](https://www.acmicpc.net/problem/2875) | 대회 or 인턴 | ✓ |   |   |   |   |
 | [2914](https://www.acmicpc.net/problem/2914) | 저작권 | ✓ |   |   |   |   |
 | [2948](https://www.acmicpc.net/problem/2948) | 2009년 | ✓ |   |   |   |   |
+| [2960](https://www.acmicpc.net/problem/2960) | 에라토스테네스의 체 | ✓ |   |   |   |   |
 | [2991](https://www.acmicpc.net/problem/2991) | 사나운 개 | ✓ |   |   |   |   |
 | [3003](https://www.acmicpc.net/problem/3003) | 킹, 퀸, 룩, 비숍, 나이트, 폰 | ✓ |   |   |   |   |
 | [3040](https://www.acmicpc.net/problem/3040) | 백설 공주와 일곱 난쟁이 | ✓ |   |   |   |   |
@@ -176,6 +177,7 @@
 | [11722](https://www.acmicpc.net/problem/11722) | 가장 긴 감소하는 부분 수열 | ✓ |   |   |   |   |
 | [11725](https://www.acmicpc.net/problem/11725) | 트리의 부모 찾기 | ✓ |   |   |   |   |
 | [11726](https://www.acmicpc.net/problem/11726) | 2×n 타일링 | ✓ |   |   |   |   |
+| [11916](https://www.acmicpc.net/problem/11916) | 볼질 | ✓ |   |   |   |   |
 | [12015](https://www.acmicpc.net/problem/12015) | 가장 긴 증가하는 부분 수열 2 | ✓ |   |   |   |   |
 | [12738](https://www.acmicpc.net/problem/12738) | 가장 긴 증가하는 부분 수열 3 | ✓ |   |   |   |   |
 | [13172](https://www.acmicpc.net/problem/13172) | Σ | ✓ |   |   |   |   |
