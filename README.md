@@ -133,6 +133,7 @@
 | [9086](https://www.acmicpc.net/problem/9086) | 문자열 | ✓ |   |   |   |   |
 | [9288](https://www.acmicpc.net/problem/9288) | More Dice | ✓ |   |   |   |   |
 | [9316](https://www.acmicpc.net/problem/9316) | Hello Judge | ✓ |   |   |   |   |
+| [9322](https://www.acmicpc.net/problem/9322) | 철벽 보안 알고리즘 | ✓ |   |   |   |   |
 | [9342](https://www.acmicpc.net/problem/9342) | 염색체 | ✓ |   |   |   |   |
 | [9465](https://www.acmicpc.net/problem/9465) | 스티커 | ✓ |   |   |   |   |
 | [9550](https://www.acmicpc.net/problem/9550) | 아이들은 사탕을 좋아해 | ✓ |   |   |   |   |
