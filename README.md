@@ -96,6 +96,7 @@
 | [3578](https://www.acmicpc.net/problem/3578) | Holes | ✓ |   |   |   |   |
 | [3711](https://www.acmicpc.net/problem/3711) | 학번 | ✓ |   |   |   |   |
 | [3724](https://www.acmicpc.net/problem/3724) | 표 | ✓ |   |   |   |   |
+| [3733](https://www.acmicpc.net/problem/3733) | Shares | ✓ |   |   |   |   |
 | [3765](https://www.acmicpc.net/problem/3765) | Celebrity jeopardy | ✓ |   |   |   |   |
 | [4101](https://www.acmicpc.net/problem/4101) | 크냐? | ✓ |   |   |   |   |
 | [4150](https://www.acmicpc.net/problem/4150) | 피보나치 수 | ✓ |   |   |   |   |
