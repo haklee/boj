@@ -111,6 +111,7 @@
 | [5211](https://www.acmicpc.net/problem/5211) | 가단조와 다장조 | ✓ |   |   |   |   |
 | [5337](https://www.acmicpc.net/problem/5337) | 웰컴 |   |   |   |   | [✓](boj/5337/91505264.txt) |
 | [5338](https://www.acmicpc.net/problem/5338) | 마이크로소프트 로고 |   |   |   |   | [✓](boj/5338/90507110.txt) |
+| [5339](https://www.acmicpc.net/problem/5339) | 콜센터 |   |   |   |   | ✓ |
 | [5341](https://www.acmicpc.net/problem/5341) | Pyramids | ✓ |   |   |   |   |
 | [5426](https://www.acmicpc.net/problem/5426) | 비밀 편지 | ✓ |   |   |   |   |
 | [5543](https://www.acmicpc.net/problem/5543) | 상근날드 | ✓ |   |   |   |   |
@@ -141,6 +142,7 @@
 | [9550](https://www.acmicpc.net/problem/9550) | 아이들은 사탕을 좋아해 | ✓ |   |   |   |   |
 | [9626](https://www.acmicpc.net/problem/9626) | 크로스워드 퍼즐 | ✓ |   |   |   |   |
 | [9653](https://www.acmicpc.net/problem/9653) | 스타워즈 로고 |   |   |   |   | ✓ |
+| [9656](https://www.acmicpc.net/problem/9656) | 돌 게임 2 | ✓ |   |   |   |   |
 | [9663](https://www.acmicpc.net/problem/9663) | N-Queen | ✓ |   |   |   |   |
 | [9698](https://www.acmicpc.net/problem/9698) | SAHUR & IMSA’ | ✓ |   |   |   |   |
 | [9935](https://www.acmicpc.net/problem/9935) | 문자열 폭발 | ✓ |   |   |   |   |
@@ -202,6 +204,7 @@
 | [14608](https://www.acmicpc.net/problem/14608) | 구분구적법 (Small) | ✓ |   |   |   |   |
 | [14623](https://www.acmicpc.net/problem/14623) | 감정이입 | ✓ |   |   |   |   |
 | [14645](https://www.acmicpc.net/problem/14645) | 와이버스 부릉부릉 | [✓](boj/14645/90473517.py) |   |   |   | [✓](boj/14645/90473544.txt) |
+| [14655](https://www.acmicpc.net/problem/14655) | 욱제는 도박쟁이야!! | ✓ |   |   |   |   |
 | [14681](https://www.acmicpc.net/problem/14681) | 사분면 고르기 | ✓ |   |   |   |   |
 | [14710](https://www.acmicpc.net/problem/14710) | 고장난 시계 | ✓ |   |   |   |   |
 | [14924](https://www.acmicpc.net/problem/14924) | 폰 노이만과 파리 | ✓ |   |   |   |   |
@@ -224,12 +227,14 @@
 | [15947](https://www.acmicpc.net/problem/15947) | 아기 석환 뚜루루 뚜루 | ✓ |   |   |   |   |
 | [15962](https://www.acmicpc.net/problem/15962) | 새로운 시작 |   |   |   |   | [✓](boj/15962/91280580.txt) |
 | [15964](https://www.acmicpc.net/problem/15964) | 이상한 기호 | ✓ |   |   |   |   |
+| [16170](https://www.acmicpc.net/problem/16170) | 오늘의 날짜는? |   |   |   |   | ✓ |
 | [16194](https://www.acmicpc.net/problem/16194) | 카드 구매하기 2 | ✓ |   |   |   |   |
 | [16204](https://www.acmicpc.net/problem/16204) | 카드 뽑기 | ✓ |   |   |   |   |
 | [16410](https://www.acmicpc.net/problem/16410) | Goat Rope | ✓ |   |   |   |   |
 | [16430](https://www.acmicpc.net/problem/16430) | 제리와 톰 | ✓ |   |   |   |   |
 | [16483](https://www.acmicpc.net/problem/16483) | 접시 안의 원 | ✓ |   |   |   |   |
 | [16533](https://www.acmicpc.net/problem/16533) | Mount Marathon | ✓ |   |   |   |   |
+| [16722](https://www.acmicpc.net/problem/16722) | 결! 합! | ✓ |   |   |   |   |
 | [16917](https://www.acmicpc.net/problem/16917) | 양념 반 후라이드 반 | ✓ |   |   |   |   |
 | [16953](https://www.acmicpc.net/problem/16953) | A → B | ✓ |   |   |   |   |
 | [16969](https://www.acmicpc.net/problem/16969) | 차량 번호판 2 | ✓ |   |   |   |   |
@@ -269,11 +274,13 @@
 | [23305](https://www.acmicpc.net/problem/23305) | 수강변경 | ✓ |   |   |   |   |
 | [23825](https://www.acmicpc.net/problem/23825) | SASA 모형을 만들어보자 | ✓ |   |   |   |   |
 | [23968](https://www.acmicpc.net/problem/23968) | 알고리즘 수업 - 버블 정렬 1 | ✓ |   |   |   |   |
+| [23977](https://www.acmicpc.net/problem/23977) | To Find Password | ✓ |   |   |   |   |
 | [24040](https://www.acmicpc.net/problem/24040) | 예쁜 케이크 | ✓ |   |   |   |   |
 | [24266](https://www.acmicpc.net/problem/24266) | 알고리즘 수업 - 알고리즘의 수행 시간 5 | ✓ |   |   |   |   |
 | [24723](https://www.acmicpc.net/problem/24723) | 녹색거탑 | ✓ |   |   |   |   |
 | [24765](https://www.acmicpc.net/problem/24765) | Mia | ✓ |   |   |   |   |
 | [24883](https://www.acmicpc.net/problem/24883) | 자동완성 | ✓ |   |   |   |   |
+| [24938](https://www.acmicpc.net/problem/24938) | 키트 분배하기 | ✓ |   |   |   |   |
 | [25083](https://www.acmicpc.net/problem/25083) | 새싹 | ✓ |   |   |   |   |
 | [25184](https://www.acmicpc.net/problem/25184) | 동가수열 구하기 | ✓ |   |   |   |   |
 | [25206](https://www.acmicpc.net/problem/25206) | 너의 평점은 | ✓ |   |   |   |   |
@@ -316,6 +323,7 @@
 | [30403](https://www.acmicpc.net/problem/30403) | 무지개 만들기 | ✓ |   |   |   |   |
 | [30456](https://www.acmicpc.net/problem/30456) | 바닥수 | ✓ |   |   |   |   |
 | [30794](https://www.acmicpc.net/problem/30794) | 가희와 클럽 오디션 1 | ✓ |   |   |   |   |
+| [30875](https://www.acmicpc.net/problem/30875) | Recovering the Region | ✓ |   |   |   |   |
 | [30876](https://www.acmicpc.net/problem/30876) | Tren del Fin del Mundo | ✓ |   |   |   |   |
 | [31000](https://www.acmicpc.net/problem/31000) | 교환 분배법칙 | ✓ |   |   |   |   |
 | [31215](https://www.acmicpc.net/problem/31215) | 이상한 섞기 연산 | ✓ |   |   |   |   |
@@ -327,6 +335,7 @@
 | [31589](https://www.acmicpc.net/problem/31589) | 포도주 시음 | ✓ |   |   |   |   |
 | [31668](https://www.acmicpc.net/problem/31668) | 특별한 가지 | ✓ |   |   |   |   |
 | [31868](https://www.acmicpc.net/problem/31868) | 수박 게임 | ✓ |   |   |   |   |
+| [31869](https://www.acmicpc.net/problem/31869) | 선배님 밥 사주세요! | ✓ |   |   |   |   |
 | [31926](https://www.acmicpc.net/problem/31926) | 밤양갱 | ✓ |   |   |   |   |
 | [32132](https://www.acmicpc.net/problem/32132) | PlayStation이 아니에요 | ✓ |   |   |   |   |
 | [32158](https://www.acmicpc.net/problem/32158) | SWAPC | ✓ |   |   |   |   |
