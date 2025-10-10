@@ -1,5 +1,47 @@
 [
   {
+    "submission_id": "99292844",
+    "problem_id": "4320",
+    "problem_title": "완전 P제곱수",
+    "language": "PyPy3",
+    "submission_time": "2025-10-10 10:39:42"
+  },
+  {
+    "submission_id": "99292435",
+    "problem_id": "15299",
+    "problem_title": "Best Rational Approximation",
+    "language": "PyPy3",
+    "submission_time": "2025-10-10 10:11:28"
+  },
+  {
+    "submission_id": "99292420",
+    "problem_id": "15299",
+    "problem_title": "Best Rational Approximation",
+    "language": "PyPy3",
+    "submission_time": "2025-10-10 10:09:47"
+  },
+  {
+    "submission_id": "99272310",
+    "problem_id": "21920",
+    "problem_title": "서로소 평균",
+    "language": "PyPy3",
+    "submission_time": "2025-10-09 15:29:52"
+  },
+  {
+    "submission_id": "99272247",
+    "problem_id": "6375",
+    "problem_title": "Set Me",
+    "language": "PyPy3",
+    "submission_time": "2025-10-09 15:27:55"
+  },
+  {
+    "submission_id": "99271736",
+    "problem_id": "9255",
+    "problem_title": "The Friend of My Enemy is My Enemy",
+    "language": "PyPy3",
+    "submission_time": "2025-10-09 15:10:51"
+  },
+  {
     "submission_id": "99249113",
     "problem_id": "30033",
     "problem_title": "Rust Study",

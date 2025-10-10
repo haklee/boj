@@ -106,6 +106,7 @@
 | [4153](https://www.acmicpc.net/problem/4153) | 직각삼각형 | ✓ |   |   |   |   |
 | [4187](https://www.acmicpc.net/problem/4187) | Scrolling Sign | ✓ |   |   |   |   |
 | [4299](https://www.acmicpc.net/problem/4299) | AFC 윔블던 | ✓ |   |   |   |   |
+| [4320](https://www.acmicpc.net/problem/4320) | 완전 P제곱수 | ✓ |   |   |   |   |
 | [4635](https://www.acmicpc.net/problem/4635) | Speed Limit | ✓ |   |   |   |   |
 | [4740](https://www.acmicpc.net/problem/4740) | 거울, 오! 거울 | ✓ |   |   |   |   |
 | [4779](https://www.acmicpc.net/problem/4779) | 칸토어 집합 | ✓ |   |   |   |   |
@@ -128,6 +129,7 @@
 | [5753](https://www.acmicpc.net/problem/5753) | Pascal Library | ✓ |   |   |   |   |
 | [5957](https://www.acmicpc.net/problem/5957) | Cleaning the Dishes | ✓ |   |   |   |   |
 | [6012](https://www.acmicpc.net/problem/6012) | The Big Dance | ✓ |   |   |   |   |
+| [6375](https://www.acmicpc.net/problem/6375) | Set Me | ✓ |   |   |   |   |
 | [6840](https://www.acmicpc.net/problem/6840) | Who is in the middle? | ✓ |   |   |   |   |
 | [7287](https://www.acmicpc.net/problem/7287) | 등록 | [✓](boj/7287/90410178.py) |   |   |   |   |
 | [7510](https://www.acmicpc.net/problem/7510) | 고급 수학 | ✓ |   |   |   |   |
@@ -138,6 +140,7 @@
 | [8892](https://www.acmicpc.net/problem/8892) | 팰린드롬 | ✓ |   |   |   |   |
 | [8911](https://www.acmicpc.net/problem/8911) | 거북이 | ✓ |   |   |   |   |
 | [9086](https://www.acmicpc.net/problem/9086) | 문자열 | ✓ |   |   |   |   |
+| [9255](https://www.acmicpc.net/problem/9255) | The Friend of My Enemy is My Enemy | ✓ |   |   |   |   |
 | [9288](https://www.acmicpc.net/problem/9288) | More Dice | ✓ |   |   |   |   |
 | [9316](https://www.acmicpc.net/problem/9316) | Hello Judge | ✓ |   |   |   |   |
 | [9322](https://www.acmicpc.net/problem/9322) | 철벽 보안 알고리즘 | ✓ |   |   |   |   |
@@ -219,6 +222,7 @@
 | [14954](https://www.acmicpc.net/problem/14954) | Happy Number | ✓ |   |   |   |   |
 | [15000](https://www.acmicpc.net/problem/15000) | CAPS | ✓ |   |   |   |   |
 | [15228](https://www.acmicpc.net/problem/15228) | 3D Printed Statues | ✓ |   |   |   |   |
+| [15299](https://www.acmicpc.net/problem/15299) | Best Rational Approximation | ✓ |   |   |   |   |
 | [15486](https://www.acmicpc.net/problem/15486) | 퇴사 2 | ✓ |   |   |   |   |
 | [15552](https://www.acmicpc.net/problem/15552) | 빠른 A+B | ✓ |   |   | ✓ |   |
 | [15624](https://www.acmicpc.net/problem/15624) | 피보나치 수 7 | ✓ |   |   |   |   |
@@ -277,6 +281,7 @@
 | [21603](https://www.acmicpc.net/problem/21603) | K 2K 게임 | ✓ |   |   |   |   |
 | [21612](https://www.acmicpc.net/problem/21612) | Boiling Water | ✓ |   |   |   |   |
 | [21633](https://www.acmicpc.net/problem/21633) | Bank Transfer | ✓ |   |   |   |   |
+| [21920](https://www.acmicpc.net/problem/21920) | 서로소 평균 | ✓ |   |   |   |   |
 | [22869](https://www.acmicpc.net/problem/22869) | 징검다리 건너기 (small) | ✓ |   |   |   |   |
 | [22871](https://www.acmicpc.net/problem/22871) | 징검다리 건너기 (large) | ✓ |   |   |   |   |
 | [23246](https://www.acmicpc.net/problem/23246) | Sport Climbing Combined | ✓ |   |   |   |   |
