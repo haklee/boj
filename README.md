@@ -217,6 +217,7 @@
 | [14655](https://www.acmicpc.net/problem/14655) | 욱제는 도박쟁이야!! | ✓ |   |   |   |   |
 | [14681](https://www.acmicpc.net/problem/14681) | 사분면 고르기 | ✓ |   |   |   |   |
 | [14710](https://www.acmicpc.net/problem/14710) | 고장난 시계 | ✓ |   |   |   |   |
+| [14921](https://www.acmicpc.net/problem/14921) | 용액 합성하기 | ✓ |   |   |   |   |
 | [14924](https://www.acmicpc.net/problem/14924) | 폰 노이만과 파리 | ✓ |   |   |   |   |
 | [14928](https://www.acmicpc.net/problem/14928) | 큰 수 (BIG) | ✓ |   |   |   |   |
 | [14954](https://www.acmicpc.net/problem/14954) | Happy Number | ✓ |   |   |   |   |
