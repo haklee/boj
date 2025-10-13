@@ -74,6 +74,7 @@
 | [2702](https://www.acmicpc.net/problem/2702) | 초6 수학 | ✓ |   |   |   |   |
 | [2729](https://www.acmicpc.net/problem/2729) | 이진수 덧셈 | ✓ |   |   |   |   |
 | [2739](https://www.acmicpc.net/problem/2739) | 구구단 | ✓ |   |   |   |   |
+| [2741](https://www.acmicpc.net/problem/2741) | N 찍기 | ✓ |   |   |   |   |
 | [2742](https://www.acmicpc.net/problem/2742) | 기찍 N | ✓ |   |   |   |   |
 | [2743](https://www.acmicpc.net/problem/2743) | 단어 길이 재기 | ✓ |   |   |   |   |
 | [2744](https://www.acmicpc.net/problem/2744) | 대소문자 바꾸기 | ✓ |   |   |   |   |
@@ -188,6 +189,7 @@
 | [11401](https://www.acmicpc.net/problem/11401) | 이항 계수 3 | ✓ |   |   |   |   |
 | [11444](https://www.acmicpc.net/problem/11444) | 피보나치 수 6 | ✓ |   |   |   |   |
 | [11557](https://www.acmicpc.net/problem/11557) | Yangjojang of The Year | ✓ |   |   |   |   |
+| [11579](https://www.acmicpc.net/problem/11579) | 초차원전쟁 이나 | ✓ |   |   |   |   |
 | [11648](https://www.acmicpc.net/problem/11648) | 지속 | ✓ |   |   |   |   |
 | [11650](https://www.acmicpc.net/problem/11650) | 좌표 정렬하기 | ✓ |   |   |   |   |
 | [11651](https://www.acmicpc.net/problem/11651) | 좌표 정렬하기 2 | ✓ |   |   |   |   |
