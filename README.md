@@ -147,6 +147,7 @@
 | [9322](https://www.acmicpc.net/problem/9322) | 철벽 보안 알고리즘 | ✓ |   |   |   |   |
 | [9342](https://www.acmicpc.net/problem/9342) | 염색체 | ✓ |   |   |   |   |
 | [9465](https://www.acmicpc.net/problem/9465) | 스티커 | ✓ |   |   |   |   |
+| [9498](https://www.acmicpc.net/problem/9498) | 시험 성적 | ✓ |   |   |   |   |
 | [9550](https://www.acmicpc.net/problem/9550) | 아이들은 사탕을 좋아해 | ✓ |   |   |   |   |
 | [9626](https://www.acmicpc.net/problem/9626) | 크로스워드 퍼즐 | ✓ |   |   |   |   |
 | [9653](https://www.acmicpc.net/problem/9653) | 스타워즈 로고 |   |   |   |   | ✓ |
