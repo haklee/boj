@@ -53,6 +53,7 @@
 | [2225](https://www.acmicpc.net/problem/2225) | 합분해 | ✓ |   |   |   |   |
 | [2231](https://www.acmicpc.net/problem/2231) | 분해합 | ✓ |   |   |   |   |
 | [2292](https://www.acmicpc.net/problem/2292) | 벌집 | ✓ |   |   |   |   |
+| [2309](https://www.acmicpc.net/problem/2309) | 일곱 난쟁이 | ✓ |   |   |   |   |
 | [2312](https://www.acmicpc.net/problem/2312) | 수 복원하기 | ✓ |   |   |   |   |
 | [2338](https://www.acmicpc.net/problem/2338) | 긴자리 계산 | ✓ |   |   |   |   |
 | [2393](https://www.acmicpc.net/problem/2393) | Rook |   |   |   |   | ✓ |
@@ -120,6 +121,7 @@
 | [5339](https://www.acmicpc.net/problem/5339) | 콜센터 |   |   |   |   | ✓ |
 | [5341](https://www.acmicpc.net/problem/5341) | Pyramids | ✓ |   |   |   |   |
 | [5426](https://www.acmicpc.net/problem/5426) | 비밀 편지 | ✓ |   |   |   |   |
+| [5522](https://www.acmicpc.net/problem/5522) | 카드 게임 | ✓ |   |   |   |   |
 | [5543](https://www.acmicpc.net/problem/5543) | 상근날드 | ✓ |   |   |   |   |
 | [5554](https://www.acmicpc.net/problem/5554) | 심부름 가는 길 | ✓ |   |   |   |   |
 | [5555](https://www.acmicpc.net/problem/5555) | 반지 | ✓ |   |   |   |   |
@@ -208,6 +210,7 @@
 | [13192](https://www.acmicpc.net/problem/13192) | Router 1 | ✓ |   |   |   |   |
 | [13268](https://www.acmicpc.net/problem/13268) | 셔틀런 | ✓ |   |   |   |   |
 | [13399](https://www.acmicpc.net/problem/13399) | Rearranging a Sequence | ✓ |   |   |   |   |
+| [13417](https://www.acmicpc.net/problem/13417) | 카드 문자열 | ✓ |   |   |   |   |
 | [13623](https://www.acmicpc.net/problem/13623) | Zero or One | ✓ |   |   |   |   |
 | [13698](https://www.acmicpc.net/problem/13698) | Hawk eyes | ✓ |   |   |   |   |
 | [14004](https://www.acmicpc.net/problem/14004) | ICPC | ✓ |   |   |   |   |
@@ -266,6 +269,7 @@
 | [17266](https://www.acmicpc.net/problem/17266) | 어두운 굴다리 | ✓ |   |   |   |   |
 | [17949](https://www.acmicpc.net/problem/17949) | Drop The Byte! | ✓ |   |   |   |   |
 | [18130](https://www.acmicpc.net/problem/18130) | 여름나기 | ✓ |   |   |   |   |
+| [18242](https://www.acmicpc.net/problem/18242) | 네모네모 시력검사 | ✓ |   |   |   |   |
 | [18245](https://www.acmicpc.net/problem/18245) | 이상한 나라의 암호 | ✓ |   |   |   |   |
 | [18269](https://www.acmicpc.net/problem/18269) | Where Am I? | ✓ |   |   |   |   |
 | [18422](https://www.acmicpc.net/problem/18422) | Emacs | ✓ |   |   |   |   |
@@ -314,6 +318,7 @@
 | [25594](https://www.acmicpc.net/problem/25594) | HG 음성기호 | ✓ |   |   |   |   |
 | [25600](https://www.acmicpc.net/problem/25600) | Triathlon | ✓ |   |   |   |   |
 | [25625](https://www.acmicpc.net/problem/25625) | 샤틀버스 | ✓ |   |   |   |   |
+| [25640](https://www.acmicpc.net/problem/25640) | MBTI | ✓ |   |   |   |   |
 | [25758](https://www.acmicpc.net/problem/25758) | 유전자 조합 | ✓ |   |   |   |   |
 | [25775](https://www.acmicpc.net/problem/25775) | Letter Frequency | ✓ |   |   |   |   |
 | [25858](https://www.acmicpc.net/problem/25858) | Divide the Cash |   |   |   | ✓ |   |

@@ -1,5 +1,40 @@
 [
   {
+    "submission_id": "99461680",
+    "problem_id": "5522",
+    "problem_title": "카드 게임",
+    "language": "PyPy3",
+    "submission_time": "2025-10-16 13:17:43"
+  },
+  {
+    "submission_id": "99431547",
+    "problem_id": "13417",
+    "problem_title": "카드 문자열",
+    "language": "PyPy3",
+    "submission_time": "2025-10-15 13:27:53"
+  },
+  {
+    "submission_id": "99431406",
+    "problem_id": "18242",
+    "problem_title": "네모네모 시력검사",
+    "language": "PyPy3",
+    "submission_time": "2025-10-15 13:22:29"
+  },
+  {
+    "submission_id": "99431074",
+    "problem_id": "2309",
+    "problem_title": "일곱 난쟁이",
+    "language": "PyPy3",
+    "submission_time": "2025-10-15 13:08:58"
+  },
+  {
+    "submission_id": "99430830",
+    "problem_id": "25640",
+    "problem_title": "MBTI",
+    "language": "PyPy3",
+    "submission_time": "2025-10-15 12:56:52"
+  },
+  {
     "submission_id": "99399162",
     "problem_id": "9498",
     "problem_title": "시험 성적",
