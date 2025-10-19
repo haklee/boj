@@ -1,5 +1,33 @@
 [
   {
+    "submission_id": "99540889",
+    "problem_id": "17433",
+    "problem_title": "신비로운 수",
+    "language": "PyPy3",
+    "submission_time": "2025-10-19 14:38:37"
+  },
+  {
+    "submission_id": "99540748",
+    "problem_id": "1911",
+    "problem_title": "흙길 보수하기",
+    "language": "PyPy3",
+    "submission_time": "2025-10-19 14:33:35"
+  },
+  {
+    "submission_id": "99540523",
+    "problem_id": "27296",
+    "problem_title": "카탈란 마스터의 선분 그리기 게임",
+    "language": "PyPy3",
+    "submission_time": "2025-10-19 14:23:28"
+  },
+  {
+    "submission_id": "99513281",
+    "problem_id": "8370",
+    "problem_title": "Plane",
+    "language": "PyPy3",
+    "submission_time": "2025-10-18 10:41:41"
+  },
+  {
     "submission_id": "99484167",
     "problem_id": "7891",
     "problem_title": "Can you add this?",

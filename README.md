@@ -37,6 +37,7 @@
 | [1740](https://www.acmicpc.net/problem/1740) | 거듭제곱 | ✓ |   |   |   |   |
 | [1806](https://www.acmicpc.net/problem/1806) | 부분합 | ✓ |   |   |   |   |
 | [1816](https://www.acmicpc.net/problem/1816) | 암호 키 | ✓ |   |   |   |   |
+| [1911](https://www.acmicpc.net/problem/1911) | 흙길 보수하기 | ✓ |   |   |   |   |
 | [1924](https://www.acmicpc.net/problem/1924) | 2007년 | ✓ |   |   |   |   |
 | [1931](https://www.acmicpc.net/problem/1931) | 회의실 배정 | ✓ |   |   |   |   |
 | [1932](https://www.acmicpc.net/problem/1932) | 정수 삼각형 | ✓ |   |   |   |   |
@@ -140,6 +141,7 @@
 | [7572](https://www.acmicpc.net/problem/7572) | 간지(干支) | ✓ |   |   |   |   |
 | [7600](https://www.acmicpc.net/problem/7600) | 문자가 몇갤까 | ✓ |   |   |   |   |
 | [7891](https://www.acmicpc.net/problem/7891) | Can you add this? | ✓ |   |   |   |   |
+| [8370](https://www.acmicpc.net/problem/8370) | Plane | ✓ |   |   |   |   |
 | [8393](https://www.acmicpc.net/problem/8393) | 합 | ✓ |   |   |   |   |
 | [8892](https://www.acmicpc.net/problem/8892) | 팰린드롬 | ✓ |   |   |   |   |
 | [8911](https://www.acmicpc.net/problem/8911) | 거북이 | ✓ |   |   |   |   |
@@ -268,6 +270,7 @@
 | [17224](https://www.acmicpc.net/problem/17224) | APC는 왜 서브태스크 대회가 되었을까? | ✓ |   |   |   |   |
 | [17256](https://www.acmicpc.net/problem/17256) | 달달함이 넘쳐흘러 | ✓ |   |   |   |   |
 | [17266](https://www.acmicpc.net/problem/17266) | 어두운 굴다리 | ✓ |   |   |   |   |
+| [17433](https://www.acmicpc.net/problem/17433) | 신비로운 수 | ✓ |   |   |   |   |
 | [17949](https://www.acmicpc.net/problem/17949) | Drop The Byte! | ✓ |   |   |   |   |
 | [18130](https://www.acmicpc.net/problem/18130) | 여름나기 | ✓ |   |   |   |   |
 | [18242](https://www.acmicpc.net/problem/18242) | 네모네모 시력검사 | ✓ |   |   |   |   |
@@ -330,6 +333,7 @@
 | [26575](https://www.acmicpc.net/problem/26575) | Pups | ✓ |   |   |   |   |
 | [26711](https://www.acmicpc.net/problem/26711) | A+B | ✓ |   |   |   |   |
 | [27294](https://www.acmicpc.net/problem/27294) | 몇개고? | ✓ |   |   |   |   |
+| [27296](https://www.acmicpc.net/problem/27296) | 카탈란 마스터의 선분 그리기 게임 | ✓ |   |   |   |   |
 | [27323](https://www.acmicpc.net/problem/27323) | 직사각형 | ✓ |   |   |   |   |
 | [27433](https://www.acmicpc.net/problem/27433) | 팩토리얼 2 | ✓ |   |   |   |   |
 | [27434](https://www.acmicpc.net/problem/27434) | 팩토리얼 3 | ✓ |   |   |   |   |
