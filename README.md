@@ -99,6 +99,7 @@
 | [3047](https://www.acmicpc.net/problem/3047) | ABC | ✓ |   |   |   |   |
 | [3062](https://www.acmicpc.net/problem/3062) | 수 뒤집기 | ✓ |   |   |   |   |
 | [3077](https://www.acmicpc.net/problem/3077) | 임진왜란 | ✓ |   |   |   |   |
+| [3252](https://www.acmicpc.net/problem/3252) | JANICA | ✓ |   |   |   |   |
 | [3578](https://www.acmicpc.net/problem/3578) | Holes | ✓ |   |   |   |   |
 | [3711](https://www.acmicpc.net/problem/3711) | 학번 | ✓ |   |   |   |   |
 | [3724](https://www.acmicpc.net/problem/3724) | 표 | ✓ |   |   |   |   |
