@@ -19,6 +19,7 @@
 | [1094](https://www.acmicpc.net/problem/1094) | 막대기 | [✓](boj/1094/94604823.py) |   |   |   |   |
 | [1149](https://www.acmicpc.net/problem/1149) | RGB거리 | [✓](boj/1149/94900068.py) |   |   |   |   |
 | [1181](https://www.acmicpc.net/problem/1181) | 단어 정렬 | [✓](boj/1181/90797330.py) |   |   |   |   |
+| [1197](https://www.acmicpc.net/problem/1197) | 최소 스패닝 트리 | ✓ |   |   |   |   |
 | [1212](https://www.acmicpc.net/problem/1212) | 8진수 2진수 | [✓](boj/1212/94692869.py) |   |   |   |   |
 | [1244](https://www.acmicpc.net/problem/1244) | 스위치 켜고 끄기 | ✓ |   |   |   |   |
 | [1246](https://www.acmicpc.net/problem/1246) | 온라인 판매 | ✓ |   |   |   |   |
@@ -32,12 +33,14 @@
 | [1531](https://www.acmicpc.net/problem/1531) | 투명 | ✓ |   |   |   |   |
 | [1546](https://www.acmicpc.net/problem/1546) | 평균 | ✓ |   |   |   |   |
 | [1629](https://www.acmicpc.net/problem/1629) | 곱셈 | [✓](boj/1629/91048349.py) |   |   |   |   |
+| [1647](https://www.acmicpc.net/problem/1647) | 도시 분할 계획 | ✓ |   |   |   |   |
 | [1676](https://www.acmicpc.net/problem/1676) | 팩토리얼 0의 개수 | ✓ |   |   |   |   |
 | [1735](https://www.acmicpc.net/problem/1735) | 분수 합 | ✓ |   |   |   |   |
 | [1740](https://www.acmicpc.net/problem/1740) | 거듭제곱 | ✓ |   |   |   |   |
 | [1806](https://www.acmicpc.net/problem/1806) | 부분합 | ✓ |   |   |   |   |
 | [1816](https://www.acmicpc.net/problem/1816) | 암호 키 | ✓ |   |   |   |   |
 | [1911](https://www.acmicpc.net/problem/1911) | 흙길 보수하기 | ✓ |   |   |   |   |
+| [1922](https://www.acmicpc.net/problem/1922) | 네트워크 연결 | ✓ |   |   |   |   |
 | [1924](https://www.acmicpc.net/problem/1924) | 2007년 | ✓ |   |   |   |   |
 | [1931](https://www.acmicpc.net/problem/1931) | 회의실 배정 | ✓ |   |   |   |   |
 | [1932](https://www.acmicpc.net/problem/1932) | 정수 삼각형 | ✓ |   |   |   |   |
@@ -105,6 +108,7 @@
 | [3724](https://www.acmicpc.net/problem/3724) | 표 | ✓ |   |   |   |   |
 | [3733](https://www.acmicpc.net/problem/3733) | Shares | ✓ |   |   |   |   |
 | [3765](https://www.acmicpc.net/problem/3765) | Celebrity jeopardy | ✓ |   |   |   |   |
+| [3803](https://www.acmicpc.net/problem/3803) | Networking | ✓ |   |   |   |   |
 | [4101](https://www.acmicpc.net/problem/4101) | 크냐? | ✓ |   |   |   |   |
 | [4150](https://www.acmicpc.net/problem/4150) | 피보나치 수 | ✓ |   |   |   |   |
 | [4153](https://www.acmicpc.net/problem/4153) | 직각삼각형 | ✓ |   |   |   |   |
@@ -135,7 +139,9 @@
 | [5957](https://www.acmicpc.net/problem/5957) | Cleaning the Dishes | ✓ |   |   |   |   |
 | [6012](https://www.acmicpc.net/problem/6012) | The Big Dance | ✓ |   |   |   |   |
 | [6375](https://www.acmicpc.net/problem/6375) | Set Me | ✓ |   |   |   |   |
+| [6497](https://www.acmicpc.net/problem/6497) | 전력난 | ✓ |   |   |   |   |
 | [6840](https://www.acmicpc.net/problem/6840) | Who is in the middle? | ✓ |   |   |   |   |
+| [7044](https://www.acmicpc.net/problem/7044) | Bad Cowtractors | ✓ |   |   |   |   |
 | [7287](https://www.acmicpc.net/problem/7287) | 등록 | [✓](boj/7287/90410178.py) |   |   |   |   |
 | [7510](https://www.acmicpc.net/problem/7510) | 고급 수학 | ✓ |   |   |   |   |
 | [7523](https://www.acmicpc.net/problem/7523) | Gauß | ✓ |   |   |   |   |
@@ -144,6 +150,7 @@
 | [7891](https://www.acmicpc.net/problem/7891) | Can you add this? | ✓ |   |   |   |   |
 | [8370](https://www.acmicpc.net/problem/8370) | Plane | ✓ |   |   |   |   |
 | [8393](https://www.acmicpc.net/problem/8393) | 합 | ✓ |   |   |   |   |
+| [8545](https://www.acmicpc.net/problem/8545) | Zadanie próbne | ✓ |   |   |   |   |
 | [8892](https://www.acmicpc.net/problem/8892) | 팰린드롬 | ✓ |   |   |   |   |
 | [8911](https://www.acmicpc.net/problem/8911) | 거북이 | ✓ |   |   |   |   |
 | [9086](https://www.acmicpc.net/problem/9086) | 문자열 | ✓ |   |   |   |   |
@@ -247,6 +254,7 @@
 | [15680](https://www.acmicpc.net/problem/15680) | 연세대학교 | ✓ |   |   |   |   |
 | [15734](https://www.acmicpc.net/problem/15734) | 명장 남정훈 | ✓ |   |   |   |   |
 | [15810](https://www.acmicpc.net/problem/15810) | 풍선 공장 | ✓ |   |   |   |   |
+| [15835](https://www.acmicpc.net/problem/15835) | Explorace | ✓ |   |   |   |   |
 | [15873](https://www.acmicpc.net/problem/15873) | 공백 없는 A+B | ✓ |   |   |   |   |
 | [15947](https://www.acmicpc.net/problem/15947) | 아기 석환 뚜루루 뚜루 | ✓ |   |   |   |   |
 | [15962](https://www.acmicpc.net/problem/15962) | 새로운 시작 |   |   |   |   | [✓](boj/15962/91280580.txt) |
@@ -255,6 +263,7 @@
 | [16170](https://www.acmicpc.net/problem/16170) | 오늘의 날짜는? |   |   |   |   | ✓ |
 | [16194](https://www.acmicpc.net/problem/16194) | 카드 구매하기 2 | ✓ |   |   |   |   |
 | [16204](https://www.acmicpc.net/problem/16204) | 카드 뽑기 | ✓ |   |   |   |   |
+| [16398](https://www.acmicpc.net/problem/16398) | 행성 연결 | ✓ |   |   |   |   |
 | [16410](https://www.acmicpc.net/problem/16410) | Goat Rope | ✓ |   |   |   |   |
 | [16430](https://www.acmicpc.net/problem/16430) | 제리와 톰 | ✓ |   |   |   |   |
 | [16483](https://www.acmicpc.net/problem/16483) | 접시 안의 원 | ✓ |   |   |   |   |
@@ -295,6 +304,7 @@
 | [21612](https://www.acmicpc.net/problem/21612) | Boiling Water | ✓ |   |   |   |   |
 | [21633](https://www.acmicpc.net/problem/21633) | Bank Transfer | ✓ |   |   |   |   |
 | [21920](https://www.acmicpc.net/problem/21920) | 서로소 평균 | ✓ |   |   |   |   |
+| [21924](https://www.acmicpc.net/problem/21924) | 도시 건설 | ✓ |   |   |   |   |
 | [22869](https://www.acmicpc.net/problem/22869) | 징검다리 건너기 (small) | ✓ |   |   |   |   |
 | [22871](https://www.acmicpc.net/problem/22871) | 징검다리 건너기 (large) | ✓ |   |   |   |   |
 | [23246](https://www.acmicpc.net/problem/23246) | Sport Climbing Combined | ✓ |   |   |   |   |
@@ -366,6 +376,7 @@
 | [31450](https://www.acmicpc.net/problem/31450) | Everyone is a winner | ✓ |   |   |   |   |
 | [31518](https://www.acmicpc.net/problem/31518) | Triple Sevens | ✓ |   |   |   |   |
 | [31589](https://www.acmicpc.net/problem/31589) | 포도주 시음 | ✓ |   |   |   |   |
+| [31656](https://www.acmicpc.net/problem/31656) | Sticky Keys | ✓ |   |   |   |   |
 | [31668](https://www.acmicpc.net/problem/31668) | 특별한 가지 | ✓ |   |   |   |   |
 | [31868](https://www.acmicpc.net/problem/31868) | 수박 게임 | ✓ |   |   |   |   |
 | [31869](https://www.acmicpc.net/problem/31869) | 선배님 밥 사주세요! | ✓ |   |   |   |   |
