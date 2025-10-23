@@ -51,6 +51,7 @@
 | [2078](https://www.acmicpc.net/problem/2078) | 무한이진트리 | ✓ |   |   |   |   |
 | [2083](https://www.acmicpc.net/problem/2083) | 럭비 클럽 | [✓](boj/2083/91774381.py) |   |   |   |   |
 | [2096](https://www.acmicpc.net/problem/2096) | 내려가기 | ✓ |   |   |   |   |
+| [2143](https://www.acmicpc.net/problem/2143) | 두 배열의 합 | ✓ |   |   |   |   |
 | [2156](https://www.acmicpc.net/problem/2156) | 포도주 시식 | ✓ |   |   |   |   |
 | [2166](https://www.acmicpc.net/problem/2166) | 다각형의 면적 | ✓ |   |   |   |   |
 | [2167](https://www.acmicpc.net/problem/2167) | 2차원 배열의 합 | ✓ |   |   |   |   |
@@ -268,6 +269,7 @@
 | [16430](https://www.acmicpc.net/problem/16430) | 제리와 톰 | ✓ |   |   |   |   |
 | [16483](https://www.acmicpc.net/problem/16483) | 접시 안의 원 | ✓ |   |   |   |   |
 | [16533](https://www.acmicpc.net/problem/16533) | Mount Marathon | ✓ |   |   |   |   |
+| [16609](https://www.acmicpc.net/problem/16609) | Inflation | ✓ |   |   |   |   |
 | [16722](https://www.acmicpc.net/problem/16722) | 결! 합! | ✓ |   |   |   |   |
 | [16917](https://www.acmicpc.net/problem/16917) | 양념 반 후라이드 반 | ✓ |   |   |   |   |
 | [16953](https://www.acmicpc.net/problem/16953) | A → B | ✓ |   |   |   |   |
@@ -372,6 +374,7 @@
 | [31215](https://www.acmicpc.net/problem/31215) | 이상한 섞기 연산 | ✓ |   |   |   |   |
 | [31287](https://www.acmicpc.net/problem/31287) | 장난감 강아지 | ✓ |   |   |   |   |
 | [31288](https://www.acmicpc.net/problem/31288) | 캬루 | ✓ |   |   |   |   |
+| [31409](https://www.acmicpc.net/problem/31409) | 착신 전환 소동 | ✓ |   |   |   |   |
 | [31429](https://www.acmicpc.net/problem/31429) | SUAPC 2023 Summer | ✓ |   |   |   |   |
 | [31450](https://www.acmicpc.net/problem/31450) | Everyone is a winner | ✓ |   |   |   |   |
 | [31518](https://www.acmicpc.net/problem/31518) | Triple Sevens | ✓ |   |   |   |   |
@@ -399,5 +402,6 @@
 | [33709](https://www.acmicpc.net/problem/33709) | 치매예방수칙 3.3.3 | ✓ |   |   |   |   |
 | [33846](https://www.acmicpc.net/problem/33846) | 삽입 정렬을 해볼까 | ✓ |   |   |   |   |
 | [33871](https://www.acmicpc.net/problem/33871) | 서로소 게임 | ✓ |   |   |   |   |
+| [33924](https://www.acmicpc.net/problem/33924) | 신묘마루의 요술망치 | ✓ |   |   |   |   |
 | [34217](https://www.acmicpc.net/problem/34217) | 찾아오시는 길 | ✓ |   |   |   |   |
 | [34297](https://www.acmicpc.net/problem/34297) | Parking Pandemonium | ✓ |   |   |   |   |
