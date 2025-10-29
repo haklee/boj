@@ -13,6 +13,7 @@
 |---------|------|----|-----|----|----|-----|
 | [1000](https://www.acmicpc.net/problem/1000) | A+B | [✓](boj/1000/90688966.py) |   |   | [✓](boj/1000/95037866.js) |   |
 | [1001](https://www.acmicpc.net/problem/1001) | A-B | [✓](boj/1001/90693709.py) |   |   | [✓](boj/1001/95037980.js) |   |
+| [1005](https://www.acmicpc.net/problem/1005) | ACM Craft | ✓ |   |   |   |   |
 | [1008](https://www.acmicpc.net/problem/1008) | A/B | [✓](boj/1008/91363145.py) |   |   | [✓](boj/1008/95037997.js) |   |
 | [1011](https://www.acmicpc.net/problem/1011) | Fly me to the Alpha Centauri | ✓ |   |   |   |   |
 | [1018](https://www.acmicpc.net/problem/1018) | 체스판 다시 칠하기 | ✓ |   |   |   |   |
@@ -20,6 +21,7 @@
 | [1149](https://www.acmicpc.net/problem/1149) | RGB거리 | [✓](boj/1149/94900068.py) |   |   |   |   |
 | [1181](https://www.acmicpc.net/problem/1181) | 단어 정렬 | [✓](boj/1181/90797330.py) |   |   |   |   |
 | [1197](https://www.acmicpc.net/problem/1197) | 최소 스패닝 트리 | ✓ |   |   |   |   |
+| [1202](https://www.acmicpc.net/problem/1202) | 보석 도둑 | ✓ |   |   |   |   |
 | [1212](https://www.acmicpc.net/problem/1212) | 8진수 2진수 | [✓](boj/1212/94692869.py) |   |   |   |   |
 | [1244](https://www.acmicpc.net/problem/1244) | 스위치 켜고 끄기 | ✓ |   |   |   |   |
 | [1246](https://www.acmicpc.net/problem/1246) | 온라인 판매 | ✓ |   |   |   |   |
@@ -30,8 +32,10 @@
 | [1331](https://www.acmicpc.net/problem/1331) | 나이트 투어 | ✓ |   |   |   |   |
 | [1373](https://www.acmicpc.net/problem/1373) | 2진수 8진수 | ✓ |   |   |   |   |
 | [1436](https://www.acmicpc.net/problem/1436) | 영화감독 숌 | ✓ |   |   |   |   |
+| [1439](https://www.acmicpc.net/problem/1439) | 뒤집기 | ✓ |   |   |   |   |
 | [1531](https://www.acmicpc.net/problem/1531) | 투명 | ✓ |   |   |   |   |
 | [1546](https://www.acmicpc.net/problem/1546) | 평균 | ✓ |   |   |   |   |
+| [1564](https://www.acmicpc.net/problem/1564) | 팩토리얼5 | ✓ |   |   |   |   |
 | [1629](https://www.acmicpc.net/problem/1629) | 곱셈 | [✓](boj/1629/91048349.py) |   |   |   |   |
 | [1647](https://www.acmicpc.net/problem/1647) | 도시 분할 계획 | ✓ |   |   |   |   |
 | [1676](https://www.acmicpc.net/problem/1676) | 팩토리얼 0의 개수 | ✓ |   |   |   |   |
@@ -57,6 +61,7 @@
 | [2167](https://www.acmicpc.net/problem/2167) | 2차원 배열의 합 | ✓ |   |   |   |   |
 | [2225](https://www.acmicpc.net/problem/2225) | 합분해 | ✓ |   |   |   |   |
 | [2231](https://www.acmicpc.net/problem/2231) | 분해합 | ✓ |   |   |   |   |
+| [2252](https://www.acmicpc.net/problem/2252) | 줄 세우기 | ✓ |   |   |   |   |
 | [2292](https://www.acmicpc.net/problem/2292) | 벌집 | ✓ |   |   |   |   |
 | [2309](https://www.acmicpc.net/problem/2309) | 일곱 난쟁이 | ✓ |   |   |   |   |
 | [2312](https://www.acmicpc.net/problem/2312) | 수 복원하기 | ✓ |   |   |   |   |
@@ -66,6 +71,7 @@
 | [2428](https://www.acmicpc.net/problem/2428) | 표절 | ✓ |   |   |   |   |
 | [2438](https://www.acmicpc.net/problem/2438) | 별 찍기 - 1 | ✓ |   |   |   |   |
 | [2439](https://www.acmicpc.net/problem/2439) | 별 찍기 - 2 | ✓ |   |   |   |   |
+| [2440](https://www.acmicpc.net/problem/2440) | 별 찍기 - 3 | ✓ |   |   |   |   |
 | [2444](https://www.acmicpc.net/problem/2444) | 별 찍기 - 7 | ✓ |   |   |   |   |
 | [2448](https://www.acmicpc.net/problem/2448) | 별 찍기 - 11 | ✓ |   |   |   |   |
 | [2467](https://www.acmicpc.net/problem/2467) | 용액 | ✓ |   |   |   |   |
@@ -76,6 +82,7 @@
 | [2577](https://www.acmicpc.net/problem/2577) | 숫자의 개수 | ✓ |   |   |   |   |
 | [2605](https://www.acmicpc.net/problem/2605) | 줄 세우기 | ✓ |   |   |   |   |
 | [2609](https://www.acmicpc.net/problem/2609) | 최대공약수와 최소공배수 | ✓ |   |   |   |   |
+| [2659](https://www.acmicpc.net/problem/2659) | 십자카드 문제 | ✓ |   |   |   |   |
 | [2675](https://www.acmicpc.net/problem/2675) | 문자열 반복 | ✓ |   |   |   |   |
 | [2702](https://www.acmicpc.net/problem/2702) | 초6 수학 | ✓ |   |   |   |   |
 | [2729](https://www.acmicpc.net/problem/2729) | 이진수 덧셈 | ✓ |   |   |   |   |
@@ -165,6 +172,7 @@
 | [9550](https://www.acmicpc.net/problem/9550) | 아이들은 사탕을 좋아해 | ✓ |   |   |   |   |
 | [9626](https://www.acmicpc.net/problem/9626) | 크로스워드 퍼즐 | ✓ |   |   |   |   |
 | [9653](https://www.acmicpc.net/problem/9653) | 스타워즈 로고 |   |   |   |   | ✓ |
+| [9654](https://www.acmicpc.net/problem/9654) | 나부 함대 데이터 |   |   |   |   | ✓ |
 | [9656](https://www.acmicpc.net/problem/9656) | 돌 게임 2 | ✓ |   |   |   |   |
 | [9663](https://www.acmicpc.net/problem/9663) | N-Queen | ✓ |   |   |   |   |
 | [9698](https://www.acmicpc.net/problem/9698) | SAHUR & IMSA’ | ✓ |   |   |   |   |
@@ -257,6 +265,7 @@
 | [15810](https://www.acmicpc.net/problem/15810) | 풍선 공장 | ✓ |   |   |   |   |
 | [15835](https://www.acmicpc.net/problem/15835) | Explorace | ✓ |   |   |   |   |
 | [15873](https://www.acmicpc.net/problem/15873) | 공백 없는 A+B | ✓ |   |   |   |   |
+| [15922](https://www.acmicpc.net/problem/15922) | 아우으 우아으이야!! | ✓ |   |   |   |   |
 | [15947](https://www.acmicpc.net/problem/15947) | 아기 석환 뚜루루 뚜루 | ✓ |   |   |   |   |
 | [15962](https://www.acmicpc.net/problem/15962) | 새로운 시작 |   |   |   |   | [✓](boj/15962/91280580.txt) |
 | [15964](https://www.acmicpc.net/problem/15964) | 이상한 기호 | ✓ |   |   |   |   |
@@ -284,6 +293,9 @@
 | [17266](https://www.acmicpc.net/problem/17266) | 어두운 굴다리 | ✓ |   |   |   |   |
 | [17433](https://www.acmicpc.net/problem/17433) | 신비로운 수 | ✓ |   |   |   |   |
 | [17949](https://www.acmicpc.net/problem/17949) | Drop The Byte! | ✓ |   |   |   |   |
+| [18108](https://www.acmicpc.net/problem/18108) | 1998년생인 내가 태국에서는 2541년생?! | ✓ |   |   |   |   |
+| [18111](https://www.acmicpc.net/problem/18111) | 마인크래프트 | ✓ |   |   |   |   |
+| [18113](https://www.acmicpc.net/problem/18113) | 그르다 김가놈 | ✓ |   |   |   |   |
 | [18130](https://www.acmicpc.net/problem/18130) | 여름나기 | ✓ |   |   |   |   |
 | [18242](https://www.acmicpc.net/problem/18242) | 네모네모 시력검사 | ✓ |   |   |   |   |
 | [18245](https://www.acmicpc.net/problem/18245) | 이상한 나라의 암호 | ✓ |   |   |   |   |
@@ -312,6 +324,7 @@
 | [23246](https://www.acmicpc.net/problem/23246) | Sport Climbing Combined | ✓ |   |   |   |   |
 | [23276](https://www.acmicpc.net/problem/23276) | Locust Locus | ✓ |   |   |   |   |
 | [23279](https://www.acmicpc.net/problem/23279) | 서열 사회 | ✓ |   |   |   |   |
+| [23300](https://www.acmicpc.net/problem/23300) | 웹 브라우저 2 | ✓ |   |   |   |   |
 | [23305](https://www.acmicpc.net/problem/23305) | 수강변경 | ✓ |   |   |   |   |
 | [23825](https://www.acmicpc.net/problem/23825) | SASA 모형을 만들어보자 | ✓ |   |   |   |   |
 | [23968](https://www.acmicpc.net/problem/23968) | 알고리즘 수업 - 버블 정렬 1 | ✓ |   |   |   |   |
@@ -402,6 +415,7 @@
 | [33709](https://www.acmicpc.net/problem/33709) | 치매예방수칙 3.3.3 | ✓ |   |   |   |   |
 | [33846](https://www.acmicpc.net/problem/33846) | 삽입 정렬을 해볼까 | ✓ |   |   |   |   |
 | [33871](https://www.acmicpc.net/problem/33871) | 서로소 게임 | ✓ |   |   |   |   |
+| [33904](https://www.acmicpc.net/problem/33904) | 불필요한 for문 | ✓ |   |   |   |   |
 | [33924](https://www.acmicpc.net/problem/33924) | 신묘마루의 요술망치 | ✓ |   |   |   |   |
 | [34217](https://www.acmicpc.net/problem/34217) | 찾아오시는 길 | ✓ |   |   |   |   |
 | [34297](https://www.acmicpc.net/problem/34297) | Parking Pandemonium | ✓ |   |   |   |   |
