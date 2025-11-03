@@ -61,6 +61,7 @@
 | [2167](https://www.acmicpc.net/problem/2167) | 2차원 배열의 합 | ✓ |   |   |   |   |
 | [2225](https://www.acmicpc.net/problem/2225) | 합분해 | ✓ |   |   |   |   |
 | [2231](https://www.acmicpc.net/problem/2231) | 분해합 | ✓ |   |   |   |   |
+| [2239](https://www.acmicpc.net/problem/2239) | 스도쿠 | ✓ |   |   |   |   |
 | [2252](https://www.acmicpc.net/problem/2252) | 줄 세우기 | ✓ |   |   |   |   |
 | [2292](https://www.acmicpc.net/problem/2292) | 벌집 | ✓ |   |   |   |   |
 | [2309](https://www.acmicpc.net/problem/2309) | 일곱 난쟁이 | ✓ |   |   |   |   |
@@ -123,6 +124,7 @@
 | [4187](https://www.acmicpc.net/problem/4187) | Scrolling Sign | ✓ |   |   |   |   |
 | [4299](https://www.acmicpc.net/problem/4299) | AFC 윔블던 | ✓ |   |   |   |   |
 | [4320](https://www.acmicpc.net/problem/4320) | 완전 P제곱수 | ✓ |   |   |   |   |
+| [4485](https://www.acmicpc.net/problem/4485) | 녹색 옷 입은 애가 젤다지? | ✓ |   |   |   |   |
 | [4635](https://www.acmicpc.net/problem/4635) | Speed Limit | ✓ |   |   |   |   |
 | [4740](https://www.acmicpc.net/problem/4740) | 거울, 오! 거울 | ✓ |   |   |   |   |
 | [4779](https://www.acmicpc.net/problem/4779) | 칸토어 집합 | ✓ |   |   |   |   |
@@ -181,6 +183,8 @@
 | [10171](https://www.acmicpc.net/problem/10171) | 고양이 |   |   |   |   | [✓](boj/10171/90693605.txt) |
 | [10172](https://www.acmicpc.net/problem/10172) | 개 |   |   |   |   | [✓](boj/10172/90561873.txt) |
 | [10189](https://www.acmicpc.net/problem/10189) | Hook |   |   |   |   | ✓ |
+| [10261](https://www.acmicpc.net/problem/10261) | Catalan Square | ✓ |   |   |   |   |
+| [10430](https://www.acmicpc.net/problem/10430) | 나머지 | ✓ |   |   |   |   |
 | [10471](https://www.acmicpc.net/problem/10471) | 공간을 만들어 봅시다 | ✓ |   |   |   |   |
 | [10501](https://www.acmicpc.net/problem/10501) | Ragged Right | ✓ |   |   |   |   |
 | [10699](https://www.acmicpc.net/problem/10699) | 오늘 날짜 | [✓](boj/10699/90381697.py) | [✓](boj/10699/90381637.cpp) | [✓](boj/10699/90381720.cs) | [✓](boj/10699/90381683.js) | [✓](boj/10699/90381735.txt) |
@@ -213,6 +217,7 @@
 | [11444](https://www.acmicpc.net/problem/11444) | 피보나치 수 6 | ✓ |   |   |   |   |
 | [11557](https://www.acmicpc.net/problem/11557) | Yangjojang of The Year | ✓ |   |   |   |   |
 | [11579](https://www.acmicpc.net/problem/11579) | 초차원전쟁 이나 | ✓ |   |   |   |   |
+| [11585](https://www.acmicpc.net/problem/11585) | 속타는 저녁 메뉴 | ✓ |   |   |   |   |
 | [11648](https://www.acmicpc.net/problem/11648) | 지속 | ✓ |   |   |   |   |
 | [11650](https://www.acmicpc.net/problem/11650) | 좌표 정렬하기 | ✓ |   |   |   |   |
 | [11651](https://www.acmicpc.net/problem/11651) | 좌표 정렬하기 2 | ✓ |   |   |   |   |
@@ -250,6 +255,7 @@
 | [15000](https://www.acmicpc.net/problem/15000) | CAPS | ✓ |   |   |   |   |
 | [15228](https://www.acmicpc.net/problem/15228) | 3D Printed Statues | ✓ |   |   |   |   |
 | [15299](https://www.acmicpc.net/problem/15299) | Best Rational Approximation | ✓ |   |   |   |   |
+| [15311](https://www.acmicpc.net/problem/15311) | 약 팔기 | ✓ |   |   |   |   |
 | [15486](https://www.acmicpc.net/problem/15486) | 퇴사 2 | ✓ |   |   |   |   |
 | [15552](https://www.acmicpc.net/problem/15552) | 빠른 A+B | ✓ |   |   | ✓ |   |
 | [15624](https://www.acmicpc.net/problem/15624) | 피보나치 수 7 | ✓ |   |   |   |   |
@@ -291,6 +297,7 @@
 | [17224](https://www.acmicpc.net/problem/17224) | APC는 왜 서브태스크 대회가 되었을까? | ✓ |   |   |   |   |
 | [17256](https://www.acmicpc.net/problem/17256) | 달달함이 넘쳐흘러 | ✓ |   |   |   |   |
 | [17266](https://www.acmicpc.net/problem/17266) | 어두운 굴다리 | ✓ |   |   |   |   |
+| [17404](https://www.acmicpc.net/problem/17404) | RGB거리 2 | ✓ |   |   |   |   |
 | [17433](https://www.acmicpc.net/problem/17433) | 신비로운 수 | ✓ |   |   |   |   |
 | [17949](https://www.acmicpc.net/problem/17949) | Drop The Byte! | ✓ |   |   |   |   |
 | [18108](https://www.acmicpc.net/problem/18108) | 1998년생인 내가 태국에서는 2541년생?! | ✓ |   |   |   |   |
@@ -303,6 +310,7 @@
 | [18422](https://www.acmicpc.net/problem/18422) | Emacs | ✓ |   |   |   |   |
 | [18964](https://www.acmicpc.net/problem/18964) | Questionnaire | ✓ |   |   |   |   |
 | [19564](https://www.acmicpc.net/problem/19564) | 반복 | ✓ |   |   |   |   |
+| [19568](https://www.acmicpc.net/problem/19568) | 직사각형 | ✓ |   |   |   |   |
 | [19698](https://www.acmicpc.net/problem/19698) | 헛간 청약 | ✓ |   |   |   |   |
 | [19939](https://www.acmicpc.net/problem/19939) | 박 터뜨리기 | ✓ |   |   |   |   |
 | [19947](https://www.acmicpc.net/problem/19947) | 투자의 귀재 배주형 | ✓ |   |   |   |   |
@@ -367,6 +375,7 @@
 | [27590](https://www.acmicpc.net/problem/27590) | Sun and Moon | ✓ |   |   |   |   |
 | [27890](https://www.acmicpc.net/problem/27890) | 특별한 작은 분수 | ✓ |   |   |   |   |
 | [28115](https://www.acmicpc.net/problem/28115) | 등차수열의 합 | ✓ |   |   |   |   |
+| [28286](https://www.acmicpc.net/problem/28286) | 재채점을 기다리는 중 | ✓ |   |   |   |   |
 | [28352](https://www.acmicpc.net/problem/28352) | 10! | ✓ |   |   |   |   |
 | [28432](https://www.acmicpc.net/problem/28432) | 끝말잇기 | ✓ |   |   |   |   |
 | [28444](https://www.acmicpc.net/problem/28444) | HI-ARC=? | ✓ |   |   |   |   |
@@ -419,3 +428,4 @@
 | [33924](https://www.acmicpc.net/problem/33924) | 신묘마루의 요술망치 | ✓ |   |   |   |   |
 | [34217](https://www.acmicpc.net/problem/34217) | 찾아오시는 길 | ✓ |   |   |   |   |
 | [34297](https://www.acmicpc.net/problem/34297) | Parking Pandemonium | ✓ |   |   |   |   |
+| [34521](https://www.acmicpc.net/problem/34521) | !제곱수 순열 | ✓ |   |   |   |   |
