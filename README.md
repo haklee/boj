@@ -83,6 +83,7 @@
 | [2577](https://www.acmicpc.net/problem/2577) | 숫자의 개수 | ✓ |   |   |   |   |
 | [2605](https://www.acmicpc.net/problem/2605) | 줄 세우기 | ✓ |   |   |   |   |
 | [2609](https://www.acmicpc.net/problem/2609) | 최대공약수와 최소공배수 | ✓ |   |   |   |   |
+| [2623](https://www.acmicpc.net/problem/2623) | 음악프로그램 | ✓ |   |   |   |   |
 | [2659](https://www.acmicpc.net/problem/2659) | 십자카드 문제 | ✓ |   |   |   |   |
 | [2675](https://www.acmicpc.net/problem/2675) | 문자열 반복 | ✓ |   |   |   |   |
 | [2702](https://www.acmicpc.net/problem/2702) | 초6 수학 | ✓ |   |   |   |   |
@@ -198,6 +199,7 @@
 | [10844](https://www.acmicpc.net/problem/10844) | 쉬운 계단 수 | ✓ |   |   |   |   |
 | [10869](https://www.acmicpc.net/problem/10869) | 사칙연산 | ✓ |   |   |   |   |
 | [10870](https://www.acmicpc.net/problem/10870) | 피보나치 수 5 | ✓ |   |   |   |   |
+| [10871](https://www.acmicpc.net/problem/10871) | X보다 작은 수 | ✓ |   |   |   |   |
 | [10886](https://www.acmicpc.net/problem/10886) | 0 = not cute / 1 = cute | ✓ |   |   |   |   |
 | [10950](https://www.acmicpc.net/problem/10950) | A+B - 3 | ✓ |   |   |   |   |
 | [10987](https://www.acmicpc.net/problem/10987) | 모음의 개수 | ✓ |   |   |   |   |
