@@ -1,5 +1,117 @@
 [
   {
+    "submission_id": "100063305",
+    "problem_id": "14215",
+    "problem_title": "세 막대",
+    "language": "PyPy3",
+    "submission_time": "2025-11-08 11:11:19"
+  },
+  {
+    "submission_id": "100063244",
+    "problem_id": "9063",
+    "problem_title": "대지",
+    "language": "PyPy3",
+    "submission_time": "2025-11-08 11:08:24"
+  },
+  {
+    "submission_id": "100063186",
+    "problem_id": "3053",
+    "problem_title": "택시 기하학",
+    "language": "PyPy3",
+    "submission_time": "2025-11-08 11:05:24"
+  },
+  {
+    "submission_id": "100063125",
+    "problem_id": "1085",
+    "problem_title": "직사각형에서 탈출",
+    "language": "PyPy3",
+    "submission_time": "2025-11-08 11:02:00"
+  },
+  {
+    "submission_id": "100063101",
+    "problem_id": "3009",
+    "problem_title": "네 번째 점",
+    "language": "PyPy3",
+    "submission_time": "2025-11-08 11:00:49"
+  },
+  {
+    "submission_id": "100063021",
+    "problem_id": "24009",
+    "problem_title": "Huge Numbers",
+    "language": "PyPy3",
+    "submission_time": "2025-11-08 10:55:22"
+  },
+  {
+    "submission_id": "100062698",
+    "problem_id": "6198",
+    "problem_title": "옥상 정원 꾸미기",
+    "language": "PyPy3",
+    "submission_time": "2025-11-08 10:35:52"
+  },
+  {
+    "submission_id": "100060375",
+    "problem_id": "19970",
+    "problem_title": "Куб",
+    "language": "PyPy3",
+    "submission_time": "2025-11-08 02:30:15"
+  },
+  {
+    "submission_id": "100060111",
+    "problem_id": "17386",
+    "problem_title": "선분 교차 1",
+    "language": "PyPy3",
+    "submission_time": "2025-11-08 01:57:06"
+  },
+  {
+    "submission_id": "100060079",
+    "problem_id": "20149",
+    "problem_title": "선분 교차 3",
+    "language": "PyPy3",
+    "submission_time": "2025-11-08 01:54:03"
+  },
+  {
+    "submission_id": "100057190",
+    "problem_id": "17387",
+    "problem_title": "선분 교차 2",
+    "language": "PyPy3",
+    "submission_time": "2025-11-07 23:07:15"
+  },
+  {
+    "submission_id": "100040833",
+    "problem_id": "20438",
+    "problem_title": "출석체크",
+    "language": "PyPy3",
+    "submission_time": "2025-11-07 12:59:23"
+  },
+  {
+    "submission_id": "100013120",
+    "problem_id": "27690",
+    "problem_title": "Boredom buster (Easy)",
+    "language": "PyPy3",
+    "submission_time": "2025-11-06 13:11:33"
+  },
+  {
+    "submission_id": "100012816",
+    "problem_id": "17998",
+    "problem_title": "Levenshtein Distance",
+    "language": "PyPy3",
+    "submission_time": "2025-11-06 13:01:35"
+  },
+  {
+    "submission_id": "100012599",
+    "problem_id": "5104",
+    "problem_title": "NoMoPhobia",
+    "language": "PyPy3",
+    "submission_time": "2025-11-06 12:53:32"
+  },
+  {
+    "submission_id": "99992975",
+    "problem_id": "6778",
+    "problem_title": "Which Alien?",
+    "language": "PyPy3",
+    "submission_time": "2025-11-05 17:52:20"
+  },
+  {
     "submission_id": "99970363",
     "problem_id": "2623",
     "problem_title": "음악프로그램",
