@@ -163,6 +163,7 @@
 | [6198](https://www.acmicpc.net/problem/6198) | 옥상 정원 꾸미기 | ✓ |   |   |   |   |
 | [6375](https://www.acmicpc.net/problem/6375) | Set Me | ✓ |   |   |   |   |
 | [6497](https://www.acmicpc.net/problem/6497) | 전력난 | ✓ |   |   |   |   |
+| [6640](https://www.acmicpc.net/problem/6640) | Suspicious Stocks | ✓ |   |   |   |   |
 | [6778](https://www.acmicpc.net/problem/6778) | Which Alien? | ✓ |   |   |   |   |
 | [6840](https://www.acmicpc.net/problem/6840) | Who is in the middle? | ✓ |   |   |   |   |
 | [6850](https://www.acmicpc.net/problem/6850) | Cows | ✓ |   |   |   |   |
@@ -237,6 +238,7 @@
 | [11068](https://www.acmicpc.net/problem/11068) | 회문인 수 | ✓ |   |   |   |   |
 | [11094](https://www.acmicpc.net/problem/11094) | 꿍 가라사대 | ✓ |   |   |   |   |
 | [11109](https://www.acmicpc.net/problem/11109) | 괴짜 교수 | ✓ |   |   |   |   |
+| [11382](https://www.acmicpc.net/problem/11382) | 꼬마 정민 | ✓ |   |   |   |   |
 | [11401](https://www.acmicpc.net/problem/11401) | 이항 계수 3 | ✓ |   |   |   |   |
 | [11444](https://www.acmicpc.net/problem/11444) | 피보나치 수 6 | ✓ |   |   |   |   |
 | [11557](https://www.acmicpc.net/problem/11557) | Yangjojang of The Year | ✓ |   |   |   |   |
@@ -274,6 +276,7 @@
 | [14655](https://www.acmicpc.net/problem/14655) | 욱제는 도박쟁이야!! | ✓ |   |   |   |   |
 | [14681](https://www.acmicpc.net/problem/14681) | 사분면 고르기 | ✓ |   |   |   |   |
 | [14710](https://www.acmicpc.net/problem/14710) | 고장난 시계 | ✓ |   |   |   |   |
+| [14719](https://www.acmicpc.net/problem/14719) | 빗물 | ✓ |   |   |   |   |
 | [14921](https://www.acmicpc.net/problem/14921) | 용액 합성하기 | ✓ |   |   |   |   |
 | [14924](https://www.acmicpc.net/problem/14924) | 폰 노이만과 파리 | ✓ |   |   |   |   |
 | [14928](https://www.acmicpc.net/problem/14928) | 큰 수 (BIG) | ✓ |   |   |   |   |
@@ -390,6 +393,7 @@
 | [25594](https://www.acmicpc.net/problem/25594) | HG 음성기호 | ✓ |   |   |   |   |
 | [25600](https://www.acmicpc.net/problem/25600) | Triathlon | ✓ |   |   |   |   |
 | [25625](https://www.acmicpc.net/problem/25625) | 샤틀버스 | ✓ |   |   |   |   |
+| [25633](https://www.acmicpc.net/problem/25633) | 도미노 넘어뜨리기 | ✓ |   |   |   |   |
 | [25640](https://www.acmicpc.net/problem/25640) | MBTI | ✓ |   |   |   |   |
 | [25758](https://www.acmicpc.net/problem/25758) | 유전자 조합 | ✓ |   |   |   |   |
 | [25775](https://www.acmicpc.net/problem/25775) | Letter Frequency | ✓ |   |   |   |   |
