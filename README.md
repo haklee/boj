@@ -221,6 +221,7 @@
 | [10870](https://www.acmicpc.net/problem/10870) | 피보나치 수 5 | ✓ |   |   |   |   |
 | [10871](https://www.acmicpc.net/problem/10871) | X보다 작은 수 | ✓ |   |   |   |   |
 | [10886](https://www.acmicpc.net/problem/10886) | 0 = not cute / 1 = cute | ✓ |   |   |   |   |
+| [10895](https://www.acmicpc.net/problem/10895) | Great Pow! | ✓ |   |   |   |   |
 | [10903](https://www.acmicpc.net/problem/10903) | Wall construction | ✓ |   |   |   |   |
 | [10926](https://www.acmicpc.net/problem/10926) | ??! | ✓ |   |   |   |   |
 | [10950](https://www.acmicpc.net/problem/10950) | A+B - 3 | ✓ |   |   |   |   |
@@ -365,6 +366,7 @@
 | [21924](https://www.acmicpc.net/problem/21924) | 도시 건설 | ✓ |   |   |   |   |
 | [22869](https://www.acmicpc.net/problem/22869) | 징검다리 건너기 (small) | ✓ |   |   |   |   |
 | [22871](https://www.acmicpc.net/problem/22871) | 징검다리 건너기 (large) | ✓ |   |   |   |   |
+| [23081](https://www.acmicpc.net/problem/23081) | 오델로 | ✓ |   |   |   |   |
 | [23246](https://www.acmicpc.net/problem/23246) | Sport Climbing Combined | ✓ |   |   |   |   |
 | [23276](https://www.acmicpc.net/problem/23276) | Locust Locus | ✓ |   |   |   |   |
 | [23279](https://www.acmicpc.net/problem/23279) | 서열 사회 | ✓ |   |   |   |   |
