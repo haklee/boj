@@ -297,6 +297,7 @@
 | [15663](https://www.acmicpc.net/problem/15663) | N과 M (9) | ✓ |   |   |   |   |
 | [15666](https://www.acmicpc.net/problem/15666) | N과 M (12) | ✓ |   |   |   |   |
 | [15680](https://www.acmicpc.net/problem/15680) | 연세대학교 | ✓ |   |   |   |   |
+| [15681](https://www.acmicpc.net/problem/15681) | 트리와 쿼리 | ✓ |   |   |   |   |
 | [15734](https://www.acmicpc.net/problem/15734) | 명장 남정훈 | ✓ |   |   |   |   |
 | [15810](https://www.acmicpc.net/problem/15810) | 풍선 공장 | ✓ |   |   |   |   |
 | [15835](https://www.acmicpc.net/problem/15835) | Explorace | ✓ |   |   |   |   |
@@ -305,6 +306,7 @@
 | [15947](https://www.acmicpc.net/problem/15947) | 아기 석환 뚜루루 뚜루 | ✓ |   |   |   |   |
 | [15962](https://www.acmicpc.net/problem/15962) | 새로운 시작 |   |   |   |   | [✓](boj/15962/91280580.txt) |
 | [15964](https://www.acmicpc.net/problem/15964) | 이상한 기호 | ✓ |   |   |   |   |
+| [16132](https://www.acmicpc.net/problem/16132) | 그룹 나누기 (Subset) | ✓ |   |   |   |   |
 | [16139](https://www.acmicpc.net/problem/16139) | 인간-컴퓨터 상호작용 | ✓ |   |   |   |   |
 | [16170](https://www.acmicpc.net/problem/16170) | 오늘의 날짜는? |   |   |   |   | ✓ |
 | [16194](https://www.acmicpc.net/problem/16194) | 카드 구매하기 2 | ✓ |   |   |   |   |
