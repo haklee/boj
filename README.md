@@ -55,6 +55,7 @@
 | [1991](https://www.acmicpc.net/problem/1991) | 트리 순회 | ✓ |   |   |   |   |
 | [1996](https://www.acmicpc.net/problem/1996) | 지뢰 찾기 | ✓ |   |   |   |   |
 | [2033](https://www.acmicpc.net/problem/2033) | 반올림 | ✓ |   |   |   |   |
+| [2042](https://www.acmicpc.net/problem/2042) | 구간 합 구하기 | ✓ |   |   |   |   |
 | [2045](https://www.acmicpc.net/problem/2045) | 마방진 | ✓ |   |   |   |   |
 | [2078](https://www.acmicpc.net/problem/2078) | 무한이진트리 | ✓ |   |   |   |   |
 | [2083](https://www.acmicpc.net/problem/2083) | 럭비 클럽 | [✓](boj/2083/91774381.py) |   |   |   |   |
@@ -104,6 +105,7 @@
 | [2751](https://www.acmicpc.net/problem/2751) | 수 정렬하기 2 | ✓ |   |   |   |   |
 | [2753](https://www.acmicpc.net/problem/2753) | 윤년 | ✓ |   |   |   |   |
 | [2810](https://www.acmicpc.net/problem/2810) | 컵홀더 | ✓ |   |   |   |   |
+| [2839](https://www.acmicpc.net/problem/2839) | 설탕 배달 | ✓ |   |   |   |   |
 | [2864](https://www.acmicpc.net/problem/2864) | 5와 6의 차이 | ✓ |   |   |   |   |
 | [2869](https://www.acmicpc.net/problem/2869) | 달팽이는 올라가고 싶다 | ✓ |   |   |   |   |
 | [2875](https://www.acmicpc.net/problem/2875) | 대회 or 인턴 | ✓ |   |   |   |   |
@@ -225,6 +227,7 @@
 | [10903](https://www.acmicpc.net/problem/10903) | Wall construction | ✓ |   |   |   |   |
 | [10926](https://www.acmicpc.net/problem/10926) | ??! | ✓ |   |   |   |   |
 | [10950](https://www.acmicpc.net/problem/10950) | A+B - 3 | ✓ |   |   |   |   |
+| [10951](https://www.acmicpc.net/problem/10951) | A+B - 4 | ✓ |   |   |   |   |
 | [10987](https://www.acmicpc.net/problem/10987) | 모음의 개수 | ✓ |   |   |   |   |
 | [10989](https://www.acmicpc.net/problem/10989) | 수 정렬하기 3 | ✓ |   |   |   |   |
 | [10998](https://www.acmicpc.net/problem/10998) | A×B | [✓](boj/10998/90873842.py) |   |   | [✓](boj/10998/95038020.js) |   |
@@ -250,6 +253,7 @@
 | [11651](https://www.acmicpc.net/problem/11651) | 좌표 정렬하기 2 | ✓ |   |   |   |   |
 | [11659](https://www.acmicpc.net/problem/11659) | 구간 합 구하기 4 | ✓ |   |   |   |   |
 | [11660](https://www.acmicpc.net/problem/11660) | 구간 합 구하기 5 | ✓ |   |   |   |   |
+| [11689](https://www.acmicpc.net/problem/11689) | GCD(n, k) = 1 | ✓ |   |   |   |   |
 | [11721](https://www.acmicpc.net/problem/11721) | 열 개씩 끊어 출력하기 | ✓ |   |   |   |   |
 | [11722](https://www.acmicpc.net/problem/11722) | 가장 긴 감소하는 부분 수열 | ✓ |   |   |   |   |
 | [11725](https://www.acmicpc.net/problem/11725) | 트리의 부모 찾기 | ✓ |   |   |   |   |
@@ -278,6 +282,7 @@
 | [14681](https://www.acmicpc.net/problem/14681) | 사분면 고르기 | ✓ |   |   |   |   |
 | [14710](https://www.acmicpc.net/problem/14710) | 고장난 시계 | ✓ |   |   |   |   |
 | [14719](https://www.acmicpc.net/problem/14719) | 빗물 | ✓ |   |   |   |   |
+| [14725](https://www.acmicpc.net/problem/14725) | 개미굴 | ✓ |   |   |   |   |
 | [14921](https://www.acmicpc.net/problem/14921) | 용액 합성하기 | ✓ |   |   |   |   |
 | [14924](https://www.acmicpc.net/problem/14924) | 폰 노이만과 파리 | ✓ |   |   |   |   |
 | [14928](https://www.acmicpc.net/problem/14928) | 큰 수 (BIG) | ✓ |   |   |   |   |
@@ -300,6 +305,7 @@
 | [15681](https://www.acmicpc.net/problem/15681) | 트리와 쿼리 | ✓ |   |   |   |   |
 | [15734](https://www.acmicpc.net/problem/15734) | 명장 남정훈 | ✓ |   |   |   |   |
 | [15810](https://www.acmicpc.net/problem/15810) | 풍선 공장 | ✓ |   |   |   |   |
+| [15824](https://www.acmicpc.net/problem/15824) | 너 봄에는 캡사이신이 맛있단다 | ✓ |   |   |   |   |
 | [15835](https://www.acmicpc.net/problem/15835) | Explorace | ✓ |   |   |   |   |
 | [15873](https://www.acmicpc.net/problem/15873) | 공백 없는 A+B | ✓ |   |   |   |   |
 | [15922](https://www.acmicpc.net/problem/15922) | 아우으 우아으이야!! | ✓ |   |   |   |   |
