@@ -68,6 +68,7 @@
 | [2231](https://www.acmicpc.net/problem/2231) | 분해합 | ✓ |   |   |   |   |
 | [2239](https://www.acmicpc.net/problem/2239) | 스도쿠 | ✓ |   |   |   |   |
 | [2252](https://www.acmicpc.net/problem/2252) | 줄 세우기 | ✓ |   |   |   |   |
+| [2261](https://www.acmicpc.net/problem/2261) | 가장 가까운 두 점 | ✓ |   |   |   |   |
 | [2292](https://www.acmicpc.net/problem/2292) | 벌집 | ✓ |   |   |   |   |
 | [2309](https://www.acmicpc.net/problem/2309) | 일곱 난쟁이 | ✓ |   |   |   |   |
 | [2312](https://www.acmicpc.net/problem/2312) | 수 복원하기 | ✓ |   |   |   |   |
@@ -156,6 +157,7 @@
 | [5555](https://www.acmicpc.net/problem/5555) | 반지 | ✓ |   |   |   |   |
 | [5591](https://www.acmicpc.net/problem/5591) | 最大の和 | ✓ |   |   |   |   |
 | [5596](https://www.acmicpc.net/problem/5596) | 시험 점수 | ✓ |   |   |   |   |
+| [5620](https://www.acmicpc.net/problem/5620) | 가장 가까운 두 점의 거리 | ✓ |   |   |   |   |
 | [5623](https://www.acmicpc.net/problem/5623) | 수열의 합 | ✓ |   |   |   |   |
 | [5717](https://www.acmicpc.net/problem/5717) | 상근이의 친구들 | ✓ |   |   |   |   |
 | [5753](https://www.acmicpc.net/problem/5753) | Pascal Library | ✓ |   |   |   |   |
@@ -177,12 +179,14 @@
 | [7523](https://www.acmicpc.net/problem/7523) | Gauß | ✓ |   |   |   |   |
 | [7572](https://www.acmicpc.net/problem/7572) | 간지(干支) | ✓ |   |   |   |   |
 | [7600](https://www.acmicpc.net/problem/7600) | 문자가 몇갤까 | ✓ |   |   |   |   |
+| [7685](https://www.acmicpc.net/problem/7685) | Nim | ✓ |   |   |   |   |
 | [7891](https://www.acmicpc.net/problem/7891) | Can you add this? | ✓ |   |   |   |   |
 | [8370](https://www.acmicpc.net/problem/8370) | Plane | ✓ |   |   |   |   |
 | [8393](https://www.acmicpc.net/problem/8393) | 합 | ✓ |   |   |   |   |
 | [8545](https://www.acmicpc.net/problem/8545) | Zadanie próbne | ✓ |   |   |   |   |
 | [8892](https://www.acmicpc.net/problem/8892) | 팰린드롬 | ✓ |   |   |   |   |
 | [8911](https://www.acmicpc.net/problem/8911) | 거북이 | ✓ |   |   |   |   |
+| [9020](https://www.acmicpc.net/problem/9020) | 골드바흐의 추측 | ✓ |   |   |   |   |
 | [9063](https://www.acmicpc.net/problem/9063) | 대지 | ✓ |   |   |   |   |
 | [9086](https://www.acmicpc.net/problem/9086) | 문자열 | ✓ |   |   |   |   |
 | [9252](https://www.acmicpc.net/problem/9252) | LCS 2 | ✓ |   |   |   |   |
@@ -228,6 +232,7 @@
 | [10926](https://www.acmicpc.net/problem/10926) | ??! | ✓ |   |   |   |   |
 | [10950](https://www.acmicpc.net/problem/10950) | A+B - 3 | ✓ |   |   |   |   |
 | [10951](https://www.acmicpc.net/problem/10951) | A+B - 4 | ✓ |   |   |   |   |
+| [10986](https://www.acmicpc.net/problem/10986) | 나머지 합 | ✓ |   |   |   |   |
 | [10987](https://www.acmicpc.net/problem/10987) | 모음의 개수 | ✓ |   |   |   |   |
 | [10989](https://www.acmicpc.net/problem/10989) | 수 정렬하기 3 | ✓ |   |   |   |   |
 | [10998](https://www.acmicpc.net/problem/10998) | A×B | [✓](boj/10998/90873842.py) |   |   | [✓](boj/10998/95038020.js) |   |
@@ -251,17 +256,21 @@
 | [11648](https://www.acmicpc.net/problem/11648) | 지속 | ✓ |   |   |   |   |
 | [11650](https://www.acmicpc.net/problem/11650) | 좌표 정렬하기 | ✓ |   |   |   |   |
 | [11651](https://www.acmicpc.net/problem/11651) | 좌표 정렬하기 2 | ✓ |   |   |   |   |
+| [11654](https://www.acmicpc.net/problem/11654) | 아스키 코드 | ✓ |   |   |   |   |
 | [11659](https://www.acmicpc.net/problem/11659) | 구간 합 구하기 4 | ✓ |   |   |   |   |
 | [11660](https://www.acmicpc.net/problem/11660) | 구간 합 구하기 5 | ✓ |   |   |   |   |
 | [11689](https://www.acmicpc.net/problem/11689) | GCD(n, k) = 1 | ✓ |   |   |   |   |
+| [11694](https://www.acmicpc.net/problem/11694) | 님 게임 | ✓ |   |   |   |   |
 | [11721](https://www.acmicpc.net/problem/11721) | 열 개씩 끊어 출력하기 | ✓ |   |   |   |   |
 | [11722](https://www.acmicpc.net/problem/11722) | 가장 긴 감소하는 부분 수열 | ✓ |   |   |   |   |
 | [11725](https://www.acmicpc.net/problem/11725) | 트리의 부모 찾기 | ✓ |   |   |   |   |
 | [11726](https://www.acmicpc.net/problem/11726) | 2×n 타일링 | ✓ |   |   |   |   |
+| [11868](https://www.acmicpc.net/problem/11868) | 님 게임 2 | ✓ |   |   |   |   |
 | [11880](https://www.acmicpc.net/problem/11880) | 개미 | ✓ |   |   |   |   |
 | [11916](https://www.acmicpc.net/problem/11916) | 볼질 | ✓ |   |   |   |   |
 | [12015](https://www.acmicpc.net/problem/12015) | 가장 긴 증가하는 부분 수열 2 | ✓ |   |   |   |   |
 | [12738](https://www.acmicpc.net/problem/12738) | 가장 긴 증가하는 부분 수열 3 | ✓ |   |   |   |   |
+| [12904](https://www.acmicpc.net/problem/12904) | A와 B | ✓ |   |   |   |   |
 | [13072](https://www.acmicpc.net/problem/13072) | Fence | ✓ |   |   |   |   |
 | [13172](https://www.acmicpc.net/problem/13172) | Σ | ✓ |   |   |   |   |
 | [13192](https://www.acmicpc.net/problem/13192) | Router 1 | ✓ |   |   |   |   |
@@ -272,6 +281,7 @@
 | [13698](https://www.acmicpc.net/problem/13698) | Hawk eyes | ✓ |   |   |   |   |
 | [14004](https://www.acmicpc.net/problem/14004) | ICPC | ✓ |   |   |   |   |
 | [14215](https://www.acmicpc.net/problem/14215) | 세 막대 | ✓ |   |   |   |   |
+| [14228](https://www.acmicpc.net/problem/14228) | 물탱크 | ✓ |   |   |   |   |
 | [14470](https://www.acmicpc.net/problem/14470) | 전자레인지 | ✓ |   |   |   |   |
 | [14487](https://www.acmicpc.net/problem/14487) | 욱제는 효도쟁이야!! | ✓ |   |   |   |   |
 | [14566](https://www.acmicpc.net/problem/14566) | Dongjak N1 | ✓ |   |   |   |   |
@@ -324,6 +334,7 @@
 | [16533](https://www.acmicpc.net/problem/16533) | Mount Marathon | ✓ |   |   |   |   |
 | [16609](https://www.acmicpc.net/problem/16609) | Inflation | ✓ |   |   |   |   |
 | [16722](https://www.acmicpc.net/problem/16722) | 결! 합! | ✓ |   |   |   |   |
+| [16895](https://www.acmicpc.net/problem/16895) | 님 게임 3 | ✓ |   |   |   |   |
 | [16917](https://www.acmicpc.net/problem/16917) | 양념 반 후라이드 반 | ✓ |   |   |   |   |
 | [16953](https://www.acmicpc.net/problem/16953) | A → B | ✓ |   |   |   |   |
 | [16969](https://www.acmicpc.net/problem/16969) | 차량 번호판 2 | ✓ |   |   |   |   |
@@ -335,6 +346,7 @@
 | [17224](https://www.acmicpc.net/problem/17224) | APC는 왜 서브태스크 대회가 되었을까? | ✓ |   |   |   |   |
 | [17256](https://www.acmicpc.net/problem/17256) | 달달함이 넘쳐흘러 | ✓ |   |   |   |   |
 | [17266](https://www.acmicpc.net/problem/17266) | 어두운 굴다리 | ✓ |   |   |   |   |
+| [17292](https://www.acmicpc.net/problem/17292) | 바둑이 포커 | ✓ |   |   |   |   |
 | [17386](https://www.acmicpc.net/problem/17386) | 선분 교차 1 | ✓ |   |   |   |   |
 | [17387](https://www.acmicpc.net/problem/17387) | 선분 교차 2 | ✓ |   |   |   |   |
 | [17404](https://www.acmicpc.net/problem/17404) | RGB거리 2 | ✓ |   |   |   |   |
@@ -394,6 +406,7 @@
 | [25184](https://www.acmicpc.net/problem/25184) | 동가수열 구하기 | ✓ |   |   |   |   |
 | [25206](https://www.acmicpc.net/problem/25206) | 너의 평점은 | ✓ |   |   |   |   |
 | [25238](https://www.acmicpc.net/problem/25238) | 가희와 방어율 무시 | ✓ |   |   |   |   |
+| [25306](https://www.acmicpc.net/problem/25306) | 연속 XOR | ✓ |   |   |   |   |
 | [25372](https://www.acmicpc.net/problem/25372) | 성택이의 은밀한 비밀번호 | ✓ |   |   |   |   |
 | [25373](https://www.acmicpc.net/problem/25373) | 벼락치기 | ✓ |   |   |   |   |
 | [25374](https://www.acmicpc.net/problem/25374) | 등급 계산하기 | ✓ |   |   |   |   |
@@ -479,3 +492,6 @@
 | [34217](https://www.acmicpc.net/problem/34217) | 찾아오시는 길 | ✓ |   |   |   |   |
 | [34297](https://www.acmicpc.net/problem/34297) | Parking Pandemonium | ✓ |   |   |   |   |
 | [34521](https://www.acmicpc.net/problem/34521) | !제곱수 순열 | ✓ |   |   |   |   |
+| [34530](https://www.acmicpc.net/problem/34530) | Back to Origin | ✓ |   |   |   |   |
+| [34665](https://www.acmicpc.net/problem/34665) | 가희와 교통 요금 | ✓ |   |   |   |   |
+| [34721](https://www.acmicpc.net/problem/34721) | 역사를 걸으면 동국이 보이고 | ✓ |   |   |   |   |

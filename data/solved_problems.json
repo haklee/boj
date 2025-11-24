@@ -1,5 +1,131 @@
 [
   {
+    "submission_id": "100486054",
+    "problem_id": "34665",
+    "problem_title": "가희와 교통 요금",
+    "language": "PyPy3",
+    "submission_time": "2025-11-24 15:29:11"
+  },
+  {
+    "submission_id": "100460545",
+    "problem_id": "5620",
+    "problem_title": "가장 가까운 두 점의 거리",
+    "language": "PyPy3",
+    "submission_time": "2025-11-23 15:49:47"
+  },
+  {
+    "submission_id": "100460496",
+    "problem_id": "2261",
+    "problem_title": "가장 가까운 두 점",
+    "language": "PyPy3",
+    "submission_time": "2025-11-23 15:47:45"
+  },
+  {
+    "submission_id": "100452737",
+    "problem_id": "7685",
+    "problem_title": "Nim",
+    "language": "PyPy3",
+    "submission_time": "2025-11-23 04:05:06"
+  },
+  {
+    "submission_id": "100452734",
+    "problem_id": "16895",
+    "problem_title": "님 게임 3",
+    "language": "PyPy3",
+    "submission_time": "2025-11-23 04:03:34"
+  },
+  {
+    "submission_id": "100452717",
+    "problem_id": "16895",
+    "problem_title": "님 게임 3",
+    "language": "PyPy3",
+    "submission_time": "2025-11-23 03:54:23"
+  },
+  {
+    "submission_id": "100452635",
+    "problem_id": "11868",
+    "problem_title": "님 게임 2",
+    "language": "PyPy3",
+    "submission_time": "2025-11-23 03:38:26"
+  },
+  {
+    "submission_id": "100452608",
+    "problem_id": "11694",
+    "problem_title": "님 게임",
+    "language": "PyPy3",
+    "submission_time": "2025-11-23 03:35:06"
+  },
+  {
+    "submission_id": "100449041",
+    "problem_id": "25306",
+    "problem_title": "연속 XOR",
+    "language": "PyPy3",
+    "submission_time": "2025-11-22 23:13:53"
+  },
+  {
+    "submission_id": "100449032",
+    "problem_id": "25306",
+    "problem_title": "연속 XOR",
+    "language": "PyPy3",
+    "submission_time": "2025-11-22 23:13:23"
+  },
+  {
+    "submission_id": "100448465",
+    "problem_id": "17292",
+    "problem_title": "바둑이 포커",
+    "language": "PyPy3",
+    "submission_time": "2025-11-22 22:49:27"
+  },
+  {
+    "submission_id": "100417190",
+    "problem_id": "11654",
+    "problem_title": "아스키 코드",
+    "language": "PyPy3",
+    "submission_time": "2025-11-21 17:13:00"
+  },
+  {
+    "submission_id": "100382772",
+    "problem_id": "14228",
+    "problem_title": "물탱크",
+    "language": "PyPy3",
+    "submission_time": "2025-11-20 12:56:50"
+  },
+  {
+    "submission_id": "100382172",
+    "problem_id": "9020",
+    "problem_title": "골드바흐의 추측",
+    "language": "PyPy3",
+    "submission_time": "2025-11-20 12:20:05"
+  },
+  {
+    "submission_id": "100352077",
+    "problem_id": "34530",
+    "problem_title": "Back to Origin",
+    "language": "PyPy3",
+    "submission_time": "2025-11-19 11:37:34"
+  },
+  {
+    "submission_id": "100326980",
+    "problem_id": "12904",
+    "problem_title": "A와 B",
+    "language": "PyPy3",
+    "submission_time": "2025-11-18 13:14:06"
+  },
+  {
+    "submission_id": "100326867",
+    "problem_id": "10986",
+    "problem_title": "나머지 합",
+    "language": "PyPy3",
+    "submission_time": "2025-11-18 13:08:46"
+  },
+  {
+    "submission_id": "100326572",
+    "problem_id": "34721",
+    "problem_title": "역사를 걸으면 동국이 보이고",
+    "language": "PyPy3",
+    "submission_time": "2025-11-18 12:55:49"
+  },
+  {
     "submission_id": "100299993",
     "problem_id": "10951",
     "problem_title": "A+B - 4",
