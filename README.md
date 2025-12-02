@@ -62,6 +62,7 @@
 | [2096](https://www.acmicpc.net/problem/2096) | 내려가기 | ✓ |   |   |   |   |
 | [2143](https://www.acmicpc.net/problem/2143) | 두 배열의 합 | ✓ |   |   |   |   |
 | [2156](https://www.acmicpc.net/problem/2156) | 포도주 시식 | ✓ |   |   |   |   |
+| [2163](https://www.acmicpc.net/problem/2163) | 초콜릿 자르기 | ✓ |   |   |   |   |
 | [2166](https://www.acmicpc.net/problem/2166) | 다각형의 면적 | ✓ |   |   |   |   |
 | [2167](https://www.acmicpc.net/problem/2167) | 2차원 배열의 합 | ✓ |   |   |   |   |
 | [2225](https://www.acmicpc.net/problem/2225) | 합분해 | ✓ |   |   |   |   |
@@ -92,6 +93,7 @@
 | [2609](https://www.acmicpc.net/problem/2609) | 최대공약수와 최소공배수 | ✓ |   |   |   |   |
 | [2623](https://www.acmicpc.net/problem/2623) | 음악프로그램 | ✓ |   |   |   |   |
 | [2659](https://www.acmicpc.net/problem/2659) | 십자카드 문제 | ✓ |   |   |   |   |
+| [2670](https://www.acmicpc.net/problem/2670) | 연속부분최대곱 | ✓ |   |   |   |   |
 | [2675](https://www.acmicpc.net/problem/2675) | 문자열 반복 | ✓ |   |   |   |   |
 | [2702](https://www.acmicpc.net/problem/2702) | 초6 수학 | ✓ |   |   |   |   |
 | [2729](https://www.acmicpc.net/problem/2729) | 이진수 덧셈 | ✓ |   |   |   |   |
@@ -110,6 +112,7 @@
 | [2864](https://www.acmicpc.net/problem/2864) | 5와 6의 차이 | ✓ |   |   |   |   |
 | [2869](https://www.acmicpc.net/problem/2869) | 달팽이는 올라가고 싶다 | ✓ |   |   |   |   |
 | [2875](https://www.acmicpc.net/problem/2875) | 대회 or 인턴 | ✓ |   |   |   |   |
+| [2885](https://www.acmicpc.net/problem/2885) | 초콜릿 식사 | ✓ |   |   |   |   |
 | [2914](https://www.acmicpc.net/problem/2914) | 저작권 | ✓ |   |   |   |   |
 | [2948](https://www.acmicpc.net/problem/2948) | 2009년 | ✓ |   |   |   |   |
 | [2960](https://www.acmicpc.net/problem/2960) | 에라토스테네스의 체 | ✓ |   |   |   |   |
@@ -159,6 +162,7 @@
 | [5596](https://www.acmicpc.net/problem/5596) | 시험 점수 | ✓ |   |   |   |   |
 | [5620](https://www.acmicpc.net/problem/5620) | 가장 가까운 두 점의 거리 | ✓ |   |   |   |   |
 | [5623](https://www.acmicpc.net/problem/5623) | 수열의 합 | ✓ |   |   |   |   |
+| [5698](https://www.acmicpc.net/problem/5698) | Tautogram | ✓ |   |   |   |   |
 | [5717](https://www.acmicpc.net/problem/5717) | 상근이의 친구들 | ✓ |   |   |   |   |
 | [5753](https://www.acmicpc.net/problem/5753) | Pascal Library | ✓ |   |   |   |   |
 | [5957](https://www.acmicpc.net/problem/5957) | Cleaning the Dishes | ✓ |   |   |   |   |
@@ -442,6 +446,7 @@
 | [28432](https://www.acmicpc.net/problem/28432) | 끝말잇기 | ✓ |   |   |   |   |
 | [28444](https://www.acmicpc.net/problem/28444) | HI-ARC=? | ✓ |   |   |   |   |
 | [28445](https://www.acmicpc.net/problem/28445) | 알록달록 앵무새 | ✓ |   |   |   |   |
+| [28450](https://www.acmicpc.net/problem/28450) | 컨벤 데드가 하고싶어요 | ✓ |   |   |   |   |
 | [28691](https://www.acmicpc.net/problem/28691) | 정보보호학부 동아리 소개 | ✓ |   |   |   |   |
 | [28701](https://www.acmicpc.net/problem/28701) | 세제곱의 합 | ✓ |   |   |   |   |
 | [29700](https://www.acmicpc.net/problem/29700) | 우당탕탕 영화예매 | ✓ |   |   |   |   |
@@ -491,7 +496,9 @@
 | [33924](https://www.acmicpc.net/problem/33924) | 신묘마루의 요술망치 | ✓ |   |   |   |   |
 | [34217](https://www.acmicpc.net/problem/34217) | 찾아오시는 길 | ✓ |   |   |   |   |
 | [34297](https://www.acmicpc.net/problem/34297) | Parking Pandemonium | ✓ |   |   |   |   |
+| [34454](https://www.acmicpc.net/problem/34454) | Roller Coaster Ride | ✓ |   |   |   |   |
 | [34521](https://www.acmicpc.net/problem/34521) | !제곱수 순열 | ✓ |   |   |   |   |
 | [34530](https://www.acmicpc.net/problem/34530) | Back to Origin | ✓ |   |   |   |   |
 | [34665](https://www.acmicpc.net/problem/34665) | 가희와 교통 요금 | ✓ |   |   |   |   |
 | [34721](https://www.acmicpc.net/problem/34721) | 역사를 걸으면 동국이 보이고 | ✓ |   |   |   |   |
+| [34849](https://www.acmicpc.net/problem/34849) | 이중 반복문 | ✓ |   |   |   |   |
