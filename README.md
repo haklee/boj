@@ -441,6 +441,7 @@
 | [27690](https://www.acmicpc.net/problem/27690) | Boredom buster (Easy) | ✓ |   |   |   |   |
 | [27890](https://www.acmicpc.net/problem/27890) | 특별한 작은 분수 | ✓ |   |   |   |   |
 | [28115](https://www.acmicpc.net/problem/28115) | 등차수열의 합 | ✓ |   |   |   |   |
+| [28279](https://www.acmicpc.net/problem/28279) | 덱 2 | ✓ |   |   |   |   |
 | [28286](https://www.acmicpc.net/problem/28286) | 재채점을 기다리는 중 | ✓ |   |   |   |   |
 | [28352](https://www.acmicpc.net/problem/28352) | 10! | ✓ |   |   |   |   |
 | [28432](https://www.acmicpc.net/problem/28432) | 끝말잇기 | ✓ |   |   |   |   |
@@ -471,6 +472,7 @@
 | [31589](https://www.acmicpc.net/problem/31589) | 포도주 시음 | ✓ |   |   |   |   |
 | [31656](https://www.acmicpc.net/problem/31656) | Sticky Keys | ✓ |   |   |   |   |
 | [31668](https://www.acmicpc.net/problem/31668) | 특별한 가지 | ✓ |   |   |   |   |
+| [31832](https://www.acmicpc.net/problem/31832) | 팀명 정하기 2 | ✓ |   |   |   |   |
 | [31868](https://www.acmicpc.net/problem/31868) | 수박 게임 | ✓ |   |   |   |   |
 | [31869](https://www.acmicpc.net/problem/31869) | 선배님 밥 사주세요! | ✓ |   |   |   |   |
 | [31926](https://www.acmicpc.net/problem/31926) | 밤양갱 | ✓ |   |   |   |   |
@@ -496,9 +498,11 @@
 | [33924](https://www.acmicpc.net/problem/33924) | 신묘마루의 요술망치 | ✓ |   |   |   |   |
 | [34217](https://www.acmicpc.net/problem/34217) | 찾아오시는 길 | ✓ |   |   |   |   |
 | [34297](https://www.acmicpc.net/problem/34297) | Parking Pandemonium | ✓ |   |   |   |   |
+| [34446](https://www.acmicpc.net/problem/34446) | E-Days Ore Cart Pull | ✓ |   |   |   |   |
 | [34454](https://www.acmicpc.net/problem/34454) | Roller Coaster Ride | ✓ |   |   |   |   |
 | [34521](https://www.acmicpc.net/problem/34521) | !제곱수 순열 | ✓ |   |   |   |   |
 | [34530](https://www.acmicpc.net/problem/34530) | Back to Origin | ✓ |   |   |   |   |
 | [34665](https://www.acmicpc.net/problem/34665) | 가희와 교통 요금 | ✓ |   |   |   |   |
 | [34721](https://www.acmicpc.net/problem/34721) | 역사를 걸으면 동국이 보이고 | ✓ |   |   |   |   |
+| [34813](https://www.acmicpc.net/problem/34813) | 공통교육과정 | ✓ |   |   |   |   |
 | [34849](https://www.acmicpc.net/problem/34849) | 이중 반복문 | ✓ |   |   |   |   |
