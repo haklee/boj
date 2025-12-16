@@ -18,6 +18,7 @@
 | [1011](https://www.acmicpc.net/problem/1011) | Fly me to the Alpha Centauri | ✓ |   |   |   |   |
 | [1018](https://www.acmicpc.net/problem/1018) | 체스판 다시 칠하기 | ✓ |   |   |   |   |
 | [1085](https://www.acmicpc.net/problem/1085) | 직사각형에서 탈출 | ✓ |   |   |   |   |
+| [1086](https://www.acmicpc.net/problem/1086) | 박성원 | ✓ |   |   |   |   |
 | [1094](https://www.acmicpc.net/problem/1094) | 막대기 | [✓](boj/1094/94604823.py) |   |   |   |   |
 | [1149](https://www.acmicpc.net/problem/1149) | RGB거리 | [✓](boj/1149/94900068.py) |   |   |   |   |
 | [1181](https://www.acmicpc.net/problem/1181) | 단어 정렬 | [✓](boj/1181/90797330.py) |   |   |   |   |
@@ -191,6 +192,7 @@
 | [8545](https://www.acmicpc.net/problem/8545) | Zadanie próbne | ✓ |   |   |   |   |
 | [8892](https://www.acmicpc.net/problem/8892) | 팰린드롬 | ✓ |   |   |   |   |
 | [8911](https://www.acmicpc.net/problem/8911) | 거북이 | ✓ |   |   |   |   |
+| [8913](https://www.acmicpc.net/problem/8913) | 문자열 뽑기 | ✓ |   |   |   |   |
 | [9020](https://www.acmicpc.net/problem/9020) | 골드바흐의 추측 | ✓ |   |   |   |   |
 | [9063](https://www.acmicpc.net/problem/9063) | 대지 | ✓ |   |   |   |   |
 | [9086](https://www.acmicpc.net/problem/9086) | 문자열 | ✓ |   |   |   |   |
@@ -333,6 +335,7 @@
 | [16170](https://www.acmicpc.net/problem/16170) | 오늘의 날짜는? |   |   |   |   | ✓ |
 | [16194](https://www.acmicpc.net/problem/16194) | 카드 구매하기 2 | ✓ |   |   |   |   |
 | [16204](https://www.acmicpc.net/problem/16204) | 카드 뽑기 | ✓ |   |   |   |   |
+| [16287](https://www.acmicpc.net/problem/16287) | Parcel | ✓ |   |   |   |   |
 | [16398](https://www.acmicpc.net/problem/16398) | 행성 연결 | ✓ |   |   |   |   |
 | [16410](https://www.acmicpc.net/problem/16410) | Goat Rope | ✓ |   |   |   |   |
 | [16430](https://www.acmicpc.net/problem/16430) | 제리와 톰 | ✓ |   |   |   |   |
@@ -384,6 +387,7 @@
 | [20415](https://www.acmicpc.net/problem/20415) | MVP 다이아몬드 (Hard) | ✓ |   |   |   |   |
 | [20438](https://www.acmicpc.net/problem/20438) | 출석체크 | ✓ |   |   |   |   |
 | [20492](https://www.acmicpc.net/problem/20492) | 세금 | ✓ |   |   |   |   |
+| [20495](https://www.acmicpc.net/problem/20495) | 수열과 헌팅 | ✓ |   |   |   |   |
 | [20546](https://www.acmicpc.net/problem/20546) | 🐜 기적의 매매법 🐜 | ✓ |   |   |   |   |
 | [20660](https://www.acmicpc.net/problem/20660) | Pizza | ✓ |   |   |   |   |
 | [20920](https://www.acmicpc.net/problem/20920) | 영단어 암기는 괴로워 | ✓ |   |   |   |   |
@@ -431,6 +435,7 @@
 | [25775](https://www.acmicpc.net/problem/25775) | Letter Frequency | ✓ |   |   |   |   |
 | [25858](https://www.acmicpc.net/problem/25858) | Divide the Cash |   |   |   | ✓ |   |
 | [25979](https://www.acmicpc.net/problem/25979) | 시간 구간 다중 업데이트 최대 합 | ✓ |   |   |   |   |
+| [26091](https://www.acmicpc.net/problem/26091) | 현대모비스 소프트웨어 아카데미 | ✓ |   |   |   |   |
 | [26145](https://www.acmicpc.net/problem/26145) | 출제비 재분배 | ✓ |   |   |   |   |
 | [26560](https://www.acmicpc.net/problem/26560) | Periods | ✓ |   |   |   |   |
 | [26566](https://www.acmicpc.net/problem/26566) | Pizza | ✓ |   |   |   |   |
@@ -470,6 +475,7 @@
 | [30794](https://www.acmicpc.net/problem/30794) | 가희와 클럽 오디션 1 | ✓ |   |   |   |   |
 | [30875](https://www.acmicpc.net/problem/30875) | Recovering the Region | ✓ |   |   |   |   |
 | [30876](https://www.acmicpc.net/problem/30876) | Tren del Fin del Mundo | ✓ |   |   |   |   |
+| [30892](https://www.acmicpc.net/problem/30892) | 상어 키우기 | ✓ |   |   |   |   |
 | [31000](https://www.acmicpc.net/problem/31000) | 교환 분배법칙 | ✓ |   |   |   |   |
 | [31215](https://www.acmicpc.net/problem/31215) | 이상한 섞기 연산 | ✓ |   |   |   |   |
 | [31287](https://www.acmicpc.net/problem/31287) | 장난감 강아지 | ✓ |   |   |   |   |
@@ -508,12 +514,16 @@
 | [33924](https://www.acmicpc.net/problem/33924) | 신묘마루의 요술망치 | ✓ |   |   |   |   |
 | [34217](https://www.acmicpc.net/problem/34217) | 찾아오시는 길 | ✓ |   |   |   |   |
 | [34297](https://www.acmicpc.net/problem/34297) | Parking Pandemonium | ✓ |   |   |   |   |
+| [34411](https://www.acmicpc.net/problem/34411) | M-Climb | ✓ |   |   |   |   |
+| [34412](https://www.acmicpc.net/problem/34412) | 13 Floors | ✓ |   |   |   |   |
+| [34424](https://www.acmicpc.net/problem/34424) | Flatter Land | ✓ |   |   |   |   |
 | [34443](https://www.acmicpc.net/problem/34443) | Hack-a-Holics | ✓ |   |   |   |   |
 | [34446](https://www.acmicpc.net/problem/34446) | E-Days Ore Cart Pull | ✓ |   |   |   |   |
 | [34454](https://www.acmicpc.net/problem/34454) | Roller Coaster Ride | ✓ |   |   |   |   |
 | [34521](https://www.acmicpc.net/problem/34521) | !제곱수 순열 | ✓ |   |   |   |   |
 | [34530](https://www.acmicpc.net/problem/34530) | Back to Origin | ✓ |   |   |   |   |
 | [34665](https://www.acmicpc.net/problem/34665) | 가희와 교통 요금 | ✓ |   |   |   |   |
+| [34693](https://www.acmicpc.net/problem/34693) | 마법소녀 코이 | ✓ |   |   |   |   |
 | [34721](https://www.acmicpc.net/problem/34721) | 역사를 걸으면 동국이 보이고 | ✓ |   |   |   |   |
 | [34813](https://www.acmicpc.net/problem/34813) | 공통교육과정 | ✓ |   |   |   |   |
 | [34849](https://www.acmicpc.net/problem/34849) | 이중 반복문 | ✓ |   |   |   |   |
