@@ -1,5 +1,124 @@
 [
   {
+    "submission_id": "101257580",
+    "problem_id": "33170",
+    "problem_title": "ブラックジャック (Blackjack)",
+    "language": "PyPy3",
+    "submission_time": "2025-12-22 14:17:49"
+  },
+  {
+    "submission_id": "101257354",
+    "problem_id": "33178",
+    "problem_title": "Micromasters",
+    "language": "PyPy3",
+    "submission_time": "2025-12-22 14:09:40"
+  },
+  {
+    "submission_id": "101257323",
+    "problem_id": "33515",
+    "problem_title": "노트북 세 대를 가지고 왔다",
+    "language": "PyPy3",
+    "submission_time": "2025-12-22 14:08:41"
+  },
+  {
+    "submission_id": "101237768",
+    "problem_id": "34052",
+    "problem_title": "체육은 수학과목 입니다 2",
+    "language": "PyPy3",
+    "submission_time": "2025-12-21 17:04:17"
+  },
+  {
+    "submission_id": "101237701",
+    "problem_id": "34281",
+    "problem_title": "Class Photo",
+    "language": "PyPy3",
+    "submission_time": "2025-12-21 17:01:57"
+  },
+  {
+    "submission_id": "101237634",
+    "problem_id": "34691",
+    "problem_title": "대전과학고등학교를 사랑하십니까?",
+    "language": "PyPy3",
+    "submission_time": "2025-12-21 16:59:07"
+  },
+  {
+    "submission_id": "101233327",
+    "problem_id": "4307",
+    "problem_title": "개미",
+    "language": "PyPy3",
+    "submission_time": "2025-12-21 14:28:59"
+  },
+  {
+    "submission_id": "101226683",
+    "problem_id": "33511",
+    "problem_title": "쉐이드 커튼 위 먼지는 쌓이는 중",
+    "language": "PyPy3",
+    "submission_time": "2025-12-21 01:51:32"
+  },
+  {
+    "submission_id": "101223353",
+    "problem_id": "17298",
+    "problem_title": "오큰수",
+    "language": "PyPy3",
+    "submission_time": "2025-12-20 22:48:25"
+  },
+  {
+    "submission_id": "101186780",
+    "problem_id": "34362",
+    "problem_title": "Above",
+    "language": "PyPy3",
+    "submission_time": "2025-12-19 12:03:07"
+  },
+  {
+    "submission_id": "101186771",
+    "problem_id": "34362",
+    "problem_title": "Above",
+    "language": "PyPy3",
+    "submission_time": "2025-12-19 12:02:37"
+  },
+  {
+    "submission_id": "101186695",
+    "problem_id": "18114",
+    "problem_title": "블랙 프라이데이",
+    "language": "PyPy3",
+    "submission_time": "2025-12-19 11:57:26"
+  },
+  {
+    "submission_id": "101168351",
+    "problem_id": "11286",
+    "problem_title": "절댓값 힙",
+    "language": "PyPy3",
+    "submission_time": "2025-12-18 15:17:33"
+  },
+  {
+    "submission_id": "101168236",
+    "problem_id": "5014",
+    "problem_title": "스타트링크",
+    "language": "PyPy3",
+    "submission_time": "2025-12-18 15:12:16"
+  },
+  {
+    "submission_id": "101136366",
+    "problem_id": "3566",
+    "problem_title": "대형 스크린",
+    "language": "PyPy3",
+    "submission_time": "2025-12-17 09:44:28"
+  },
+  {
+    "submission_id": "101136326",
+    "problem_id": "3566",
+    "problem_title": "대형 스크린",
+    "language": "PyPy3",
+    "submission_time": "2025-12-17 09:42:01"
+  },
+  {
+    "submission_id": "101136020",
+    "problem_id": "9339",
+    "problem_title": "마라토너",
+    "language": "PyPy3",
+    "submission_time": "2025-12-17 09:19:13"
+  },
+  {
     "submission_id": "101108432",
     "problem_id": "34411",
     "problem_title": "M-Climb",
