@@ -28,6 +28,7 @@
 | [1244](https://www.acmicpc.net/problem/1244) | 스위치 켜고 끄기 | ✓ |   |   |   |   |
 | [1246](https://www.acmicpc.net/problem/1246) | 온라인 판매 | ✓ |   |   |   |   |
 | [1259](https://www.acmicpc.net/problem/1259) | 팰린드롬수 | [✓](boj/1259/90741930.py) |   |   |   |   |
+| [1264](https://www.acmicpc.net/problem/1264) | 모음의 개수 | ✓ |   |   |   |   |
 | [1271](https://www.acmicpc.net/problem/1271) | 엄청난 부자2 | [✓](boj/1271/93769960.py) |   |   |   |   |
 | [1316](https://www.acmicpc.net/problem/1316) | 그룹 단어 체커 | ✓ |   |   |   |   |
 | [1330](https://www.acmicpc.net/problem/1330) | 두 수 비교하기 | ✓ |   |   |   |   |
@@ -87,6 +88,7 @@
 | [2467](https://www.acmicpc.net/problem/2467) | 용액 | ✓ |   |   |   |   |
 | [2473](https://www.acmicpc.net/problem/2473) | 세 용액 | ✓ |   |   |   |   |
 | [2475](https://www.acmicpc.net/problem/2475) | 검증수 | ✓ |   |   |   |   |
+| [2480](https://www.acmicpc.net/problem/2480) | 주사위 세개 | ✓ |   |   |   |   |
 | [2530](https://www.acmicpc.net/problem/2530) | 인공지능 시계 | ✓ |   |   |   |   |
 | [2557](https://www.acmicpc.net/problem/2557) | Hello World | [✓](boj/2557/90356881.py) | [✓](boj/2557/90357149.cpp) | [✓](boj/2557/90357233.cs) | [✓](boj/2557/90357205.js) |   |
 | [2558](https://www.acmicpc.net/problem/2558) | A+B - 2 | ✓ |   |   |   |   |
@@ -108,6 +110,7 @@
 | [2748](https://www.acmicpc.net/problem/2748) | 피보나치 수 2 | ✓ |   |   |   |   |
 | [2749](https://www.acmicpc.net/problem/2749) | 피보나치 수 3 | ✓ |   |   |   |   |
 | [2751](https://www.acmicpc.net/problem/2751) | 수 정렬하기 2 | ✓ |   |   |   |   |
+| [2752](https://www.acmicpc.net/problem/2752) | 세수정렬 | ✓ |   |   |   |   |
 | [2753](https://www.acmicpc.net/problem/2753) | 윤년 | ✓ |   |   |   |   |
 | [2810](https://www.acmicpc.net/problem/2810) | 컵홀더 | ✓ |   |   |   |   |
 | [2839](https://www.acmicpc.net/problem/2839) | 설탕 배달 | ✓ |   |   |   |   |
