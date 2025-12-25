@@ -360,6 +360,7 @@
 | [17173](https://www.acmicpc.net/problem/17173) | 배수들의 합 | ✓ |   |   |   |   |
 | [17177](https://www.acmicpc.net/problem/17177) | 내접사각형 만들기 | ✓ |   |   |   |   |
 | [17201](https://www.acmicpc.net/problem/17201) | 자석 체인 | ✓ |   |   |   |   |
+| [17206](https://www.acmicpc.net/problem/17206) | 준석이의 수학 숙제 | ✓ |   |   |   |   |
 | [17224](https://www.acmicpc.net/problem/17224) | APC는 왜 서브태스크 대회가 되었을까? | ✓ |   |   |   |   |
 | [17256](https://www.acmicpc.net/problem/17256) | 달달함이 넘쳐흘러 | ✓ |   |   |   |   |
 | [17266](https://www.acmicpc.net/problem/17266) | 어두운 굴다리 | ✓ |   |   |   |   |
@@ -545,3 +546,5 @@
 | [34721](https://www.acmicpc.net/problem/34721) | 역사를 걸으면 동국이 보이고 | ✓ |   |   |   |   |
 | [34813](https://www.acmicpc.net/problem/34813) | 공통교육과정 | ✓ |   |   |   |   |
 | [34849](https://www.acmicpc.net/problem/34849) | 이중 반복문 | ✓ |   |   |   |   |
+| [34921](https://www.acmicpc.net/problem/34921) | 덕후 | ✓ |   |   |   |   |
+| [34945](https://www.acmicpc.net/problem/34945) | 채플이 너무해 | ✓ |   |   |   |   |
