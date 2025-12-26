@@ -511,11 +511,17 @@
 | [32344](https://www.acmicpc.net/problem/32344) | 유물 발굴 | ✓ |   |   |   |   |
 | [32384](https://www.acmicpc.net/problem/32384) | 사랑은 고려대입니다 | ✓ |   |   |   |   |
 | [32402](https://www.acmicpc.net/problem/32402) | TPS | ✓ |   |   |   |   |
+| [32458](https://www.acmicpc.net/problem/32458) | Just Round Down | ✓ |   |   |   |   |
+| [32498](https://www.acmicpc.net/problem/32498) | Call for Problems | ✓ |   |   |   |   |
 | [32630](https://www.acmicpc.net/problem/32630) | $A_i \times A_j$ | ✓ |   |   |   |   |
 | [32642](https://www.acmicpc.net/problem/32642) | 당구 좀 치자 제발 | ✓ |   |   |   |   |
 | [32651](https://www.acmicpc.net/problem/32651) | 인간은 무엇인가 | ✓ |   |   |   |   |
 | [32775](https://www.acmicpc.net/problem/32775) | 가희와 4시간의 벽 1 | ✓ |   |   |   |   |
+| [32929](https://www.acmicpc.net/problem/32929) | UOS 문자열 | ✓ |   |   |   |   |
 | [32951](https://www.acmicpc.net/problem/32951) | AI 선도대학 | ✓ |   |   |   |   |
+| [33161](https://www.acmicpc.net/problem/33161) | 鉛筆 2 (Pencils 2) | ✓ |   |   |   |   |
+| [33165](https://www.acmicpc.net/problem/33165) | 徒競走 (Footrace) | ✓ |   |   |   |   |
+| [33169](https://www.acmicpc.net/problem/33169) | 所持金 (Money On Me) | ✓ |   |   |   |   |
 | [33170](https://www.acmicpc.net/problem/33170) | ブラックジャック (Blackjack) | ✓ |   |   |   |   |
 | [33178](https://www.acmicpc.net/problem/33178) | Micromasters | ✓ |   |   |   |   |
 | [33511](https://www.acmicpc.net/problem/33511) | 쉐이드 커튼 위 먼지는 쌓이는 중 | ✓ |   |   |   |   |
