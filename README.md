@@ -179,6 +179,7 @@
 | [6198](https://www.acmicpc.net/problem/6198) | 옥상 정원 꾸미기 | ✓ |   |   |   |   |
 | [6375](https://www.acmicpc.net/problem/6375) | Set Me | ✓ |   |   |   |   |
 | [6497](https://www.acmicpc.net/problem/6497) | 전력난 | ✓ |   |   |   |   |
+| [6503](https://www.acmicpc.net/problem/6503) | 망가진 키보드 | ✓ |   |   |   |   |
 | [6640](https://www.acmicpc.net/problem/6640) | Suspicious Stocks | ✓ |   |   |   |   |
 | [6778](https://www.acmicpc.net/problem/6778) | Which Alien? | ✓ |   |   |   |   |
 | [6840](https://www.acmicpc.net/problem/6840) | Who is in the middle? | ✓ |   |   |   |   |
@@ -421,6 +422,7 @@
 | [23977](https://www.acmicpc.net/problem/23977) | To Find Password | ✓ |   |   |   |   |
 | [24009](https://www.acmicpc.net/problem/24009) | Huge Numbers | ✓ |   |   |   |   |
 | [24040](https://www.acmicpc.net/problem/24040) | 예쁜 케이크 | ✓ |   |   |   |   |
+| [24057](https://www.acmicpc.net/problem/24057) | 실수 | ✓ |   |   |   |   |
 | [24266](https://www.acmicpc.net/problem/24266) | 알고리즘 수업 - 알고리즘의 수행 시간 5 | ✓ |   |   |   |   |
 | [24723](https://www.acmicpc.net/problem/24723) | 녹색거탑 | ✓ |   |   |   |   |
 | [24765](https://www.acmicpc.net/problem/24765) | Mia | ✓ |   |   |   |   |
@@ -497,6 +499,7 @@
 | [31450](https://www.acmicpc.net/problem/31450) | Everyone is a winner | ✓ |   |   |   |   |
 | [31518](https://www.acmicpc.net/problem/31518) | Triple Sevens | ✓ |   |   |   |   |
 | [31589](https://www.acmicpc.net/problem/31589) | 포도주 시음 | ✓ |   |   |   |   |
+| [31654](https://www.acmicpc.net/problem/31654) | Adding Trouble | ✓ |   |   |   |   |
 | [31656](https://www.acmicpc.net/problem/31656) | Sticky Keys | ✓ |   |   |   |   |
 | [31668](https://www.acmicpc.net/problem/31668) | 특별한 가지 | ✓ |   |   |   |   |
 | [31832](https://www.acmicpc.net/problem/31832) | 팀명 정하기 2 | ✓ |   |   |   |   |
@@ -504,9 +507,13 @@
 | [31869](https://www.acmicpc.net/problem/31869) | 선배님 밥 사주세요! | ✓ |   |   |   |   |
 | [31926](https://www.acmicpc.net/problem/31926) | 밤양갱 | ✓ |   |   |   |   |
 | [32132](https://www.acmicpc.net/problem/32132) | PlayStation이 아니에요 | ✓ |   |   |   |   |
+| [32154](https://www.acmicpc.net/problem/32154) | SUAPC 2024 Winter | ✓ |   |   |   |   |
 | [32158](https://www.acmicpc.net/problem/32158) | SWAPC | ✓ |   |   |   |   |
 | [32185](https://www.acmicpc.net/problem/32185) | 꿈 열정 나눔 | ✓ |   |   |   |   |
 | [32215](https://www.acmicpc.net/problem/32215) | 코드마스터 2024 | ✓ |   |   |   |   |
+| [32260](https://www.acmicpc.net/problem/32260) | A + B |   | ✓ |   |   |   |
+| [32314](https://www.acmicpc.net/problem/32314) | Christmas Tree Adapter | ✓ |   |   |   |   |
+| [32326](https://www.acmicpc.net/problem/32326) | Conveyor Belt Sushi | ✓ |   |   |   |   |
 | [32342](https://www.acmicpc.net/problem/32342) | 와우와 쿼리 | ✓ |   |   |   |   |
 | [32344](https://www.acmicpc.net/problem/32344) | 유물 발굴 | ✓ |   |   |   |   |
 | [32384](https://www.acmicpc.net/problem/32384) | 사랑은 고려대입니다 | ✓ |   |   |   |   |
@@ -533,6 +540,7 @@
 | [33871](https://www.acmicpc.net/problem/33871) | 서로소 게임 | ✓ |   |   |   |   |
 | [33904](https://www.acmicpc.net/problem/33904) | 불필요한 for문 | ✓ |   |   |   |   |
 | [33924](https://www.acmicpc.net/problem/33924) | 신묘마루의 요술망치 | ✓ |   |   |   |   |
+| [33937](https://www.acmicpc.net/problem/33937) | 태권도와 복싱을 합한 운동 | ✓ |   |   |   |   |
 | [34052](https://www.acmicpc.net/problem/34052) | 체육은 수학과목 입니다 2 | ✓ |   |   |   |   |
 | [34217](https://www.acmicpc.net/problem/34217) | 찾아오시는 길 | ✓ |   |   |   |   |
 | [34281](https://www.acmicpc.net/problem/34281) | Class Photo | ✓ |   |   |   |   |
@@ -550,7 +558,9 @@
 | [34691](https://www.acmicpc.net/problem/34691) | 대전과학고등학교를 사랑하십니까? | ✓ |   |   |   |   |
 | [34693](https://www.acmicpc.net/problem/34693) | 마법소녀 코이 | ✓ |   |   |   |   |
 | [34721](https://www.acmicpc.net/problem/34721) | 역사를 걸으면 동국이 보이고 | ✓ |   |   |   |   |
+| [34751](https://www.acmicpc.net/problem/34751) | 01MEX | ✓ |   |   |   |   |
 | [34813](https://www.acmicpc.net/problem/34813) | 공통교육과정 | ✓ |   |   |   |   |
 | [34849](https://www.acmicpc.net/problem/34849) | 이중 반복문 | ✓ |   |   |   |   |
 | [34921](https://www.acmicpc.net/problem/34921) | 덕후 | ✓ |   |   |   |   |
 | [34945](https://www.acmicpc.net/problem/34945) | 채플이 너무해 | ✓ |   |   |   |   |
+| [35030](https://www.acmicpc.net/problem/35030) | 2026년이 기대되는 이유 | ✓ |   |   |   |   |
