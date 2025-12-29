@@ -77,6 +77,7 @@
 | [2309](https://www.acmicpc.net/problem/2309) | 일곱 난쟁이 | ✓ |   |   |   |   |
 | [2312](https://www.acmicpc.net/problem/2312) | 수 복원하기 | ✓ |   |   |   |   |
 | [2338](https://www.acmicpc.net/problem/2338) | 긴자리 계산 | ✓ |   |   |   |   |
+| [2357](https://www.acmicpc.net/problem/2357) | 최솟값과 최댓값 | ✓ |   |   |   |   |
 | [2393](https://www.acmicpc.net/problem/2393) | Rook |   |   |   |   | ✓ |
 | [2420](https://www.acmicpc.net/problem/2420) | 사파리월드 | ✓ |   |   |   |   |
 | [2428](https://www.acmicpc.net/problem/2428) | 표절 | ✓ |   |   |   |   |
@@ -266,6 +267,7 @@
 | [11382](https://www.acmicpc.net/problem/11382) | 꼬마 정민 | ✓ |   |   |   |   |
 | [11401](https://www.acmicpc.net/problem/11401) | 이항 계수 3 | ✓ |   |   |   |   |
 | [11444](https://www.acmicpc.net/problem/11444) | 피보나치 수 6 | ✓ |   |   |   |   |
+| [11505](https://www.acmicpc.net/problem/11505) | 구간 곱 구하기 | ✓ |   |   |   |   |
 | [11557](https://www.acmicpc.net/problem/11557) | Yangjojang of The Year | ✓ |   |   |   |   |
 | [11579](https://www.acmicpc.net/problem/11579) | 초차원전쟁 이나 | ✓ |   |   |   |   |
 | [11585](https://www.acmicpc.net/problem/11585) | 속타는 저녁 메뉴 | ✓ |   |   |   |   |
@@ -299,6 +301,7 @@
 | [14004](https://www.acmicpc.net/problem/14004) | ICPC | ✓ |   |   |   |   |
 | [14215](https://www.acmicpc.net/problem/14215) | 세 막대 | ✓ |   |   |   |   |
 | [14228](https://www.acmicpc.net/problem/14228) | 물탱크 | ✓ |   |   |   |   |
+| [14428](https://www.acmicpc.net/problem/14428) | 수열과 쿼리 16 | ✓ |   |   |   |   |
 | [14470](https://www.acmicpc.net/problem/14470) | 전자레인지 | ✓ |   |   |   |   |
 | [14487](https://www.acmicpc.net/problem/14487) | 욱제는 효도쟁이야!! | ✓ |   |   |   |   |
 | [14566](https://www.acmicpc.net/problem/14566) | Dongjak N1 | ✓ |   |   |   |   |

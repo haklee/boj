@@ -1,5 +1,26 @@
 [
   {
+    "submission_id": "101424932",
+    "problem_id": "14428",
+    "problem_title": "수열과 쿼리 16",
+    "language": "PyPy3",
+    "submission_time": "2025-12-29 14:50:19"
+  },
+  {
+    "submission_id": "101424693",
+    "problem_id": "11505",
+    "problem_title": "구간 곱 구하기",
+    "language": "PyPy3",
+    "submission_time": "2025-12-29 14:42:54"
+  },
+  {
+    "submission_id": "101424564",
+    "problem_id": "2357",
+    "problem_title": "최솟값과 최댓값",
+    "language": "PyPy3",
+    "submission_time": "2025-12-29 14:38:40"
+  },
+  {
     "submission_id": "101414408",
     "problem_id": "32326",
     "problem_title": "Conveyor Belt Sushi",
