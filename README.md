@@ -17,6 +17,7 @@
 | [1008](https://www.acmicpc.net/problem/1008) | A/B | [✓](boj/1008/91363145.py) |   |   | [✓](boj/1008/95037997.js) |   |
 | [1011](https://www.acmicpc.net/problem/1011) | Fly me to the Alpha Centauri | ✓ |   |   |   |   |
 | [1018](https://www.acmicpc.net/problem/1018) | 체스판 다시 칠하기 | ✓ |   |   |   |   |
+| [1019](https://www.acmicpc.net/problem/1019) | 책 페이지 | ✓ |   |   |   |   |
 | [1085](https://www.acmicpc.net/problem/1085) | 직사각형에서 탈출 | ✓ |   |   |   |   |
 | [1086](https://www.acmicpc.net/problem/1086) | 박성원 | ✓ |   |   |   |   |
 | [1094](https://www.acmicpc.net/problem/1094) | 막대기 | [✓](boj/1094/94604823.py) |   |   |   |   |
@@ -192,6 +193,7 @@
 | [7510](https://www.acmicpc.net/problem/7510) | 고급 수학 | ✓ |   |   |   |   |
 | [7523](https://www.acmicpc.net/problem/7523) | Gauß | ✓ |   |   |   |   |
 | [7572](https://www.acmicpc.net/problem/7572) | 간지(干支) | ✓ |   |   |   |   |
+| [7578](https://www.acmicpc.net/problem/7578) | 공장 | ✓ |   |   |   |   |
 | [7600](https://www.acmicpc.net/problem/7600) | 문자가 몇갤까 | ✓ |   |   |   |   |
 | [7685](https://www.acmicpc.net/problem/7685) | Nim | ✓ |   |   |   |   |
 | [7891](https://www.acmicpc.net/problem/7891) | Can you add this? | ✓ |   |   |   |   |
@@ -294,6 +296,7 @@
 | [13172](https://www.acmicpc.net/problem/13172) | Σ | ✓ |   |   |   |   |
 | [13192](https://www.acmicpc.net/problem/13192) | Router 1 | ✓ |   |   |   |   |
 | [13268](https://www.acmicpc.net/problem/13268) | 셔틀런 | ✓ |   |   |   |   |
+| [13334](https://www.acmicpc.net/problem/13334) | 철로 | ✓ |   |   |   |   |
 | [13399](https://www.acmicpc.net/problem/13399) | Rearranging a Sequence | ✓ |   |   |   |   |
 | [13417](https://www.acmicpc.net/problem/13417) | 카드 문자열 | ✓ |   |   |   |   |
 | [13623](https://www.acmicpc.net/problem/13623) | Zero or One | ✓ |   |   |   |   |
@@ -302,6 +305,7 @@
 | [14215](https://www.acmicpc.net/problem/14215) | 세 막대 | ✓ |   |   |   |   |
 | [14228](https://www.acmicpc.net/problem/14228) | 물탱크 | ✓ |   |   |   |   |
 | [14428](https://www.acmicpc.net/problem/14428) | 수열과 쿼리 16 | ✓ |   |   |   |   |
+| [14438](https://www.acmicpc.net/problem/14438) | 수열과 쿼리 17 | ✓ |   |   |   |   |
 | [14470](https://www.acmicpc.net/problem/14470) | 전자레인지 | ✓ |   |   |   |   |
 | [14487](https://www.acmicpc.net/problem/14487) | 욱제는 효도쟁이야!! | ✓ |   |   |   |   |
 | [14566](https://www.acmicpc.net/problem/14566) | Dongjak N1 | ✓ |   |   |   |   |
