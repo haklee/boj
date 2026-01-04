@@ -17,7 +17,9 @@
 | [1003](https://www.acmicpc.net/problem/1003) | 피보나치 함수 | ✓ |   |   |   |   |
 | [1004](https://www.acmicpc.net/problem/1004) | 어린 왕자 | ✓ |   |   |   |   |
 | [1005](https://www.acmicpc.net/problem/1005) | ACM Craft | ✓ |   |   |   |   |
+| [1007](https://www.acmicpc.net/problem/1007) | 벡터 매칭 | ✓ |   |   |   |   |
 | [1008](https://www.acmicpc.net/problem/1008) | A/B | [✓](boj/1008/91363145.py) |   |   | [✓](boj/1008/95037997.js) |   |
+| [1009](https://www.acmicpc.net/problem/1009) | 분산처리 | ✓ |   |   |   |   |
 | [1011](https://www.acmicpc.net/problem/1011) | Fly me to the Alpha Centauri | ✓ |   |   |   |   |
 | [1018](https://www.acmicpc.net/problem/1018) | 체스판 다시 칠하기 | ✓ |   |   |   |   |
 | [1019](https://www.acmicpc.net/problem/1019) | 책 페이지 | ✓ |   |   |   |   |
@@ -525,6 +527,10 @@
 | [31450](https://www.acmicpc.net/problem/31450) | Everyone is a winner | ✓ |   |   |   |   |
 | [31518](https://www.acmicpc.net/problem/31518) | Triple Sevens | ✓ |   |   |   |   |
 | [31589](https://www.acmicpc.net/problem/31589) | 포도주 시음 | ✓ |   |   |   |   |
+| [31606](https://www.acmicpc.net/problem/31606) | 果物 (Fruit) | ✓ |   |   |   |   |
+| [31610](https://www.acmicpc.net/problem/31610) | 飴の袋詰め (Drops Packing) | ✓ |   |   |   |   |
+| [31611](https://www.acmicpc.net/problem/31611) | 火曜日 (Tuesday) | ✓ |   |   |   |   |
+| [31614](https://www.acmicpc.net/problem/31614) | 分 (Minutes) | ✓ |   |   |   |   |
 | [31654](https://www.acmicpc.net/problem/31654) | Adding Trouble | ✓ |   |   |   |   |
 | [31656](https://www.acmicpc.net/problem/31656) | Sticky Keys | ✓ |   |   |   |   |
 | [31668](https://www.acmicpc.net/problem/31668) | 특별한 가지 | ✓ |   |   |   |   |

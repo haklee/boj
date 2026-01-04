@@ -1,5 +1,47 @@
 [
   {
+    "submission_id": "101580027",
+    "problem_id": "31614",
+    "problem_title": "分 (Minutes)",
+    "language": "PyPy3",
+    "submission_time": "2026-01-04 11:13:50"
+  },
+  {
+    "submission_id": "101580021",
+    "problem_id": "31611",
+    "problem_title": "火曜日 (Tuesday)",
+    "language": "PyPy3",
+    "submission_time": "2026-01-04 11:13:29"
+  },
+  {
+    "submission_id": "101580008",
+    "problem_id": "31610",
+    "problem_title": "飴の袋詰め (Drops Packing)",
+    "language": "PyPy3",
+    "submission_time": "2026-01-04 11:12:44"
+  },
+  {
+    "submission_id": "101579995",
+    "problem_id": "31606",
+    "problem_title": "果物 (Fruit)",
+    "language": "PyPy3",
+    "submission_time": "2026-01-04 11:11:49"
+  },
+  {
+    "submission_id": "101579965",
+    "problem_id": "1009",
+    "problem_title": "분산처리",
+    "language": "PyPy3",
+    "submission_time": "2026-01-04 11:08:53"
+  },
+  {
+    "submission_id": "101579837",
+    "problem_id": "1007",
+    "problem_title": "벡터 매칭",
+    "language": "PyPy3",
+    "submission_time": "2026-01-04 11:00:31"
+  },
+  {
     "submission_id": "101549006",
     "problem_id": "1004",
     "problem_title": "어린 왕자",
