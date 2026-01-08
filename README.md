@@ -20,6 +20,7 @@
 | [1007](https://www.acmicpc.net/problem/1007) | 벡터 매칭 | ✓ |   |   |   |   |
 | [1008](https://www.acmicpc.net/problem/1008) | A/B | [✓](boj/1008/91363145.py) |   |   | [✓](boj/1008/95037997.js) |   |
 | [1009](https://www.acmicpc.net/problem/1009) | 분산처리 | ✓ |   |   |   |   |
+| [1010](https://www.acmicpc.net/problem/1010) | 다리 놓기 | ✓ |   |   |   |   |
 | [1011](https://www.acmicpc.net/problem/1011) | Fly me to the Alpha Centauri | ✓ |   |   |   |   |
 | [1018](https://www.acmicpc.net/problem/1018) | 체스판 다시 칠하기 | ✓ |   |   |   |   |
 | [1019](https://www.acmicpc.net/problem/1019) | 책 페이지 | ✓ |   |   |   |   |
@@ -313,6 +314,7 @@
 | [13172](https://www.acmicpc.net/problem/13172) | Σ | ✓ |   |   |   |   |
 | [13192](https://www.acmicpc.net/problem/13192) | Router 1 | ✓ |   |   |   |   |
 | [13268](https://www.acmicpc.net/problem/13268) | 셔틀런 | ✓ |   |   |   |   |
+| [13305](https://www.acmicpc.net/problem/13305) | 주유소 | ✓ |   |   |   |   |
 | [13334](https://www.acmicpc.net/problem/13334) | 철로 | ✓ |   |   |   |   |
 | [13399](https://www.acmicpc.net/problem/13399) | Rearranging a Sequence | ✓ |   |   |   |   |
 | [13417](https://www.acmicpc.net/problem/13417) | 카드 문자열 | ✓ |   |   |   |   |
@@ -438,6 +440,7 @@
 | [21924](https://www.acmicpc.net/problem/21924) | 도시 건설 | ✓ |   |   |   |   |
 | [22869](https://www.acmicpc.net/problem/22869) | 징검다리 건너기 (small) | ✓ |   |   |   |   |
 | [22871](https://www.acmicpc.net/problem/22871) | 징검다리 건너기 (large) | ✓ |   |   |   |   |
+| [22951](https://www.acmicpc.net/problem/22951) | 송이의 카드 게임 | ✓ |   |   |   |   |
 | [23081](https://www.acmicpc.net/problem/23081) | 오델로 | ✓ |   |   |   |   |
 | [23246](https://www.acmicpc.net/problem/23246) | Sport Climbing Combined | ✓ |   |   |   |   |
 | [23276](https://www.acmicpc.net/problem/23276) | Locust Locus | ✓ |   |   |   |   |
@@ -510,8 +513,11 @@
 | [30032](https://www.acmicpc.net/problem/30032) | 알파벳 뒤집기 | ✓ |   |   |   |   |
 | [30033](https://www.acmicpc.net/problem/30033) | Rust Study | ✓ |   |   |   |   |
 | [30189](https://www.acmicpc.net/problem/30189) | 경우의 수의 합 | ✓ |   |   |   |   |
+| [30224](https://www.acmicpc.net/problem/30224) | Lucky 7 | ✓ |   |   |   |   |
+| [30328](https://www.acmicpc.net/problem/30328) | Java Warriors | ✓ |   |   |   |   |
 | [30403](https://www.acmicpc.net/problem/30403) | 무지개 만들기 | ✓ |   |   |   |   |
 | [30456](https://www.acmicpc.net/problem/30456) | 바닥수 | ✓ |   |   |   |   |
+| [30664](https://www.acmicpc.net/problem/30664) | Loteria Falha | ✓ |   |   |   |   |
 | [30786](https://www.acmicpc.net/problem/30786) | 홀수 찾아 삼만리 | ✓ |   |   |   |   |
 | [30794](https://www.acmicpc.net/problem/30794) | 가희와 클럽 오디션 1 | ✓ |   |   |   |   |
 | [30875](https://www.acmicpc.net/problem/30875) | Recovering the Region | ✓ |   |   |   |   |
