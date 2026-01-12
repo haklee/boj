@@ -312,6 +312,7 @@
 | [11868](https://www.acmicpc.net/problem/11868) | 님 게임 2 | ✓ |   |   |   |   |
 | [11880](https://www.acmicpc.net/problem/11880) | 개미 | ✓ |   |   |   |   |
 | [11916](https://www.acmicpc.net/problem/11916) | 볼질 | ✓ |   |   |   |   |
+| [11942](https://www.acmicpc.net/problem/11942) | 고려대는 사랑입니다 |   |   |   |   | ✓ |
 | [12015](https://www.acmicpc.net/problem/12015) | 가장 긴 증가하는 부분 수열 2 | ✓ |   |   |   |   |
 | [12738](https://www.acmicpc.net/problem/12738) | 가장 긴 증가하는 부분 수열 3 | ✓ |   |   |   |   |
 | [12904](https://www.acmicpc.net/problem/12904) | A와 B | ✓ |   |   |   |   |
@@ -321,6 +322,7 @@
 | [13172](https://www.acmicpc.net/problem/13172) | Σ | ✓ |   |   |   |   |
 | [13192](https://www.acmicpc.net/problem/13192) | Router 1 | ✓ |   |   |   |   |
 | [13268](https://www.acmicpc.net/problem/13268) | 셔틀런 | ✓ |   |   |   |   |
+| [13277](https://www.acmicpc.net/problem/13277) | 큰 수 곱셈 | ✓ |   |   |   |   |
 | [13305](https://www.acmicpc.net/problem/13305) | 주유소 | ✓ |   |   |   |   |
 | [13334](https://www.acmicpc.net/problem/13334) | 철로 | ✓ |   |   |   |   |
 | [13399](https://www.acmicpc.net/problem/13399) | Rearranging a Sequence | ✓ |   |   |   |   |
@@ -336,6 +338,7 @@
 | [14470](https://www.acmicpc.net/problem/14470) | 전자레인지 | ✓ |   |   |   |   |
 | [14487](https://www.acmicpc.net/problem/14487) | 욱제는 효도쟁이야!! | ✓ |   |   |   |   |
 | [14566](https://www.acmicpc.net/problem/14566) | Dongjak N1 | ✓ |   |   |   |   |
+| [14581](https://www.acmicpc.net/problem/14581) | 팬들에게 둘러싸인 홍준 | ✓ |   |   |   |   |
 | [14608](https://www.acmicpc.net/problem/14608) | 구분구적법 (Small) | ✓ |   |   |   |   |
 | [14623](https://www.acmicpc.net/problem/14623) | 감정이입 | ✓ |   |   |   |   |
 | [14645](https://www.acmicpc.net/problem/14645) | 와이버스 부릉부릉 | [✓](boj/14645/90473517.py) |   |   |   | [✓](boj/14645/90473544.txt) |
@@ -350,6 +353,7 @@
 | [14954](https://www.acmicpc.net/problem/14954) | Happy Number | ✓ |   |   |   |   |
 | [15000](https://www.acmicpc.net/problem/15000) | CAPS | ✓ |   |   |   |   |
 | [15228](https://www.acmicpc.net/problem/15228) | 3D Printed Statues | ✓ |   |   |   |   |
+| [15232](https://www.acmicpc.net/problem/15232) | Rectangles | ✓ |   |   |   |   |
 | [15299](https://www.acmicpc.net/problem/15299) | Best Rational Approximation | ✓ |   |   |   |   |
 | [15311](https://www.acmicpc.net/problem/15311) | 약 팔기 | ✓ |   |   |   |   |
 | [15486](https://www.acmicpc.net/problem/15486) | 퇴사 2 | ✓ |   |   |   |   |
@@ -364,6 +368,7 @@
 | [15666](https://www.acmicpc.net/problem/15666) | N과 M (12) | ✓ |   |   |   |   |
 | [15680](https://www.acmicpc.net/problem/15680) | 연세대학교 | ✓ |   |   |   |   |
 | [15681](https://www.acmicpc.net/problem/15681) | 트리와 쿼리 | ✓ |   |   |   |   |
+| [15727](https://www.acmicpc.net/problem/15727) | 조별과제를 하려는데 조장이 사라졌다 | ✓ |   |   |   |   |
 | [15734](https://www.acmicpc.net/problem/15734) | 명장 남정훈 | ✓ |   |   |   |   |
 | [15810](https://www.acmicpc.net/problem/15810) | 풍선 공장 | ✓ |   |   |   |   |
 | [15824](https://www.acmicpc.net/problem/15824) | 너 봄에는 캡사이신이 맛있단다 | ✓ |   |   |   |   |
