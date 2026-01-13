@@ -38,6 +38,7 @@
 | [1264](https://www.acmicpc.net/problem/1264) | 모음의 개수 | ✓ |   |   |   |   |
 | [1271](https://www.acmicpc.net/problem/1271) | 엄청난 부자2 | [✓](boj/1271/93769960.py) |   |   |   |   |
 | [1275](https://www.acmicpc.net/problem/1275) | 커피숍2 | ✓ |   |   |   |   |
+| [1305](https://www.acmicpc.net/problem/1305) | 광고 | ✓ |   |   |   |   |
 | [1306](https://www.acmicpc.net/problem/1306) | 달려라 홍준 | ✓ |   |   |   |   |
 | [1316](https://www.acmicpc.net/problem/1316) | 그룹 단어 체커 | ✓ |   |   |   |   |
 | [1330](https://www.acmicpc.net/problem/1330) | 두 수 비교하기 | ✓ |   |   |   |   |
@@ -57,6 +58,7 @@
 | [1735](https://www.acmicpc.net/problem/1735) | 분수 합 | ✓ |   |   |   |   |
 | [1740](https://www.acmicpc.net/problem/1740) | 거듭제곱 | ✓ |   |   |   |   |
 | [1766](https://www.acmicpc.net/problem/1766) | 문제집 | ✓ |   |   |   |   |
+| [1786](https://www.acmicpc.net/problem/1786) | 찾기 | ✓ |   |   |   |   |
 | [1806](https://www.acmicpc.net/problem/1806) | 부분합 | ✓ |   |   |   |   |
 | [1816](https://www.acmicpc.net/problem/1816) | 암호 키 | ✓ |   |   |   |   |
 | [1911](https://www.acmicpc.net/problem/1911) | 흙길 보수하기 | ✓ |   |   |   |   |
