@@ -55,6 +55,7 @@
 | [1647](https://www.acmicpc.net/problem/1647) | 도시 분할 계획 | ✓ |   |   |   |   |
 | [1676](https://www.acmicpc.net/problem/1676) | 팩토리얼 0의 개수 | ✓ |   |   |   |   |
 | [1708](https://www.acmicpc.net/problem/1708) | 볼록 껍질 | ✓ |   |   |   |   |
+| [1713](https://www.acmicpc.net/problem/1713) | 후보 추천하기 | ✓ |   |   |   |   |
 | [1725](https://www.acmicpc.net/problem/1725) | 히스토그램 | ✓ |   |   |   |   |
 | [1735](https://www.acmicpc.net/problem/1735) | 분수 합 | ✓ |   |   |   |   |
 | [1740](https://www.acmicpc.net/problem/1740) | 거듭제곱 | ✓ |   |   |   |   |
@@ -152,6 +153,7 @@
 | [3053](https://www.acmicpc.net/problem/3053) | 택시 기하학 | ✓ |   |   |   |   |
 | [3062](https://www.acmicpc.net/problem/3062) | 수 뒤집기 | ✓ |   |   |   |   |
 | [3077](https://www.acmicpc.net/problem/3077) | 임진왜란 | ✓ |   |   |   |   |
+| [3158](https://www.acmicpc.net/problem/3158) | Sierpinski 삼각형 | ✓ |   |   |   |   |
 | [3252](https://www.acmicpc.net/problem/3252) | JANICA | ✓ |   |   |   |   |
 | [3297](https://www.acmicpc.net/problem/3297) | POLYGON | ✓ |   |   |   |   |
 | [3566](https://www.acmicpc.net/problem/3566) | 대형 스크린 | ✓ |   |   |   |   |
@@ -186,6 +188,7 @@
 | [5339](https://www.acmicpc.net/problem/5339) | 콜센터 |   |   |   |   | ✓ |
 | [5341](https://www.acmicpc.net/problem/5341) | Pyramids | ✓ |   |   |   |   |
 | [5426](https://www.acmicpc.net/problem/5426) | 비밀 편지 | ✓ |   |   |   |   |
+| [5464](https://www.acmicpc.net/problem/5464) | 주차장 | ✓ |   |   |   |   |
 | [5522](https://www.acmicpc.net/problem/5522) | 카드 게임 | ✓ |   |   |   |   |
 | [5543](https://www.acmicpc.net/problem/5543) | 상근날드 | ✓ |   |   |   |   |
 | [5554](https://www.acmicpc.net/problem/5554) | 심부름 가는 길 | ✓ |   |   |   |   |
@@ -294,11 +297,13 @@
 | [11049](https://www.acmicpc.net/problem/11049) | 행렬 곱셈 순서 | ✓ |   |   |   |   |
 | [11050](https://www.acmicpc.net/problem/11050) | 이항 계수 1 | ✓ |   |   |   |   |
 | [11051](https://www.acmicpc.net/problem/11051) | 이항 계수 2 | ✓ |   |   |   |   |
+| [11052](https://www.acmicpc.net/problem/11052) | 카드 구매하기 | ✓ |   |   |   |   |
 | [11053](https://www.acmicpc.net/problem/11053) | 가장 긴 증가하는 부분 수열 | ✓ |   |   |   |   |
 | [11057](https://www.acmicpc.net/problem/11057) | 오르막 수 | ✓ |   |   |   |   |
 | [11068](https://www.acmicpc.net/problem/11068) | 회문인 수 | ✓ |   |   |   |   |
 | [11094](https://www.acmicpc.net/problem/11094) | 꿍 가라사대 | ✓ |   |   |   |   |
 | [11109](https://www.acmicpc.net/problem/11109) | 괴짜 교수 | ✓ |   |   |   |   |
+| [11279](https://www.acmicpc.net/problem/11279) | 최대 힙 | ✓ |   |   |   |   |
 | [11286](https://www.acmicpc.net/problem/11286) | 절댓값 힙 | ✓ |   |   |   |   |
 | [11382](https://www.acmicpc.net/problem/11382) | 꼬마 정민 | ✓ |   |   |   |   |
 | [11401](https://www.acmicpc.net/problem/11401) | 이항 계수 3 | ✓ |   |   |   |   |
@@ -455,6 +460,7 @@
 | [19970](https://www.acmicpc.net/problem/19970) | Куб | ✓ |   |   |   |   |
 | [20001](https://www.acmicpc.net/problem/20001) | 고무오리 디버깅 | ✓ |   |   |   |   |
 | [20040](https://www.acmicpc.net/problem/20040) | 사이클 게임 | ✓ |   |   |   |   |
+| [20117](https://www.acmicpc.net/problem/20117) | 호반우 상인의 이상한 품질 계산법 | ✓ |   |   |   |   |
 | [20149](https://www.acmicpc.net/problem/20149) | 선분 교차 3 | ✓ |   |   |   |   |
 | [20154](https://www.acmicpc.net/problem/20154) | 이 구역의 승자는 누구야?! | ✓ |   |   |   |   |
 | [20254](https://www.acmicpc.net/problem/20254) | Site Score | ✓ |   |   |   |   |
@@ -497,16 +503,24 @@
 | [24078](https://www.acmicpc.net/problem/24078) | 余り (Remainder) | ✓ |   |   |   |   |
 | [24082](https://www.acmicpc.net/problem/24082) | 立方体 (Cube) | ✓ |   |   |   |   |
 | [24086](https://www.acmicpc.net/problem/24086) | 身長 (Height) | ✓ |   |   |   |   |
+| [24262](https://www.acmicpc.net/problem/24262) | 알고리즘 수업 - 알고리즘의 수행 시간 1 |   |   |   |   | ✓ |
 | [24266](https://www.acmicpc.net/problem/24266) | 알고리즘 수업 - 알고리즘의 수행 시간 5 | ✓ |   |   |   |   |
+| [24309](https://www.acmicpc.net/problem/24309) | РАВЕНСТВО | ✓ |   |   |   |   |
+| [24392](https://www.acmicpc.net/problem/24392) | 영재의 징검다리 | ✓ |   |   |   |   |
+| [24568](https://www.acmicpc.net/problem/24568) | Cupcake Party | ✓ |   |   |   |   |
 | [24723](https://www.acmicpc.net/problem/24723) | 녹색거탑 | ✓ |   |   |   |   |
+| [24736](https://www.acmicpc.net/problem/24736) | Football Scoring | ✓ |   |   |   |   |
 | [24765](https://www.acmicpc.net/problem/24765) | Mia | ✓ |   |   |   |   |
 | [24883](https://www.acmicpc.net/problem/24883) | 자동완성 | ✓ |   |   |   |   |
+| [24900](https://www.acmicpc.net/problem/24900) | 한별 찍기 |   |   |   |   | ✓ |
 | [24938](https://www.acmicpc.net/problem/24938) | 키트 분배하기 | ✓ |   |   |   |   |
 | [25083](https://www.acmicpc.net/problem/25083) | 새싹 | ✓ |   |   |   |   |
 | [25184](https://www.acmicpc.net/problem/25184) | 동가수열 구하기 | ✓ |   |   |   |   |
 | [25206](https://www.acmicpc.net/problem/25206) | 너의 평점은 | ✓ |   |   |   |   |
 | [25238](https://www.acmicpc.net/problem/25238) | 가희와 방어율 무시 | ✓ |   |   |   |   |
 | [25306](https://www.acmicpc.net/problem/25306) | 연속 XOR | ✓ |   |   |   |   |
+| [25311](https://www.acmicpc.net/problem/25311) | UCPC에서 가장 쉬운 문제 번호는? |   |   |   |   | ✓ |
+| [25314](https://www.acmicpc.net/problem/25314) | 코딩은 체육과목 입니다 | ✓ |   |   |   |   |
 | [25372](https://www.acmicpc.net/problem/25372) | 성택이의 은밀한 비밀번호 | ✓ |   |   |   |   |
 | [25373](https://www.acmicpc.net/problem/25373) | 벼락치기 | ✓ |   |   |   |   |
 | [25374](https://www.acmicpc.net/problem/25374) | 등급 계산하기 | ✓ |   |   |   |   |
@@ -522,25 +536,42 @@
 | [25775](https://www.acmicpc.net/problem/25775) | Letter Frequency | ✓ |   |   |   |   |
 | [25858](https://www.acmicpc.net/problem/25858) | Divide the Cash |   |   |   | ✓ |   |
 | [25979](https://www.acmicpc.net/problem/25979) | 시간 구간 다중 업데이트 최대 합 | ✓ |   |   |   |   |
+| [26082](https://www.acmicpc.net/problem/26082) | WARBOY | ✓ |   |   |   |   |
 | [26091](https://www.acmicpc.net/problem/26091) | 현대모비스 소프트웨어 아카데미 | ✓ |   |   |   |   |
 | [26145](https://www.acmicpc.net/problem/26145) | 출제비 재분배 | ✓ |   |   |   |   |
+| [26209](https://www.acmicpc.net/problem/26209) | Intercepting Information | ✓ |   |   |   |   |
+| [26307](https://www.acmicpc.net/problem/26307) | Correct | ✓ |   |   |   |   |
+| [26489](https://www.acmicpc.net/problem/26489) | Gum Gum for Jay Jay | ✓ |   |   |   |   |
+| [26545](https://www.acmicpc.net/problem/26545) | Mathematics | ✓ |   |   |   |   |
 | [26560](https://www.acmicpc.net/problem/26560) | Periods | ✓ |   |   |   |   |
 | [26566](https://www.acmicpc.net/problem/26566) | Pizza | ✓ |   |   |   |   |
 | [26574](https://www.acmicpc.net/problem/26574) | Copier | ✓ |   |   |   |   |
 | [26575](https://www.acmicpc.net/problem/26575) | Pups | ✓ |   |   |   |   |
 | [26711](https://www.acmicpc.net/problem/26711) | A+B | ✓ |   |   |   |   |
+| [26766](https://www.acmicpc.net/problem/26766) | Serca | ✓ |   |   |   |   |
 | [27294](https://www.acmicpc.net/problem/27294) | 몇개고? | ✓ |   |   |   |   |
 | [27296](https://www.acmicpc.net/problem/27296) | 카탈란 마스터의 선분 그리기 게임 | ✓ |   |   |   |   |
 | [27323](https://www.acmicpc.net/problem/27323) | 직사각형 | ✓ |   |   |   |   |
+| [27324](https://www.acmicpc.net/problem/27324) | ゾロ目 (Same Numbers) | ✓ |   |   |   |   |
+| [27327](https://www.acmicpc.net/problem/27327) | 時間 (Hour) | ✓ |   |   |   |   |
+| [27328](https://www.acmicpc.net/problem/27328) | 三方比較 (Three-Way Comparison) | ✓ |   |   |   |   |
+| [27331](https://www.acmicpc.net/problem/27331) | 2 桁の整数 (Two-digit Integer) | ✓ |   |   |   |   |
+| [27389](https://www.acmicpc.net/problem/27389) | Metronome | ✓ |   |   |   |   |
 | [27433](https://www.acmicpc.net/problem/27433) | 팩토리얼 2 | ✓ |   |   |   |   |
 | [27434](https://www.acmicpc.net/problem/27434) | 팩토리얼 3 | ✓ |   |   |   |   |
 | [27465](https://www.acmicpc.net/problem/27465) | 소수가 아닌 수 | ✓ |   |   |   |   |
 | [27515](https://www.acmicpc.net/problem/27515) | 1차원 2048과 쿼리 | ✓ |   |   |   |   |
 | [27590](https://www.acmicpc.net/problem/27590) | Sun and Moon | ✓ |   |   |   |   |
 | [27690](https://www.acmicpc.net/problem/27690) | Boredom buster (Easy) | ✓ |   |   |   |   |
+| [27866](https://www.acmicpc.net/problem/27866) | 문자와 문자열 | ✓ |   |   |   |   |
+| [27889](https://www.acmicpc.net/problem/27889) | 특별한 학교 이름 | ✓ |   |   |   |   |
 | [27890](https://www.acmicpc.net/problem/27890) | 특별한 작은 분수 | ✓ |   |   |   |   |
+| [27959](https://www.acmicpc.net/problem/27959) | 초코바 | ✓ |   |   |   |   |
 | [27965](https://www.acmicpc.net/problem/27965) | N결수 | ✓ |   |   |   |   |
+| [28113](https://www.acmicpc.net/problem/28113) | 정보섬의 대중교통 | ✓ |   |   |   |   |
 | [28115](https://www.acmicpc.net/problem/28115) | 등차수열의 합 | ✓ |   |   |   |   |
+| [28235](https://www.acmicpc.net/problem/28235) | 코드마스터 2023 | ✓ |   |   |   |   |
+| [28258](https://www.acmicpc.net/problem/28258) | 초콜릿 보물 찾기 | ✓ |   |   |   |   |
 | [28279](https://www.acmicpc.net/problem/28279) | 덱 2 | ✓ |   |   |   |   |
 | [28282](https://www.acmicpc.net/problem/28282) | 운명 | ✓ |   |   |   |   |
 | [28286](https://www.acmicpc.net/problem/28286) | 재채점을 기다리는 중 | ✓ |   |   |   |   |
@@ -623,6 +654,7 @@
 | [33515](https://www.acmicpc.net/problem/33515) | 노트북 세 대를 가지고 왔다 | ✓ |   |   |   |   |
 | [33575](https://www.acmicpc.net/problem/33575) | 시간표 | ✓ |   |   |   |   |
 | [33612](https://www.acmicpc.net/problem/33612) | 피갤컵 | ✓ |   |   |   |   |
+| [33631](https://www.acmicpc.net/problem/33631) | 1교시: 가정 | ✓ |   |   |   |   |
 | [33709](https://www.acmicpc.net/problem/33709) | 치매예방수칙 3.3.3 | ✓ |   |   |   |   |
 | [33846](https://www.acmicpc.net/problem/33846) | 삽입 정렬을 해볼까 | ✓ |   |   |   |   |
 | [33871](https://www.acmicpc.net/problem/33871) | 서로소 게임 | ✓ |   |   |   |   |
@@ -652,4 +684,5 @@
 | [34849](https://www.acmicpc.net/problem/34849) | 이중 반복문 | ✓ |   |   |   |   |
 | [34921](https://www.acmicpc.net/problem/34921) | 덕후 | ✓ |   |   |   |   |
 | [34945](https://www.acmicpc.net/problem/34945) | 채플이 너무해 | ✓ |   |   |   |   |
+| [34947](https://www.acmicpc.net/problem/34947) | 운동장 회전초밥 | ✓ |   |   |   |   |
 | [35030](https://www.acmicpc.net/problem/35030) | 2026년이 기대되는 이유 | ✓ |   |   |   |   |

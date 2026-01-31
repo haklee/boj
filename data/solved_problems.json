@@ -1,5 +1,236 @@
 [
   {
+    "submission_id": "102484342",
+    "problem_id": "20117",
+    "problem_title": "호반우 상인의 이상한 품질 계산법",
+    "language": "PyPy3",
+    "submission_time": "2026-01-31 10:54:26"
+  },
+  {
+    "submission_id": "102453490",
+    "problem_id": "1713",
+    "problem_title": "후보 추천하기",
+    "language": "PyPy3",
+    "submission_time": "2026-01-30 10:54:11"
+  },
+  {
+    "submission_id": "102452821",
+    "problem_id": "5464",
+    "problem_title": "주차장",
+    "language": "PyPy3",
+    "submission_time": "2026-01-30 10:26:25"
+  },
+  {
+    "submission_id": "102452437",
+    "problem_id": "34947",
+    "problem_title": "운동장 회전초밥",
+    "language": "PyPy3",
+    "submission_time": "2026-01-30 10:07:40"
+  },
+  {
+    "submission_id": "102452248",
+    "problem_id": "33631",
+    "problem_title": "1교시: 가정",
+    "language": "PyPy3",
+    "submission_time": "2026-01-30 09:58:36"
+  },
+  {
+    "submission_id": "102437147",
+    "problem_id": "28235",
+    "problem_title": "코드마스터 2023",
+    "language": "PyPy3",
+    "submission_time": "2026-01-29 19:57:58"
+  },
+  {
+    "submission_id": "102436773",
+    "problem_id": "28113",
+    "problem_title": "정보섬의 대중교통",
+    "language": "PyPy3",
+    "submission_time": "2026-01-29 19:46:29"
+  },
+  {
+    "submission_id": "102408754",
+    "problem_id": "27959",
+    "problem_title": "초코바",
+    "language": "PyPy3",
+    "submission_time": "2026-01-28 23:40:40"
+  },
+  {
+    "submission_id": "102408685",
+    "problem_id": "27331",
+    "problem_title": "2 桁の整数 (Two-digit Integer)",
+    "language": "PyPy3",
+    "submission_time": "2026-01-28 23:38:29"
+  },
+  {
+    "submission_id": "102408650",
+    "problem_id": "27389",
+    "problem_title": "Metronome",
+    "language": "PyPy3",
+    "submission_time": "2026-01-28 23:37:28"
+  },
+  {
+    "submission_id": "102408641",
+    "problem_id": "27866",
+    "problem_title": "문자와 문자열",
+    "language": "PyPy3",
+    "submission_time": "2026-01-28 23:37:11"
+  },
+  {
+    "submission_id": "102408577",
+    "problem_id": "27889",
+    "problem_title": "특별한 학교 이름",
+    "language": "PyPy3",
+    "submission_time": "2026-01-28 23:35:28"
+  },
+  {
+    "submission_id": "102376668",
+    "problem_id": "28258",
+    "problem_title": "초콜릿 보물 찾기",
+    "language": "PyPy3",
+    "submission_time": "2026-01-28 01:37:44"
+  },
+  {
+    "submission_id": "102353942",
+    "problem_id": "27328",
+    "problem_title": "三方比較 (Three-Way Comparison)",
+    "language": "PyPy3",
+    "submission_time": "2026-01-27 14:42:56"
+  },
+  {
+    "submission_id": "102353848",
+    "problem_id": "27327",
+    "problem_title": "時間 (Hour)",
+    "language": "PyPy3",
+    "submission_time": "2026-01-27 14:40:41"
+  },
+  {
+    "submission_id": "102353823",
+    "problem_id": "26489",
+    "problem_title": "Gum Gum for Jay Jay",
+    "language": "PyPy3",
+    "submission_time": "2026-01-27 14:40:02"
+  },
+  {
+    "submission_id": "102353809",
+    "problem_id": "26766",
+    "problem_title": "Serca",
+    "language": "PyPy3",
+    "submission_time": "2026-01-27 14:39:40"
+  },
+  {
+    "submission_id": "102353759",
+    "problem_id": "27324",
+    "problem_title": "ゾロ目 (Same Numbers)",
+    "language": "PyPy3",
+    "submission_time": "2026-01-27 14:38:34"
+  },
+  {
+    "submission_id": "102315392",
+    "problem_id": "26545",
+    "problem_title": "Mathematics",
+    "language": "PyPy3",
+    "submission_time": "2026-01-26 12:52:58"
+  },
+  {
+    "submission_id": "102293228",
+    "problem_id": "25314",
+    "problem_title": "코딩은 체육과목 입니다",
+    "language": "PyPy3",
+    "submission_time": "2026-01-25 16:28:01"
+  },
+  {
+    "submission_id": "102293202",
+    "problem_id": "25311",
+    "problem_title": "UCPC에서 가장 쉬운 문제 번호는?",
+    "language": "Text",
+    "submission_time": "2026-01-25 16:27:08"
+  },
+  {
+    "submission_id": "102293128",
+    "problem_id": "26082",
+    "problem_title": "WARBOY",
+    "language": "PyPy3",
+    "submission_time": "2026-01-25 16:24:55"
+  },
+  {
+    "submission_id": "102293086",
+    "problem_id": "26209",
+    "problem_title": "Intercepting Information",
+    "language": "PyPy3",
+    "submission_time": "2026-01-25 16:23:42"
+  },
+  {
+    "submission_id": "102293048",
+    "problem_id": "26307",
+    "problem_title": "Correct",
+    "language": "PyPy3",
+    "submission_time": "2026-01-25 16:22:27"
+  },
+  {
+    "submission_id": "102257055",
+    "problem_id": "24262",
+    "problem_title": "알고리즘 수업 - 알고리즘의 수행 시간 1",
+    "language": "Text",
+    "submission_time": "2026-01-24 09:00:18"
+  },
+  {
+    "submission_id": "102257050",
+    "problem_id": "24309",
+    "problem_title": "РАВЕНСТВО",
+    "language": "PyPy3",
+    "submission_time": "2026-01-24 08:59:15"
+  },
+  {
+    "submission_id": "102257045",
+    "problem_id": "24568",
+    "problem_title": "Cupcake Party",
+    "language": "PyPy3",
+    "submission_time": "2026-01-24 08:58:08"
+  },
+  {
+    "submission_id": "102257038",
+    "problem_id": "24736",
+    "problem_title": "Football Scoring",
+    "language": "PyPy3",
+    "submission_time": "2026-01-24 08:56:39"
+  },
+  {
+    "submission_id": "102257029",
+    "problem_id": "24900",
+    "problem_title": "한별 찍기",
+    "language": "Text",
+    "submission_time": "2026-01-24 08:54:12"
+  },
+  {
+    "submission_id": "102228110",
+    "problem_id": "3158",
+    "problem_title": "Sierpinski 삼각형",
+    "language": "PyPy3",
+    "submission_time": "2026-01-23 12:51:23"
+  },
+  {
+    "submission_id": "102227650",
+    "problem_id": "24392",
+    "problem_title": "영재의 징검다리",
+    "language": "PyPy3",
+    "submission_time": "2026-01-23 12:31:55"
+  },
+  {
+    "submission_id": "102183096",
+    "problem_id": "11052",
+    "problem_title": "카드 구매하기",
+    "language": "PyPy3",
+    "submission_time": "2026-01-22 08:26:36"
+  },
+  {
+    "submission_id": "102183017",
+    "problem_id": "11279",
+    "problem_title": "최대 힙",
+    "language": "PyPy3",
+    "submission_time": "2026-01-22 08:17:09"
+  },
+  {
     "submission_id": "102147834",
     "problem_id": "28463",
     "problem_title": "Toe Jumps",
