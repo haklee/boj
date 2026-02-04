@@ -96,6 +96,7 @@
 | [2357](https://www.acmicpc.net/problem/2357) | 최솟값과 최댓값 | ✓ |   |   |   |   |
 | [2393](https://www.acmicpc.net/problem/2393) | Rook |   |   |   |   | ✓ |
 | [2420](https://www.acmicpc.net/problem/2420) | 사파리월드 | ✓ |   |   |   |   |
+| [2422](https://www.acmicpc.net/problem/2422) | 한윤정이 이탈리아에 가서 아이스크림을 사먹는데 | ✓ |   |   |   |   |
 | [2428](https://www.acmicpc.net/problem/2428) | 표절 | ✓ |   |   |   |   |
 | [2438](https://www.acmicpc.net/problem/2438) | 별 찍기 - 1 | ✓ |   |   |   |   |
 | [2439](https://www.acmicpc.net/problem/2439) | 별 찍기 - 2 | ✓ |   |   |   |   |
@@ -584,12 +585,22 @@
 | [28691](https://www.acmicpc.net/problem/28691) | 정보보호학부 동아리 소개 | ✓ |   |   |   |   |
 | [28692](https://www.acmicpc.net/problem/28692) | 선형 회귀는 너무 쉬워 2 | ✓ |   |   |   |   |
 | [28701](https://www.acmicpc.net/problem/28701) | 세제곱의 합 | ✓ |   |   |   |   |
+| [28927](https://www.acmicpc.net/problem/28927) | Киноманы | ✓ |   |   |   |   |
+| [28938](https://www.acmicpc.net/problem/28938) | Конвейер | ✓ |   |   |   |   |
+| [29163](https://www.acmicpc.net/problem/29163) | Счастье Мистера Бина | ✓ |   |   |   |   |
+| [29699](https://www.acmicpc.net/problem/29699) | Welcome to SMUPC! | ✓ |   |   |   |   |
 | [29700](https://www.acmicpc.net/problem/29700) | 우당탕탕 영화예매 | ✓ |   |   |   |   |
+| [29751](https://www.acmicpc.net/problem/29751) | 삼각형 | ✓ |   |   |   |   |
 | [29807](https://www.acmicpc.net/problem/29807) | 학번을 찾아줘! | ✓ |   |   |   |   |
+| [29863](https://www.acmicpc.net/problem/29863) | Arno's Sleep Schedule | ✓ |   |   |   |   |
+| [30007](https://www.acmicpc.net/problem/30007) | 라면 공식 | ✓ |   |   |   |   |
 | [30024](https://www.acmicpc.net/problem/30024) | 옥수수밭 | ✓ |   |   |   |   |
+| [30030](https://www.acmicpc.net/problem/30030) | 스위트콘 가격 구하기 | ✓ |   |   |   |   |
 | [30032](https://www.acmicpc.net/problem/30032) | 알파벳 뒤집기 | ✓ |   |   |   |   |
 | [30033](https://www.acmicpc.net/problem/30033) | Rust Study | ✓ |   |   |   |   |
+| [30087](https://www.acmicpc.net/problem/30087) | 진흥원 세미나 | ✓ |   |   |   |   |
 | [30189](https://www.acmicpc.net/problem/30189) | 경우의 수의 합 | ✓ |   |   |   |   |
+| [30214](https://www.acmicpc.net/problem/30214) | An Easy-Peasy Problem | ✓ |   |   |   |   |
 | [30224](https://www.acmicpc.net/problem/30224) | Lucky 7 | ✓ |   |   |   |   |
 | [30328](https://www.acmicpc.net/problem/30328) | Java Warriors | ✓ |   |   |   |   |
 | [30403](https://www.acmicpc.net/problem/30403) | 무지개 만들기 | ✓ |   |   |   |   |
@@ -625,6 +636,7 @@
 | [32132](https://www.acmicpc.net/problem/32132) | PlayStation이 아니에요 | ✓ |   |   |   |   |
 | [32154](https://www.acmicpc.net/problem/32154) | SUAPC 2024 Winter | ✓ |   |   |   |   |
 | [32158](https://www.acmicpc.net/problem/32158) | SWAPC | ✓ |   |   |   |   |
+| [32178](https://www.acmicpc.net/problem/32178) | 용액 2 | ✓ |   |   |   |   |
 | [32185](https://www.acmicpc.net/problem/32185) | 꿈 열정 나눔 | ✓ |   |   |   |   |
 | [32215](https://www.acmicpc.net/problem/32215) | 코드마스터 2024 | ✓ |   |   |   |   |
 | [32260](https://www.acmicpc.net/problem/32260) | A + B |   | ✓ |   |   |   |
@@ -644,6 +656,7 @@
 | [32651](https://www.acmicpc.net/problem/32651) | 인간은 무엇인가 | ✓ |   |   |   |   |
 | [32775](https://www.acmicpc.net/problem/32775) | 가희와 4시간의 벽 1 | ✓ |   |   |   |   |
 | [32929](https://www.acmicpc.net/problem/32929) | UOS 문자열 | ✓ |   |   |   |   |
+| [32942](https://www.acmicpc.net/problem/32942) | 그래프와 그래프 | ✓ |   |   |   |   |
 | [32951](https://www.acmicpc.net/problem/32951) | AI 선도대학 | ✓ |   |   |   |   |
 | [33161](https://www.acmicpc.net/problem/33161) | 鉛筆 2 (Pencils 2) | ✓ |   |   |   |   |
 | [33165](https://www.acmicpc.net/problem/33165) | 徒競走 (Footrace) | ✓ |   |   |   |   |
