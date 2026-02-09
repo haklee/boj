@@ -38,6 +38,7 @@
 | [1264](https://www.acmicpc.net/problem/1264) | 모음의 개수 | ✓ |   |   |   |   |
 | [1271](https://www.acmicpc.net/problem/1271) | 엄청난 부자2 | [✓](boj/1271/93769960.py) |   |   |   |   |
 | [1275](https://www.acmicpc.net/problem/1275) | 커피숍2 | ✓ |   |   |   |   |
+| [1303](https://www.acmicpc.net/problem/1303) | 전쟁 - 전투 | ✓ |   |   |   |   |
 | [1305](https://www.acmicpc.net/problem/1305) | 광고 | ✓ |   |   |   |   |
 | [1306](https://www.acmicpc.net/problem/1306) | 달려라 홍준 | ✓ |   |   |   |   |
 | [1316](https://www.acmicpc.net/problem/1316) | 그룹 단어 체커 | ✓ |   |   |   |   |
@@ -77,6 +78,7 @@
 | [2078](https://www.acmicpc.net/problem/2078) | 무한이진트리 | ✓ |   |   |   |   |
 | [2083](https://www.acmicpc.net/problem/2083) | 럭비 클럽 | [✓](boj/2083/91774381.py) |   |   |   |   |
 | [2096](https://www.acmicpc.net/problem/2096) | 내려가기 | ✓ |   |   |   |   |
+| [2138](https://www.acmicpc.net/problem/2138) | 전구와 스위치 | ✓ |   |   |   |   |
 | [2143](https://www.acmicpc.net/problem/2143) | 두 배열의 합 | ✓ |   |   |   |   |
 | [2150](https://www.acmicpc.net/problem/2150) | Strongly Connected Component | ✓ |   |   |   |   |
 | [2156](https://www.acmicpc.net/problem/2156) | 포도주 시식 | ✓ |   |   |   |   |
@@ -137,6 +139,7 @@
 | [2810](https://www.acmicpc.net/problem/2810) | 컵홀더 | ✓ |   |   |   |   |
 | [2839](https://www.acmicpc.net/problem/2839) | 설탕 배달 | ✓ |   |   |   |   |
 | [2840](https://www.acmicpc.net/problem/2840) | 행운의 바퀴 | ✓ |   |   |   |   |
+| [2845](https://www.acmicpc.net/problem/2845) | 파티가 끝나고 난 뒤 | ✓ |   |   |   |   |
 | [2864](https://www.acmicpc.net/problem/2864) | 5와 6의 차이 | ✓ |   |   |   |   |
 | [2869](https://www.acmicpc.net/problem/2869) | 달팽이는 올라가고 싶다 | ✓ |   |   |   |   |
 | [2875](https://www.acmicpc.net/problem/2875) | 대회 or 인턴 | ✓ |   |   |   |   |
@@ -150,6 +153,7 @@
 | [3009](https://www.acmicpc.net/problem/3009) | 네 번째 점 | ✓ |   |   |   |   |
 | [3018](https://www.acmicpc.net/problem/3018) | 캠프파이어 | ✓ |   |   |   |   |
 | [3040](https://www.acmicpc.net/problem/3040) | 백설 공주와 일곱 난쟁이 | ✓ |   |   |   |   |
+| [3046](https://www.acmicpc.net/problem/3046) | R2 | ✓ |   |   |   |   |
 | [3047](https://www.acmicpc.net/problem/3047) | ABC | ✓ |   |   |   |   |
 | [3053](https://www.acmicpc.net/problem/3053) | 택시 기하학 | ✓ |   |   |   |   |
 | [3062](https://www.acmicpc.net/problem/3062) | 수 뒤집기 | ✓ |   |   |   |   |
@@ -238,6 +242,7 @@
 | [9020](https://www.acmicpc.net/problem/9020) | 골드바흐의 추측 | ✓ |   |   |   |   |
 | [9063](https://www.acmicpc.net/problem/9063) | 대지 | ✓ |   |   |   |   |
 | [9086](https://www.acmicpc.net/problem/9086) | 문자열 | ✓ |   |   |   |   |
+| [9251](https://www.acmicpc.net/problem/9251) | LCS | ✓ |   |   |   |   |
 | [9252](https://www.acmicpc.net/problem/9252) | LCS 2 | ✓ |   |   |   |   |
 | [9255](https://www.acmicpc.net/problem/9255) | The Friend of My Enemy is My Enemy | ✓ |   |   |   |   |
 | [9288](https://www.acmicpc.net/problem/9288) | More Dice | ✓ |   |   |   |   |
@@ -645,6 +650,7 @@
 | [32326](https://www.acmicpc.net/problem/32326) | Conveyor Belt Sushi | ✓ |   |   |   |   |
 | [32342](https://www.acmicpc.net/problem/32342) | 와우와 쿼리 | ✓ |   |   |   |   |
 | [32344](https://www.acmicpc.net/problem/32344) | 유물 발굴 | ✓ |   |   |   |   |
+| [32358](https://www.acmicpc.net/problem/32358) | 근성아 일하자 | ✓ |   |   |   |   |
 | [32377](https://www.acmicpc.net/problem/32377) | 풍선 터트리기 | ✓ |   |   |   |   |
 | [32384](https://www.acmicpc.net/problem/32384) | 사랑은 고려대입니다 | ✓ |   |   |   |   |
 | [32402](https://www.acmicpc.net/problem/32402) | TPS | ✓ |   |   |   |   |
