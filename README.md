@@ -612,6 +612,7 @@
 | [30456](https://www.acmicpc.net/problem/30456) | 바닥수 | ✓ |   |   |   |   |
 | [30504](https://www.acmicpc.net/problem/30504) | 세과영엔 슬픈 전설이 있어 | ✓ |   |   |   |   |
 | [30664](https://www.acmicpc.net/problem/30664) | Loteria Falha | ✓ |   |   |   |   |
+| [30676](https://www.acmicpc.net/problem/30676) | 이 별은 무슨 색일까 | ✓ |   |   |   |   |
 | [30786](https://www.acmicpc.net/problem/30786) | 홀수 찾아 삼만리 | ✓ |   |   |   |   |
 | [30794](https://www.acmicpc.net/problem/30794) | 가희와 클럽 오디션 1 | ✓ |   |   |   |   |
 | [30875](https://www.acmicpc.net/problem/30875) | Recovering the Region | ✓ |   |   |   |   |
@@ -660,6 +661,7 @@
 | [32630](https://www.acmicpc.net/problem/32630) | $A_i \times A_j$ | ✓ |   |   |   |   |
 | [32642](https://www.acmicpc.net/problem/32642) | 당구 좀 치자 제발 | ✓ |   |   |   |   |
 | [32651](https://www.acmicpc.net/problem/32651) | 인간은 무엇인가 | ✓ |   |   |   |   |
+| [32710](https://www.acmicpc.net/problem/32710) | 구구단표 | ✓ |   |   |   |   |
 | [32775](https://www.acmicpc.net/problem/32775) | 가희와 4시간의 벽 1 | ✓ |   |   |   |   |
 | [32929](https://www.acmicpc.net/problem/32929) | UOS 문자열 | ✓ |   |   |   |   |
 | [32942](https://www.acmicpc.net/problem/32942) | 그래프와 그래프 | ✓ |   |   |   |   |
