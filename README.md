@@ -113,6 +113,7 @@
 | [2533](https://www.acmicpc.net/problem/2533) | 사회망 서비스(SNS) | ✓ |   |   |   |   |
 | [2557](https://www.acmicpc.net/problem/2557) | Hello World | [✓](boj/2557/90356881.py) | [✓](boj/2557/90357149.cpp) | [✓](boj/2557/90357233.cs) | [✓](boj/2557/90357205.js) |   |
 | [2558](https://www.acmicpc.net/problem/2558) | A+B - 2 | ✓ |   |   |   |   |
+| [2559](https://www.acmicpc.net/problem/2559) | 수열 | ✓ |   |   |   |   |
 | [2577](https://www.acmicpc.net/problem/2577) | 숫자의 개수 | ✓ |   |   |   |   |
 | [2605](https://www.acmicpc.net/problem/2605) | 줄 세우기 | ✓ |   |   |   |   |
 | [2609](https://www.acmicpc.net/problem/2609) | 최대공약수와 최소공배수 | ✓ |   |   |   |   |
