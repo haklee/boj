@@ -196,9 +196,12 @@
 | [5426](https://www.acmicpc.net/problem/5426) | 비밀 편지 | ✓ |   |   |   |   |
 | [5464](https://www.acmicpc.net/problem/5464) | 주차장 | ✓ |   |   |   |   |
 | [5522](https://www.acmicpc.net/problem/5522) | 카드 게임 | ✓ |   |   |   |   |
+| [5532](https://www.acmicpc.net/problem/5532) | 방학 숙제 | ✓ |   |   |   |   |
 | [5543](https://www.acmicpc.net/problem/5543) | 상근날드 | ✓ |   |   |   |   |
 | [5554](https://www.acmicpc.net/problem/5554) | 심부름 가는 길 | ✓ |   |   |   |   |
 | [5555](https://www.acmicpc.net/problem/5555) | 반지 | ✓ |   |   |   |   |
+| [5565](https://www.acmicpc.net/problem/5565) | 영수증 | ✓ |   |   |   |   |
+| [5575](https://www.acmicpc.net/problem/5575) | 타임 카드 | ✓ |   |   |   |   |
 | [5591](https://www.acmicpc.net/problem/5591) | 最大の和 | ✓ |   |   |   |   |
 | [5596](https://www.acmicpc.net/problem/5596) | 시험 점수 | ✓ |   |   |   |   |
 | [5620](https://www.acmicpc.net/problem/5620) | 가장 가까운 두 점의 거리 | ✓ |   |   |   |   |
@@ -221,6 +224,7 @@
 | [6778](https://www.acmicpc.net/problem/6778) | Which Alien? | ✓ |   |   |   |   |
 | [6840](https://www.acmicpc.net/problem/6840) | Who is in the middle? | ✓ |   |   |   |   |
 | [6850](https://www.acmicpc.net/problem/6850) | Cows | ✓ |   |   |   |   |
+| [6887](https://www.acmicpc.net/problem/6887) | Squares | ✓ |   |   |   |   |
 | [6962](https://www.acmicpc.net/problem/6962) | Maple Roundup | ✓ |   |   |   |   |
 | [7044](https://www.acmicpc.net/problem/7044) | Bad Cowtractors | ✓ |   |   |   |   |
 | [7287](https://www.acmicpc.net/problem/7287) | 등록 | [✓](boj/7287/90410178.py) |   |   |   |   |
@@ -236,6 +240,7 @@
 | [8393](https://www.acmicpc.net/problem/8393) | 합 | ✓ |   |   |   |   |
 | [8437](https://www.acmicpc.net/problem/8437) | Julka | ✓ |   |   |   |   |
 | [8545](https://www.acmicpc.net/problem/8545) | Zadanie próbne | ✓ |   |   |   |   |
+| [8723](https://www.acmicpc.net/problem/8723) | Patyki | ✓ |   |   |   |   |
 | [8871](https://www.acmicpc.net/problem/8871) | Zadanie próbne 2 | ✓ |   |   |   |   |
 | [8892](https://www.acmicpc.net/problem/8892) | 팰린드롬 | ✓ |   |   |   |   |
 | [8911](https://www.acmicpc.net/problem/8911) | 거북이 | ✓ |   |   |   |   |
@@ -261,7 +266,9 @@
 | [9656](https://www.acmicpc.net/problem/9656) | 돌 게임 2 | ✓ |   |   |   |   |
 | [9663](https://www.acmicpc.net/problem/9663) | N-Queen | ✓ |   |   |   |   |
 | [9698](https://www.acmicpc.net/problem/9698) | SAHUR & IMSA’ | ✓ |   |   |   |   |
+| [9772](https://www.acmicpc.net/problem/9772) | Quadrants | ✓ |   |   |   |   |
 | [9935](https://www.acmicpc.net/problem/9935) | 문자열 폭발 | ✓ |   |   |   |   |
+| [10101](https://www.acmicpc.net/problem/10101) | 삼각형 외우기 | ✓ |   |   |   |   |
 | [10103](https://www.acmicpc.net/problem/10103) | 주사위 게임 | ✓ |   |   |   |   |
 | [10170](https://www.acmicpc.net/problem/10170) | NFC West vs North |   |   |   |   | ✓ |
 | [10171](https://www.acmicpc.net/problem/10171) | 고양이 |   |   |   |   | [✓](boj/10171/90693605.txt) |
@@ -271,6 +278,7 @@
 | [10430](https://www.acmicpc.net/problem/10430) | 나머지 | ✓ |   |   |   |   |
 | [10471](https://www.acmicpc.net/problem/10471) | 공간을 만들어 봅시다 | ✓ |   |   |   |   |
 | [10501](https://www.acmicpc.net/problem/10501) | Ragged Right | ✓ |   |   |   |   |
+| [10569](https://www.acmicpc.net/problem/10569) | 다면체 | ✓ |   |   |   |   |
 | [10699](https://www.acmicpc.net/problem/10699) | 오늘 날짜 | [✓](boj/10699/90381697.py) | [✓](boj/10699/90381637.cpp) | [✓](boj/10699/90381720.cs) | [✓](boj/10699/90381683.js) | [✓](boj/10699/90381735.txt) |
 | [10718](https://www.acmicpc.net/problem/10718) | We love kriii | ✓ |   |   |   |   |
 | [10757](https://www.acmicpc.net/problem/10757) | 큰 수 A+B | ✓ |   |   |   |   |

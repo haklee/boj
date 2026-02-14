@@ -1,5 +1,61 @@
 [
   {
+    "submission_id": "102950682",
+    "problem_id": "8723",
+    "problem_title": "Patyki",
+    "language": "PyPy3",
+    "submission_time": "2026-02-14 14:52:56"
+  },
+  {
+    "submission_id": "102950596",
+    "problem_id": "9772",
+    "problem_title": "Quadrants",
+    "language": "PyPy3",
+    "submission_time": "2026-02-14 14:50:17"
+  },
+  {
+    "submission_id": "102950504",
+    "problem_id": "10101",
+    "problem_title": "삼각형 외우기",
+    "language": "PyPy3",
+    "submission_time": "2026-02-14 14:47:31"
+  },
+  {
+    "submission_id": "102950444",
+    "problem_id": "10569",
+    "problem_title": "다면체",
+    "language": "PyPy3",
+    "submission_time": "2026-02-14 14:45:36"
+  },
+  {
+    "submission_id": "102939569",
+    "problem_id": "6887",
+    "problem_title": "Squares",
+    "language": "PyPy3",
+    "submission_time": "2026-02-14 02:13:37"
+  },
+  {
+    "submission_id": "102939521",
+    "problem_id": "5565",
+    "problem_title": "영수증",
+    "language": "PyPy3",
+    "submission_time": "2026-02-14 02:10:58"
+  },
+  {
+    "submission_id": "102939502",
+    "problem_id": "5575",
+    "problem_title": "타임 카드",
+    "language": "PyPy3",
+    "submission_time": "2026-02-14 02:09:41"
+  },
+  {
+    "submission_id": "102939399",
+    "problem_id": "5532",
+    "problem_title": "방학 숙제",
+    "language": "PyPy3",
+    "submission_time": "2026-02-14 02:04:31"
+  },
+  {
     "submission_id": "102899605",
     "problem_id": "2559",
     "problem_title": "수열",
