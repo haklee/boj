@@ -124,6 +124,7 @@
 | [2673](https://www.acmicpc.net/problem/2673) | 교차하지 않는 원의 현들의 최대집합 | ✓ |   |   |   |   |
 | [2675](https://www.acmicpc.net/problem/2675) | 문자열 반복 | ✓ |   |   |   |   |
 | [2702](https://www.acmicpc.net/problem/2702) | 초6 수학 | ✓ |   |   |   |   |
+| [2720](https://www.acmicpc.net/problem/2720) | 세탁소 사장 동혁 | ✓ |   |   |   |   |
 | [2729](https://www.acmicpc.net/problem/2729) | 이진수 덧셈 | ✓ |   |   |   |   |
 | [2734](https://www.acmicpc.net/problem/2734) | 드럼통 쌓기 | ✓ |   |   |   |   |
 | [2739](https://www.acmicpc.net/problem/2739) | 구구단 | ✓ |   |   |   |   |
@@ -227,6 +228,7 @@
 | [6887](https://www.acmicpc.net/problem/6887) | Squares | ✓ |   |   |   |   |
 | [6962](https://www.acmicpc.net/problem/6962) | Maple Roundup | ✓ |   |   |   |   |
 | [7044](https://www.acmicpc.net/problem/7044) | Bad Cowtractors | ✓ |   |   |   |   |
+| [7130](https://www.acmicpc.net/problem/7130) | Milk and Honey | ✓ |   |   |   |   |
 | [7287](https://www.acmicpc.net/problem/7287) | 등록 | [✓](boj/7287/90410178.py) |   |   |   |   |
 | [7453](https://www.acmicpc.net/problem/7453) | 합이 0인 네 정수 | ✓ |   |   |   |   |
 | [7510](https://www.acmicpc.net/problem/7510) | 고급 수학 | ✓ |   |   |   |   |
@@ -270,6 +272,7 @@
 | [9935](https://www.acmicpc.net/problem/9935) | 문자열 폭발 | ✓ |   |   |   |   |
 | [10101](https://www.acmicpc.net/problem/10101) | 삼각형 외우기 | ✓ |   |   |   |   |
 | [10103](https://www.acmicpc.net/problem/10103) | 주사위 게임 | ✓ |   |   |   |   |
+| [10162](https://www.acmicpc.net/problem/10162) | 전자레인지 | ✓ |   |   |   |   |
 | [10170](https://www.acmicpc.net/problem/10170) | NFC West vs North |   |   |   |   | ✓ |
 | [10171](https://www.acmicpc.net/problem/10171) | 고양이 |   |   |   |   | [✓](boj/10171/90693605.txt) |
 | [10172](https://www.acmicpc.net/problem/10172) | 개 |   |   |   |   | [✓](boj/10172/90561873.txt) |
@@ -458,6 +461,7 @@
 | [18113](https://www.acmicpc.net/problem/18113) | 그르다 김가놈 | ✓ |   |   |   |   |
 | [18114](https://www.acmicpc.net/problem/18114) | 블랙 프라이데이 | ✓ |   |   |   |   |
 | [18130](https://www.acmicpc.net/problem/18130) | 여름나기 | ✓ |   |   |   |   |
+| [18232](https://www.acmicpc.net/problem/18232) | 텔레포트 정거장 | ✓ |   |   |   |   |
 | [18242](https://www.acmicpc.net/problem/18242) | 네모네모 시력검사 | ✓ |   |   |   |   |
 | [18245](https://www.acmicpc.net/problem/18245) | 이상한 나라의 암호 | ✓ |   |   |   |   |
 | [18269](https://www.acmicpc.net/problem/18269) | Where Am I? | ✓ |   |   |   |   |
@@ -608,11 +612,13 @@
 | [29807](https://www.acmicpc.net/problem/29807) | 학번을 찾아줘! | ✓ |   |   |   |   |
 | [29863](https://www.acmicpc.net/problem/29863) | Arno's Sleep Schedule | ✓ |   |   |   |   |
 | [30007](https://www.acmicpc.net/problem/30007) | 라면 공식 | ✓ |   |   |   |   |
+| [30022](https://www.acmicpc.net/problem/30022) | 행사 준비 | ✓ |   |   |   |   |
 | [30024](https://www.acmicpc.net/problem/30024) | 옥수수밭 | ✓ |   |   |   |   |
 | [30030](https://www.acmicpc.net/problem/30030) | 스위트콘 가격 구하기 | ✓ |   |   |   |   |
 | [30032](https://www.acmicpc.net/problem/30032) | 알파벳 뒤집기 | ✓ |   |   |   |   |
 | [30033](https://www.acmicpc.net/problem/30033) | Rust Study | ✓ |   |   |   |   |
 | [30087](https://www.acmicpc.net/problem/30087) | 진흥원 세미나 | ✓ |   |   |   |   |
+| [30156](https://www.acmicpc.net/problem/30156) | Malvika is peculiar about color of balloons | ✓ |   |   |   |   |
 | [30189](https://www.acmicpc.net/problem/30189) | 경우의 수의 합 | ✓ |   |   |   |   |
 | [30214](https://www.acmicpc.net/problem/30214) | An Easy-Peasy Problem | ✓ |   |   |   |   |
 | [30224](https://www.acmicpc.net/problem/30224) | Lucky 7 | ✓ |   |   |   |   |
