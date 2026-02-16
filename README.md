@@ -138,6 +138,7 @@
 | [2751](https://www.acmicpc.net/problem/2751) | 수 정렬하기 2 | ✓ |   |   |   |   |
 | [2752](https://www.acmicpc.net/problem/2752) | 세수정렬 | ✓ |   |   |   |   |
 | [2753](https://www.acmicpc.net/problem/2753) | 윤년 | ✓ |   |   |   |   |
+| [2775](https://www.acmicpc.net/problem/2775) | 부녀회장이 될테야 | ✓ |   |   |   |   |
 | [2810](https://www.acmicpc.net/problem/2810) | 컵홀더 | ✓ |   |   |   |   |
 | [2839](https://www.acmicpc.net/problem/2839) | 설탕 배달 | ✓ |   |   |   |   |
 | [2840](https://www.acmicpc.net/problem/2840) | 행운의 바퀴 | ✓ |   |   |   |   |
@@ -561,6 +562,7 @@
 | [26209](https://www.acmicpc.net/problem/26209) | Intercepting Information | ✓ |   |   |   |   |
 | [26307](https://www.acmicpc.net/problem/26307) | Correct | ✓ |   |   |   |   |
 | [26489](https://www.acmicpc.net/problem/26489) | Gum Gum for Jay Jay | ✓ |   |   |   |   |
+| [26529](https://www.acmicpc.net/problem/26529) | Bunnies | ✓ |   |   |   |   |
 | [26545](https://www.acmicpc.net/problem/26545) | Mathematics | ✓ |   |   |   |   |
 | [26560](https://www.acmicpc.net/problem/26560) | Periods | ✓ |   |   |   |   |
 | [26566](https://www.acmicpc.net/problem/26566) | Pizza | ✓ |   |   |   |   |
