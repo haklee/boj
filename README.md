@@ -181,6 +181,7 @@
 | [4299](https://www.acmicpc.net/problem/4299) | AFC 윔블던 | ✓ |   |   |   |   |
 | [4307](https://www.acmicpc.net/problem/4307) | 개미 | ✓ |   |   |   |   |
 | [4320](https://www.acmicpc.net/problem/4320) | 완전 P제곱수 | ✓ |   |   |   |   |
+| [4470](https://www.acmicpc.net/problem/4470) | 줄번호 | ✓ |   |   |   |   |
 | [4485](https://www.acmicpc.net/problem/4485) | 녹색 옷 입은 애가 젤다지? | ✓ |   |   |   |   |
 | [4635](https://www.acmicpc.net/problem/4635) | Speed Limit | ✓ |   |   |   |   |
 | [4740](https://www.acmicpc.net/problem/4740) | 거울, 오! 거울 | ✓ |   |   |   |   |
@@ -263,9 +264,11 @@
 | [9465](https://www.acmicpc.net/problem/9465) | 스티커 | ✓ |   |   |   |   |
 | [9498](https://www.acmicpc.net/problem/9498) | 시험 성적 | ✓ |   |   |   |   |
 | [9550](https://www.acmicpc.net/problem/9550) | 아이들은 사탕을 좋아해 | ✓ |   |   |   |   |
+| [9625](https://www.acmicpc.net/problem/9625) | BABBA | ✓ |   |   |   |   |
 | [9626](https://www.acmicpc.net/problem/9626) | 크로스워드 퍼즐 | ✓ |   |   |   |   |
 | [9653](https://www.acmicpc.net/problem/9653) | 스타워즈 로고 |   |   |   |   | ✓ |
 | [9654](https://www.acmicpc.net/problem/9654) | 나부 함대 데이터 |   |   |   |   | ✓ |
+| [9655](https://www.acmicpc.net/problem/9655) | 돌 게임 | ✓ |   |   |   |   |
 | [9656](https://www.acmicpc.net/problem/9656) | 돌 게임 2 | ✓ |   |   |   |   |
 | [9663](https://www.acmicpc.net/problem/9663) | N-Queen | ✓ |   |   |   |   |
 | [9698](https://www.acmicpc.net/problem/9698) | SAHUR & IMSA’ | ✓ |   |   |   |   |
@@ -339,6 +342,7 @@
 | [11660](https://www.acmicpc.net/problem/11660) | 구간 합 구하기 5 | ✓ |   |   |   |   |
 | [11689](https://www.acmicpc.net/problem/11689) | GCD(n, k) = 1 | ✓ |   |   |   |   |
 | [11694](https://www.acmicpc.net/problem/11694) | 님 게임 | ✓ |   |   |   |   |
+| [11720](https://www.acmicpc.net/problem/11720) | 숫자의 합 | ✓ |   |   |   |   |
 | [11721](https://www.acmicpc.net/problem/11721) | 열 개씩 끊어 출력하기 | ✓ |   |   |   |   |
 | [11722](https://www.acmicpc.net/problem/11722) | 가장 긴 감소하는 부분 수열 | ✓ |   |   |   |   |
 | [11725](https://www.acmicpc.net/problem/11725) | 트리의 부모 찾기 | ✓ |   |   |   |   |
@@ -424,6 +428,7 @@
 | [16170](https://www.acmicpc.net/problem/16170) | 오늘의 날짜는? |   |   |   |   | ✓ |
 | [16194](https://www.acmicpc.net/problem/16194) | 카드 구매하기 2 | ✓ |   |   |   |   |
 | [16204](https://www.acmicpc.net/problem/16204) | 카드 뽑기 | ✓ |   |   |   |   |
+| [16205](https://www.acmicpc.net/problem/16205) | 변수명 | ✓ |   |   |   |   |
 | [16287](https://www.acmicpc.net/problem/16287) | Parcel | ✓ |   |   |   |   |
 | [16394](https://www.acmicpc.net/problem/16394) | 홍익대학교 | ✓ |   |   |   |   |
 | [16398](https://www.acmicpc.net/problem/16398) | 행성 연결 | ✓ |   |   |   |   |
@@ -454,6 +459,7 @@
 | [17387](https://www.acmicpc.net/problem/17387) | 선분 교차 2 | ✓ |   |   |   |   |
 | [17404](https://www.acmicpc.net/problem/17404) | RGB거리 2 | ✓ |   |   |   |   |
 | [17433](https://www.acmicpc.net/problem/17433) | 신비로운 수 | ✓ |   |   |   |   |
+| [17608](https://www.acmicpc.net/problem/17608) | 막대기 | ✓ |   |   |   |   |
 | [17949](https://www.acmicpc.net/problem/17949) | Drop The Byte! | ✓ |   |   |   |   |
 | [17998](https://www.acmicpc.net/problem/17998) | Levenshtein Distance | ✓ |   |   |   |   |
 | [18096](https://www.acmicpc.net/problem/18096) | Арифметическая магия |   |   |   |   | ✓ |
@@ -527,6 +533,7 @@
 | [24266](https://www.acmicpc.net/problem/24266) | 알고리즘 수업 - 알고리즘의 수행 시간 5 | ✓ |   |   |   |   |
 | [24309](https://www.acmicpc.net/problem/24309) | РАВЕНСТВО | ✓ |   |   |   |   |
 | [24392](https://www.acmicpc.net/problem/24392) | 영재의 징검다리 | ✓ |   |   |   |   |
+| [24416](https://www.acmicpc.net/problem/24416) | 알고리즘 수업 - 피보나치 수 1 | ✓ |   |   |   |   |
 | [24568](https://www.acmicpc.net/problem/24568) | Cupcake Party | ✓ |   |   |   |   |
 | [24723](https://www.acmicpc.net/problem/24723) | 녹색거탑 | ✓ |   |   |   |   |
 | [24736](https://www.acmicpc.net/problem/24736) | Football Scoring | ✓ |   |   |   |   |
@@ -672,6 +679,7 @@
 | [32377](https://www.acmicpc.net/problem/32377) | 풍선 터트리기 | ✓ |   |   |   |   |
 | [32384](https://www.acmicpc.net/problem/32384) | 사랑은 고려대입니다 | ✓ |   |   |   |   |
 | [32402](https://www.acmicpc.net/problem/32402) | TPS | ✓ |   |   |   |   |
+| [32437](https://www.acmicpc.net/problem/32437) | Fractions are better when continued | ✓ |   |   |   |   |
 | [32458](https://www.acmicpc.net/problem/32458) | Just Round Down | ✓ |   |   |   |   |
 | [32498](https://www.acmicpc.net/problem/32498) | Call for Problems | ✓ |   |   |   |   |
 | [32517](https://www.acmicpc.net/problem/32517) | 평점 변환 2 | ✓ |   |   |   |   |
@@ -683,6 +691,7 @@
 | [32929](https://www.acmicpc.net/problem/32929) | UOS 문자열 | ✓ |   |   |   |   |
 | [32942](https://www.acmicpc.net/problem/32942) | 그래프와 그래프 | ✓ |   |   |   |   |
 | [32951](https://www.acmicpc.net/problem/32951) | AI 선도대학 | ✓ |   |   |   |   |
+| [32978](https://www.acmicpc.net/problem/32978) | 아 맞다 마늘 | ✓ |   |   |   |   |
 | [33161](https://www.acmicpc.net/problem/33161) | 鉛筆 2 (Pencils 2) | ✓ |   |   |   |   |
 | [33165](https://www.acmicpc.net/problem/33165) | 徒競走 (Footrace) | ✓ |   |   |   |   |
 | [33169](https://www.acmicpc.net/problem/33169) | 所持金 (Money On Me) | ✓ |   |   |   |   |
