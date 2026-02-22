@@ -63,6 +63,7 @@
 | [1766](https://www.acmicpc.net/problem/1766) | 문제집 | ✓ |   |   |   |   |
 | [1786](https://www.acmicpc.net/problem/1786) | 찾기 | ✓ |   |   |   |   |
 | [1806](https://www.acmicpc.net/problem/1806) | 부분합 | ✓ |   |   |   |   |
+| [1809](https://www.acmicpc.net/problem/1809) | Moo |   |   |   |   | ✓ |
 | [1816](https://www.acmicpc.net/problem/1816) | 암호 키 | ✓ |   |   |   |   |
 | [1911](https://www.acmicpc.net/problem/1911) | 흙길 보수하기 | ✓ |   |   |   |   |
 | [1922](https://www.acmicpc.net/problem/1922) | 네트워크 연결 | ✓ |   |   |   |   |
@@ -215,6 +216,7 @@
 | [5753](https://www.acmicpc.net/problem/5753) | Pascal Library | ✓ |   |   |   |   |
 | [5957](https://www.acmicpc.net/problem/5957) | Cleaning the Dishes | ✓ |   |   |   |   |
 | [6012](https://www.acmicpc.net/problem/6012) | The Big Dance | ✓ |   |   |   |   |
+| [6186](https://www.acmicpc.net/problem/6186) | Best Grass | ✓ |   |   |   |   |
 | [6194](https://www.acmicpc.net/problem/6194) | Building the Moat | ✓ |   |   |   |   |
 | [6198](https://www.acmicpc.net/problem/6198) | 옥상 정원 꾸미기 | ✓ |   |   |   |   |
 | [6213](https://www.acmicpc.net/problem/6213) | Balanced Lineup | ✓ |   |   |   |   |
@@ -353,6 +355,7 @@
 | [11916](https://www.acmicpc.net/problem/11916) | 볼질 | ✓ |   |   |   |   |
 | [11942](https://www.acmicpc.net/problem/11942) | 고려대는 사랑입니다 |   |   |   |   | ✓ |
 | [12015](https://www.acmicpc.net/problem/12015) | 가장 긴 증가하는 부분 수열 2 | ✓ |   |   |   |   |
+| [12605](https://www.acmicpc.net/problem/12605) | 단어순서 뒤집기 | ✓ |   |   |   |   |
 | [12738](https://www.acmicpc.net/problem/12738) | 가장 긴 증가하는 부분 수열 3 | ✓ |   |   |   |   |
 | [12904](https://www.acmicpc.net/problem/12904) | A와 B | ✓ |   |   |   |   |
 | [12910](https://www.acmicpc.net/problem/12910) | 사탕 나눠주기 | ✓ |   |   |   |   |
@@ -460,6 +463,7 @@
 | [17404](https://www.acmicpc.net/problem/17404) | RGB거리 2 | ✓ |   |   |   |   |
 | [17433](https://www.acmicpc.net/problem/17433) | 신비로운 수 | ✓ |   |   |   |   |
 | [17608](https://www.acmicpc.net/problem/17608) | 막대기 | ✓ |   |   |   |   |
+| [17848](https://www.acmicpc.net/problem/17848) | Flight Turbulence | ✓ |   |   |   |   |
 | [17949](https://www.acmicpc.net/problem/17949) | Drop The Byte! | ✓ |   |   |   |   |
 | [17998](https://www.acmicpc.net/problem/17998) | Levenshtein Distance | ✓ |   |   |   |   |
 | [18096](https://www.acmicpc.net/problem/18096) | Арифметическая магия |   |   |   |   | ✓ |
@@ -538,6 +542,7 @@
 | [24723](https://www.acmicpc.net/problem/24723) | 녹색거탑 | ✓ |   |   |   |   |
 | [24736](https://www.acmicpc.net/problem/24736) | Football Scoring | ✓ |   |   |   |   |
 | [24765](https://www.acmicpc.net/problem/24765) | Mia | ✓ |   |   |   |   |
+| [24789](https://www.acmicpc.net/problem/24789) | Railroad | ✓ |   |   |   |   |
 | [24883](https://www.acmicpc.net/problem/24883) | 자동완성 | ✓ |   |   |   |   |
 | [24900](https://www.acmicpc.net/problem/24900) | 한별 찍기 |   |   |   |   | ✓ |
 | [24938](https://www.acmicpc.net/problem/24938) | 키트 분배하기 | ✓ |   |   |   |   |
@@ -577,6 +582,8 @@
 | [26575](https://www.acmicpc.net/problem/26575) | Pups | ✓ |   |   |   |   |
 | [26711](https://www.acmicpc.net/problem/26711) | A+B | ✓ |   |   |   |   |
 | [26766](https://www.acmicpc.net/problem/26766) | Serca | ✓ |   |   |   |   |
+| [26906](https://www.acmicpc.net/problem/26906) | Vikingahackare | ✓ |   |   |   |   |
+| [27219](https://www.acmicpc.net/problem/27219) | Робинзон Крузо | ✓ |   |   |   |   |
 | [27294](https://www.acmicpc.net/problem/27294) | 몇개고? | ✓ |   |   |   |   |
 | [27296](https://www.acmicpc.net/problem/27296) | 카탈란 마스터의 선분 그리기 게임 | ✓ |   |   |   |   |
 | [27323](https://www.acmicpc.net/problem/27323) | 직사각형 | ✓ |   |   |   |   |
@@ -713,6 +720,7 @@
 | [34281](https://www.acmicpc.net/problem/34281) | Class Photo | ✓ |   |   |   |   |
 | [34297](https://www.acmicpc.net/problem/34297) | Parking Pandemonium | ✓ |   |   |   |   |
 | [34362](https://www.acmicpc.net/problem/34362) | Above | ✓ |   |   |   |   |
+| [34363](https://www.acmicpc.net/problem/34363) | Driving Dilemma | ✓ |   |   |   |   |
 | [34411](https://www.acmicpc.net/problem/34411) | M-Climb | ✓ |   |   |   |   |
 | [34412](https://www.acmicpc.net/problem/34412) | 13 Floors | ✓ |   |   |   |   |
 | [34424](https://www.acmicpc.net/problem/34424) | Flatter Land | ✓ |   |   |   |   |
@@ -733,3 +741,4 @@
 | [34945](https://www.acmicpc.net/problem/34945) | 채플이 너무해 | ✓ |   |   |   |   |
 | [34947](https://www.acmicpc.net/problem/34947) | 운동장 회전초밥 | ✓ |   |   |   |   |
 | [35030](https://www.acmicpc.net/problem/35030) | 2026년이 기대되는 이유 | ✓ |   |   |   |   |
+| [35277](https://www.acmicpc.net/problem/35277) | 유림이와 하람이의 두쫀쿠 대작전 | ✓ |   |   |   |   |
