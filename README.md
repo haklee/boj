@@ -140,6 +140,7 @@
 | [2752](https://www.acmicpc.net/problem/2752) | 세수정렬 | ✓ |   |   |   |   |
 | [2753](https://www.acmicpc.net/problem/2753) | 윤년 | ✓ |   |   |   |   |
 | [2775](https://www.acmicpc.net/problem/2775) | 부녀회장이 될테야 | ✓ |   |   |   |   |
+| [2777](https://www.acmicpc.net/problem/2777) | 숫자 놀이 | ✓ |   |   |   |   |
 | [2810](https://www.acmicpc.net/problem/2810) | 컵홀더 | ✓ |   |   |   |   |
 | [2839](https://www.acmicpc.net/problem/2839) | 설탕 배달 | ✓ |   |   |   |   |
 | [2840](https://www.acmicpc.net/problem/2840) | 행운의 바퀴 | ✓ |   |   |   |   |
@@ -184,7 +185,11 @@
 | [4320](https://www.acmicpc.net/problem/4320) | 완전 P제곱수 | ✓ |   |   |   |   |
 | [4470](https://www.acmicpc.net/problem/4470) | 줄번호 | ✓ |   |   |   |   |
 | [4485](https://www.acmicpc.net/problem/4485) | 녹색 옷 입은 애가 젤다지? | ✓ |   |   |   |   |
+| [4562](https://www.acmicpc.net/problem/4562) | No Brainer | ✓ |   |   |   |   |
+| [4589](https://www.acmicpc.net/problem/4589) | Gnome Sequencing | ✓ |   |   |   |   |
 | [4635](https://www.acmicpc.net/problem/4635) | Speed Limit | ✓ |   |   |   |   |
+| [4696](https://www.acmicpc.net/problem/4696) | St. Ives | ✓ |   |   |   |   |
+| [4714](https://www.acmicpc.net/problem/4714) | Lunacy | ✓ |   |   |   |   |
 | [4740](https://www.acmicpc.net/problem/4740) | 거울, 오! 거울 | ✓ |   |   |   |   |
 | [4779](https://www.acmicpc.net/problem/4779) | 칸토어 집합 | ✓ |   |   |   |   |
 | [4806](https://www.acmicpc.net/problem/4806) | 줄 세기 | ✓ |   |   |   |   |
@@ -193,6 +198,7 @@
 | [5014](https://www.acmicpc.net/problem/5014) | 스타트링크 | ✓ |   |   |   |   |
 | [5104](https://www.acmicpc.net/problem/5104) | NoMoPhobia | ✓ |   |   |   |   |
 | [5211](https://www.acmicpc.net/problem/5211) | 가단조와 다장조 | ✓ |   |   |   |   |
+| [5300](https://www.acmicpc.net/problem/5300) | Fill the Rowboats! | ✓ |   |   |   |   |
 | [5337](https://www.acmicpc.net/problem/5337) | 웰컴 |   |   |   |   | [✓](boj/5337/91505264.txt) |
 | [5338](https://www.acmicpc.net/problem/5338) | 마이크로소프트 로고 |   |   |   |   | [✓](boj/5338/90507110.txt) |
 | [5339](https://www.acmicpc.net/problem/5339) | 콜센터 |   |   |   |   | ✓ |
@@ -444,6 +450,7 @@
 | [16722](https://www.acmicpc.net/problem/16722) | 결! 합! | ✓ |   |   |   |   |
 | [16895](https://www.acmicpc.net/problem/16895) | 님 게임 3 | ✓ |   |   |   |   |
 | [16917](https://www.acmicpc.net/problem/16917) | 양념 반 후라이드 반 | ✓ |   |   |   |   |
+| [16945](https://www.acmicpc.net/problem/16945) | 매직 스퀘어로 변경하기 | ✓ |   |   |   |   |
 | [16953](https://www.acmicpc.net/problem/16953) | A → B | ✓ |   |   |   |   |
 | [16969](https://www.acmicpc.net/problem/16969) | 차량 번호판 2 | ✓ |   |   |   |   |
 | [17029](https://www.acmicpc.net/problem/17029) | Guess the Animal | ✓ |   |   |   |   |
@@ -570,6 +577,7 @@
 | [25979](https://www.acmicpc.net/problem/25979) | 시간 구간 다중 업데이트 최대 합 | ✓ |   |   |   |   |
 | [26082](https://www.acmicpc.net/problem/26082) | WARBOY | ✓ |   |   |   |   |
 | [26091](https://www.acmicpc.net/problem/26091) | 현대모비스 소프트웨어 아카데미 | ✓ |   |   |   |   |
+| [26099](https://www.acmicpc.net/problem/26099) | 설탕 배달 2 | ✓ |   |   |   |   |
 | [26145](https://www.acmicpc.net/problem/26145) | 출제비 재분배 | ✓ |   |   |   |   |
 | [26209](https://www.acmicpc.net/problem/26209) | Intercepting Information | ✓ |   |   |   |   |
 | [26307](https://www.acmicpc.net/problem/26307) | Correct | ✓ |   |   |   |   |
@@ -603,6 +611,7 @@
 | [27890](https://www.acmicpc.net/problem/27890) | 특별한 작은 분수 | ✓ |   |   |   |   |
 | [27959](https://www.acmicpc.net/problem/27959) | 초코바 | ✓ |   |   |   |   |
 | [27965](https://www.acmicpc.net/problem/27965) | N결수 | ✓ |   |   |   |   |
+| [27968](https://www.acmicpc.net/problem/27968) | 사사의 사차원 사탕 봉지 | ✓ |   |   |   |   |
 | [28113](https://www.acmicpc.net/problem/28113) | 정보섬의 대중교통 | ✓ |   |   |   |   |
 | [28115](https://www.acmicpc.net/problem/28115) | 등차수열의 합 | ✓ |   |   |   |   |
 | [28235](https://www.acmicpc.net/problem/28235) | 코드마스터 2023 | ✓ |   |   |   |   |
@@ -650,6 +659,7 @@
 | [30876](https://www.acmicpc.net/problem/30876) | Tren del Fin del Mundo | ✓ |   |   |   |   |
 | [30892](https://www.acmicpc.net/problem/30892) | 상어 키우기 | ✓ |   |   |   |   |
 | [31000](https://www.acmicpc.net/problem/31000) | 교환 분배법칙 | ✓ |   |   |   |   |
+| [31090](https://www.acmicpc.net/problem/31090) | 2023은 무엇이 특별할까? | ✓ |   |   |   |   |
 | [31215](https://www.acmicpc.net/problem/31215) | 이상한 섞기 연산 | ✓ |   |   |   |   |
 | [31287](https://www.acmicpc.net/problem/31287) | 장난감 강아지 | ✓ |   |   |   |   |
 | [31288](https://www.acmicpc.net/problem/31288) | 캬루 | ✓ |   |   |   |   |
