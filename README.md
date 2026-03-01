@@ -28,6 +28,7 @@
 | [1086](https://www.acmicpc.net/problem/1086) | 박성원 | ✓ |   |   |   |   |
 | [1094](https://www.acmicpc.net/problem/1094) | 막대기 | [✓](boj/1094/94604823.py) |   |   |   |   |
 | [1149](https://www.acmicpc.net/problem/1149) | RGB거리 | [✓](boj/1149/94900068.py) |   |   |   |   |
+| [1152](https://www.acmicpc.net/problem/1152) | 단어의 개수 | ✓ |   |   |   |   |
 | [1181](https://www.acmicpc.net/problem/1181) | 단어 정렬 | [✓](boj/1181/90797330.py) |   |   |   |   |
 | [1197](https://www.acmicpc.net/problem/1197) | 최소 스패닝 트리 | ✓ |   |   |   |   |
 | [1202](https://www.acmicpc.net/problem/1202) | 보석 도둑 | ✓ |   |   |   |   |
@@ -53,6 +54,7 @@
 | [1546](https://www.acmicpc.net/problem/1546) | 평균 | ✓ |   |   |   |   |
 | [1564](https://www.acmicpc.net/problem/1564) | 팩토리얼5 | ✓ |   |   |   |   |
 | [1629](https://www.acmicpc.net/problem/1629) | 곱셈 | [✓](boj/1629/91048349.py) |   |   |   |   |
+| [1630](https://www.acmicpc.net/problem/1630) | 오민식 | ✓ |   |   |   |   |
 | [1647](https://www.acmicpc.net/problem/1647) | 도시 분할 계획 | ✓ |   |   |   |   |
 | [1676](https://www.acmicpc.net/problem/1676) | 팩토리얼 0의 개수 | ✓ |   |   |   |   |
 | [1708](https://www.acmicpc.net/problem/1708) | 볼록 껍질 | ✓ |   |   |   |   |
@@ -65,6 +67,7 @@
 | [1806](https://www.acmicpc.net/problem/1806) | 부분합 | ✓ |   |   |   |   |
 | [1809](https://www.acmicpc.net/problem/1809) | Moo |   |   |   |   | ✓ |
 | [1816](https://www.acmicpc.net/problem/1816) | 암호 키 | ✓ |   |   |   |   |
+| [1821](https://www.acmicpc.net/problem/1821) | 수들의 합 6 | ✓ |   |   |   |   |
 | [1911](https://www.acmicpc.net/problem/1911) | 흙길 보수하기 | ✓ |   |   |   |   |
 | [1922](https://www.acmicpc.net/problem/1922) | 네트워크 연결 | ✓ |   |   |   |   |
 | [1924](https://www.acmicpc.net/problem/1924) | 2007년 | ✓ |   |   |   |   |
@@ -115,6 +118,7 @@
 | [2557](https://www.acmicpc.net/problem/2557) | Hello World | [✓](boj/2557/90356881.py) | [✓](boj/2557/90357149.cpp) | [✓](boj/2557/90357233.cs) | [✓](boj/2557/90357205.js) |   |
 | [2558](https://www.acmicpc.net/problem/2558) | A+B - 2 | ✓ |   |   |   |   |
 | [2559](https://www.acmicpc.net/problem/2559) | 수열 | ✓ |   |   |   |   |
+| [2562](https://www.acmicpc.net/problem/2562) | 최댓값 | ✓ |   |   |   |   |
 | [2577](https://www.acmicpc.net/problem/2577) | 숫자의 개수 | ✓ |   |   |   |   |
 | [2605](https://www.acmicpc.net/problem/2605) | 줄 세우기 | ✓ |   |   |   |   |
 | [2609](https://www.acmicpc.net/problem/2609) | 최대공약수와 최소공배수 | ✓ |   |   |   |   |
@@ -148,8 +152,10 @@
 | [2864](https://www.acmicpc.net/problem/2864) | 5와 6의 차이 | ✓ |   |   |   |   |
 | [2869](https://www.acmicpc.net/problem/2869) | 달팽이는 올라가고 싶다 | ✓ |   |   |   |   |
 | [2875](https://www.acmicpc.net/problem/2875) | 대회 or 인턴 | ✓ |   |   |   |   |
+| [2884](https://www.acmicpc.net/problem/2884) | 알람 시계 | ✓ |   |   |   |   |
 | [2885](https://www.acmicpc.net/problem/2885) | 초콜릿 식사 | ✓ |   |   |   |   |
 | [2914](https://www.acmicpc.net/problem/2914) | 저작권 | ✓ |   |   |   |   |
+| [2920](https://www.acmicpc.net/problem/2920) | 음계 | ✓ |   |   |   |   |
 | [2921](https://www.acmicpc.net/problem/2921) | 도미노 | ✓ |   |   |   |   |
 | [2948](https://www.acmicpc.net/problem/2948) | 2009년 | ✓ |   |   |   |   |
 | [2960](https://www.acmicpc.net/problem/2960) | 에라토스테네스의 체 | ✓ |   |   |   |   |
@@ -160,6 +166,7 @@
 | [3040](https://www.acmicpc.net/problem/3040) | 백설 공주와 일곱 난쟁이 | ✓ |   |   |   |   |
 | [3046](https://www.acmicpc.net/problem/3046) | R2 | ✓ |   |   |   |   |
 | [3047](https://www.acmicpc.net/problem/3047) | ABC | ✓ |   |   |   |   |
+| [3052](https://www.acmicpc.net/problem/3052) | 나머지 | ✓ |   |   |   |   |
 | [3053](https://www.acmicpc.net/problem/3053) | 택시 기하학 | ✓ |   |   |   |   |
 | [3062](https://www.acmicpc.net/problem/3062) | 수 뒤집기 | ✓ |   |   |   |   |
 | [3077](https://www.acmicpc.net/problem/3077) | 임진왜란 | ✓ |   |   |   |   |
