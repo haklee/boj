@@ -213,6 +213,7 @@
 | [5426](https://www.acmicpc.net/problem/5426) | 비밀 편지 | ✓ |   |   |   |   |
 | [5464](https://www.acmicpc.net/problem/5464) | 주차장 | ✓ |   |   |   |   |
 | [5522](https://www.acmicpc.net/problem/5522) | 카드 게임 | ✓ |   |   |   |   |
+| [5524](https://www.acmicpc.net/problem/5524) | 입실 관리 | ✓ |   |   |   |   |
 | [5532](https://www.acmicpc.net/problem/5532) | 방학 숙제 | ✓ |   |   |   |   |
 | [5543](https://www.acmicpc.net/problem/5543) | 상근날드 | ✓ |   |   |   |   |
 | [5554](https://www.acmicpc.net/problem/5554) | 심부름 가는 길 | ✓ |   |   |   |   |
@@ -239,6 +240,7 @@
 | [6503](https://www.acmicpc.net/problem/6503) | 망가진 키보드 | ✓ |   |   |   |   |
 | [6549](https://www.acmicpc.net/problem/6549) | 히스토그램에서 가장 큰 직사각형 | ✓ |   |   |   |   |
 | [6640](https://www.acmicpc.net/problem/6640) | Suspicious Stocks | ✓ |   |   |   |   |
+| [6749](https://www.acmicpc.net/problem/6749) | Next in line | ✓ |   |   |   |   |
 | [6778](https://www.acmicpc.net/problem/6778) | Which Alien? | ✓ |   |   |   |   |
 | [6840](https://www.acmicpc.net/problem/6840) | Who is in the middle? | ✓ |   |   |   |   |
 | [6850](https://www.acmicpc.net/problem/6850) | Cows | ✓ |   |   |   |   |
@@ -264,13 +266,16 @@
 | [8892](https://www.acmicpc.net/problem/8892) | 팰린드롬 | ✓ |   |   |   |   |
 | [8911](https://www.acmicpc.net/problem/8911) | 거북이 | ✓ |   |   |   |   |
 | [8913](https://www.acmicpc.net/problem/8913) | 문자열 뽑기 | ✓ |   |   |   |   |
+| [8958](https://www.acmicpc.net/problem/8958) | OX퀴즈 | ✓ |   |   |   |   |
 | [9020](https://www.acmicpc.net/problem/9020) | 골드바흐의 추측 | ✓ |   |   |   |   |
 | [9063](https://www.acmicpc.net/problem/9063) | 대지 | ✓ |   |   |   |   |
+| [9085](https://www.acmicpc.net/problem/9085) | 더하기 | ✓ |   |   |   |   |
 | [9086](https://www.acmicpc.net/problem/9086) | 문자열 | ✓ |   |   |   |   |
 | [9251](https://www.acmicpc.net/problem/9251) | LCS | ✓ |   |   |   |   |
 | [9252](https://www.acmicpc.net/problem/9252) | LCS 2 | ✓ |   |   |   |   |
 | [9255](https://www.acmicpc.net/problem/9255) | The Friend of My Enemy is My Enemy | ✓ |   |   |   |   |
 | [9288](https://www.acmicpc.net/problem/9288) | More Dice | ✓ |   |   |   |   |
+| [9295](https://www.acmicpc.net/problem/9295) | 주사위 | ✓ |   |   |   |   |
 | [9316](https://www.acmicpc.net/problem/9316) | Hello Judge | ✓ |   |   |   |   |
 | [9322](https://www.acmicpc.net/problem/9322) | 철벽 보안 알고리즘 | ✓ |   |   |   |   |
 | [9339](https://www.acmicpc.net/problem/9339) | 마라토너 | ✓ |   |   |   |   |
@@ -296,6 +301,7 @@
 | [10171](https://www.acmicpc.net/problem/10171) | 고양이 |   |   |   |   | [✓](boj/10171/90693605.txt) |
 | [10172](https://www.acmicpc.net/problem/10172) | 개 |   |   |   |   | [✓](boj/10172/90561873.txt) |
 | [10189](https://www.acmicpc.net/problem/10189) | Hook |   |   |   |   | ✓ |
+| [10250](https://www.acmicpc.net/problem/10250) | ACM 호텔 | ✓ |   |   |   |   |
 | [10261](https://www.acmicpc.net/problem/10261) | Catalan Square | ✓ |   |   |   |   |
 | [10430](https://www.acmicpc.net/problem/10430) | 나머지 | ✓ |   |   |   |   |
 | [10471](https://www.acmicpc.net/problem/10471) | 공간을 만들어 봅시다 | ✓ |   |   |   |   |
@@ -308,7 +314,9 @@
 | [10797](https://www.acmicpc.net/problem/10797) | 10부제 | ✓ |   |   |   |   |
 | [10804](https://www.acmicpc.net/problem/10804) | 카드 역배치 | ✓ |   |   |   |   |
 | [10807](https://www.acmicpc.net/problem/10807) | 개수 세기 | ✓ |   |   |   |   |
+| [10809](https://www.acmicpc.net/problem/10809) | 알파벳 찾기 | ✓ |   |   |   |   |
 | [10814](https://www.acmicpc.net/problem/10814) | 나이순 정렬 | ✓ |   |   |   |   |
+| [10818](https://www.acmicpc.net/problem/10818) | 최소, 최대 | ✓ |   |   |   |   |
 | [10826](https://www.acmicpc.net/problem/10826) | 피보나치 수 4 | ✓ |   |   |   |   |
 | [10844](https://www.acmicpc.net/problem/10844) | 쉬운 계단 수 | ✓ |   |   |   |   |
 | [10868](https://www.acmicpc.net/problem/10868) | 최솟값 | ✓ |   |   |   |   |
@@ -367,6 +375,7 @@
 | [11880](https://www.acmicpc.net/problem/11880) | 개미 | ✓ |   |   |   |   |
 | [11916](https://www.acmicpc.net/problem/11916) | 볼질 | ✓ |   |   |   |   |
 | [11942](https://www.acmicpc.net/problem/11942) | 고려대는 사랑입니다 |   |   |   |   | ✓ |
+| [11966](https://www.acmicpc.net/problem/11966) | 2의 제곱인가? | ✓ |   |   |   |   |
 | [12015](https://www.acmicpc.net/problem/12015) | 가장 긴 증가하는 부분 수열 2 | ✓ |   |   |   |   |
 | [12605](https://www.acmicpc.net/problem/12605) | 단어순서 뒤집기 | ✓ |   |   |   |   |
 | [12738](https://www.acmicpc.net/problem/12738) | 가장 긴 증가하는 부분 수열 3 | ✓ |   |   |   |   |
@@ -670,6 +679,7 @@
 | [31215](https://www.acmicpc.net/problem/31215) | 이상한 섞기 연산 | ✓ |   |   |   |   |
 | [31287](https://www.acmicpc.net/problem/31287) | 장난감 강아지 | ✓ |   |   |   |   |
 | [31288](https://www.acmicpc.net/problem/31288) | 캬루 | ✓ |   |   |   |   |
+| [31403](https://www.acmicpc.net/problem/31403) | $A + B - C$ | ✓ |   |   |   |   |
 | [31409](https://www.acmicpc.net/problem/31409) | 착신 전환 소동 | ✓ |   |   |   |   |
 | [31429](https://www.acmicpc.net/problem/31429) | SUAPC 2023 Summer | ✓ |   |   |   |   |
 | [31432](https://www.acmicpc.net/problem/31432) | 소수가 아닌 수 3 | ✓ |   |   |   |   |
