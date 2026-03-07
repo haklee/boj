@@ -316,6 +316,7 @@
 | [10807](https://www.acmicpc.net/problem/10807) | 개수 세기 | ✓ |   |   |   |   |
 | [10809](https://www.acmicpc.net/problem/10809) | 알파벳 찾기 | ✓ |   |   |   |   |
 | [10814](https://www.acmicpc.net/problem/10814) | 나이순 정렬 | ✓ |   |   |   |   |
+| [10817](https://www.acmicpc.net/problem/10817) | 세 수 | ✓ |   |   |   |   |
 | [10818](https://www.acmicpc.net/problem/10818) | 최소, 최대 | ✓ |   |   |   |   |
 | [10826](https://www.acmicpc.net/problem/10826) | 피보나치 수 4 | ✓ |   |   |   |   |
 | [10844](https://www.acmicpc.net/problem/10844) | 쉬운 계단 수 | ✓ |   |   |   |   |
@@ -762,6 +763,7 @@
 | [34695](https://www.acmicpc.net/problem/34695) | 이름 짓기 | ✓ |   |   |   |   |
 | [34721](https://www.acmicpc.net/problem/34721) | 역사를 걸으면 동국이 보이고 | ✓ |   |   |   |   |
 | [34751](https://www.acmicpc.net/problem/34751) | 01MEX | ✓ |   |   |   |   |
+| [34798](https://www.acmicpc.net/problem/34798) | Missed Alarm | ✓ |   |   |   |   |
 | [34813](https://www.acmicpc.net/problem/34813) | 공통교육과정 | ✓ |   |   |   |   |
 | [34849](https://www.acmicpc.net/problem/34849) | 이중 반복문 | ✓ |   |   |   |   |
 | [34921](https://www.acmicpc.net/problem/34921) | 덕후 | ✓ |   |   |   |   |
@@ -769,3 +771,4 @@
 | [34947](https://www.acmicpc.net/problem/34947) | 운동장 회전초밥 | ✓ |   |   |   |   |
 | [35030](https://www.acmicpc.net/problem/35030) | 2026년이 기대되는 이유 | ✓ |   |   |   |   |
 | [35277](https://www.acmicpc.net/problem/35277) | 유림이와 하람이의 두쫀쿠 대작전 | ✓ |   |   |   |   |
+| [35370](https://www.acmicpc.net/problem/35370) | Memories of Passport Control | ✓ |   |   |   |   |
