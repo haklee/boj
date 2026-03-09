@@ -294,6 +294,7 @@
 | [9698](https://www.acmicpc.net/problem/9698) | SAHUR & IMSA’ | ✓ |   |   |   |   |
 | [9772](https://www.acmicpc.net/problem/9772) | Quadrants | ✓ |   |   |   |   |
 | [9935](https://www.acmicpc.net/problem/9935) | 문자열 폭발 | ✓ |   |   |   |   |
+| [10039](https://www.acmicpc.net/problem/10039) | 평균 점수 | ✓ |   |   |   |   |
 | [10101](https://www.acmicpc.net/problem/10101) | 삼각형 외우기 | ✓ |   |   |   |   |
 | [10103](https://www.acmicpc.net/problem/10103) | 주사위 게임 | ✓ |   |   |   |   |
 | [10162](https://www.acmicpc.net/problem/10162) | 전자레인지 | ✓ |   |   |   |   |
@@ -314,6 +315,7 @@
 | [10797](https://www.acmicpc.net/problem/10797) | 10부제 | ✓ |   |   |   |   |
 | [10804](https://www.acmicpc.net/problem/10804) | 카드 역배치 | ✓ |   |   |   |   |
 | [10807](https://www.acmicpc.net/problem/10807) | 개수 세기 | ✓ |   |   |   |   |
+| [10808](https://www.acmicpc.net/problem/10808) | 알파벳 개수 | ✓ |   |   |   |   |
 | [10809](https://www.acmicpc.net/problem/10809) | 알파벳 찾기 | ✓ |   |   |   |   |
 | [10814](https://www.acmicpc.net/problem/10814) | 나이순 정렬 | ✓ |   |   |   |   |
 | [10817](https://www.acmicpc.net/problem/10817) | 세 수 | ✓ |   |   |   |   |
@@ -574,6 +576,7 @@
 | [25184](https://www.acmicpc.net/problem/25184) | 동가수열 구하기 | ✓ |   |   |   |   |
 | [25206](https://www.acmicpc.net/problem/25206) | 너의 평점은 | ✓ |   |   |   |   |
 | [25238](https://www.acmicpc.net/problem/25238) | 가희와 방어율 무시 | ✓ |   |   |   |   |
+| [25304](https://www.acmicpc.net/problem/25304) | 영수증 | ✓ |   |   |   |   |
 | [25306](https://www.acmicpc.net/problem/25306) | 연속 XOR | ✓ |   |   |   |   |
 | [25311](https://www.acmicpc.net/problem/25311) | UCPC에서 가장 쉬운 문제 번호는? |   |   |   |   | ✓ |
 | [25314](https://www.acmicpc.net/problem/25314) | 코딩은 체육과목 입니다 | ✓ |   |   |   |   |
@@ -732,6 +735,7 @@
 | [33169](https://www.acmicpc.net/problem/33169) | 所持金 (Money On Me) | ✓ |   |   |   |   |
 | [33170](https://www.acmicpc.net/problem/33170) | ブラックジャック (Blackjack) | ✓ |   |   |   |   |
 | [33178](https://www.acmicpc.net/problem/33178) | Micromasters | ✓ |   |   |   |   |
+| [33310](https://www.acmicpc.net/problem/33310) | Minimal Coprime | ✓ |   |   |   |   |
 | [33511](https://www.acmicpc.net/problem/33511) | 쉐이드 커튼 위 먼지는 쌓이는 중 | ✓ |   |   |   |   |
 | [33515](https://www.acmicpc.net/problem/33515) | 노트북 세 대를 가지고 왔다 | ✓ |   |   |   |   |
 | [33575](https://www.acmicpc.net/problem/33575) | 시간표 | ✓ |   |   |   |   |
