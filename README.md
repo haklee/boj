@@ -293,10 +293,12 @@
 | [9663](https://www.acmicpc.net/problem/9663) | N-Queen | ✓ |   |   |   |   |
 | [9698](https://www.acmicpc.net/problem/9698) | SAHUR & IMSA’ | ✓ |   |   |   |   |
 | [9772](https://www.acmicpc.net/problem/9772) | Quadrants | ✓ |   |   |   |   |
+| [9782](https://www.acmicpc.net/problem/9782) | Median | ✓ |   |   |   |   |
 | [9935](https://www.acmicpc.net/problem/9935) | 문자열 폭발 | ✓ |   |   |   |   |
 | [10039](https://www.acmicpc.net/problem/10039) | 평균 점수 | ✓ |   |   |   |   |
 | [10101](https://www.acmicpc.net/problem/10101) | 삼각형 외우기 | ✓ |   |   |   |   |
 | [10103](https://www.acmicpc.net/problem/10103) | 주사위 게임 | ✓ |   |   |   |   |
+| [10156](https://www.acmicpc.net/problem/10156) | 과자 | ✓ |   |   |   |   |
 | [10162](https://www.acmicpc.net/problem/10162) | 전자레인지 | ✓ |   |   |   |   |
 | [10170](https://www.acmicpc.net/problem/10170) | NFC West vs North |   |   |   |   | ✓ |
 | [10171](https://www.acmicpc.net/problem/10171) | 고양이 |   |   |   |   | [✓](boj/10171/90693605.txt) |
@@ -560,6 +562,7 @@
 | [24082](https://www.acmicpc.net/problem/24082) | 立方体 (Cube) | ✓ |   |   |   |   |
 | [24086](https://www.acmicpc.net/problem/24086) | 身長 (Height) | ✓ |   |   |   |   |
 | [24262](https://www.acmicpc.net/problem/24262) | 알고리즘 수업 - 알고리즘의 수행 시간 1 |   |   |   |   | ✓ |
+| [24263](https://www.acmicpc.net/problem/24263) | 알고리즘 수업 - 알고리즘의 수행 시간 2 | ✓ |   |   |   |   |
 | [24266](https://www.acmicpc.net/problem/24266) | 알고리즘 수업 - 알고리즘의 수행 시간 5 | ✓ |   |   |   |   |
 | [24309](https://www.acmicpc.net/problem/24309) | РАВЕНСТВО | ✓ |   |   |   |   |
 | [24392](https://www.acmicpc.net/problem/24392) | 영재의 징검다리 | ✓ |   |   |   |   |
@@ -726,6 +729,7 @@
 | [32651](https://www.acmicpc.net/problem/32651) | 인간은 무엇인가 | ✓ |   |   |   |   |
 | [32710](https://www.acmicpc.net/problem/32710) | 구구단표 | ✓ |   |   |   |   |
 | [32775](https://www.acmicpc.net/problem/32775) | 가희와 4시간의 벽 1 | ✓ |   |   |   |   |
+| [32905](https://www.acmicpc.net/problem/32905) | RACI | ✓ |   |   |   |   |
 | [32929](https://www.acmicpc.net/problem/32929) | UOS 문자열 | ✓ |   |   |   |   |
 | [32942](https://www.acmicpc.net/problem/32942) | 그래프와 그래프 | ✓ |   |   |   |   |
 | [32951](https://www.acmicpc.net/problem/32951) | AI 선도대학 | ✓ |   |   |   |   |
@@ -774,5 +778,6 @@
 | [34945](https://www.acmicpc.net/problem/34945) | 채플이 너무해 | ✓ |   |   |   |   |
 | [34947](https://www.acmicpc.net/problem/34947) | 운동장 회전초밥 | ✓ |   |   |   |   |
 | [35030](https://www.acmicpc.net/problem/35030) | 2026년이 기대되는 이유 | ✓ |   |   |   |   |
+| [35097](https://www.acmicpc.net/problem/35097) | 2025 | ✓ |   |   |   |   |
 | [35277](https://www.acmicpc.net/problem/35277) | 유림이와 하람이의 두쫀쿠 대작전 | ✓ |   |   |   |   |
 | [35370](https://www.acmicpc.net/problem/35370) | Memories of Passport Control | ✓ |   |   |   |   |
