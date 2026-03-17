@@ -230,6 +230,7 @@
 | [5753](https://www.acmicpc.net/problem/5753) | Pascal Library | ✓ |   |   |   |   |
 | [5957](https://www.acmicpc.net/problem/5957) | Cleaning the Dishes | ✓ |   |   |   |   |
 | [6012](https://www.acmicpc.net/problem/6012) | The Big Dance | ✓ |   |   |   |   |
+| [6124](https://www.acmicpc.net/problem/6124) | Good Grass | ✓ |   |   |   |   |
 | [6186](https://www.acmicpc.net/problem/6186) | Best Grass | ✓ |   |   |   |   |
 | [6194](https://www.acmicpc.net/problem/6194) | Building the Moat | ✓ |   |   |   |   |
 | [6198](https://www.acmicpc.net/problem/6198) | 옥상 정원 꾸미기 | ✓ |   |   |   |   |
@@ -261,6 +262,7 @@
 | [8393](https://www.acmicpc.net/problem/8393) | 합 | ✓ |   |   |   |   |
 | [8437](https://www.acmicpc.net/problem/8437) | Julka | ✓ |   |   |   |   |
 | [8545](https://www.acmicpc.net/problem/8545) | Zadanie próbne | ✓ |   |   |   |   |
+| [8558](https://www.acmicpc.net/problem/8558) | Silnia | ✓ |   |   |   |   |
 | [8723](https://www.acmicpc.net/problem/8723) | Patyki | ✓ |   |   |   |   |
 | [8871](https://www.acmicpc.net/problem/8871) | Zadanie próbne 2 | ✓ |   |   |   |   |
 | [8892](https://www.acmicpc.net/problem/8892) | 팰린드롬 | ✓ |   |   |   |   |
@@ -292,6 +294,7 @@
 | [9656](https://www.acmicpc.net/problem/9656) | 돌 게임 2 | ✓ |   |   |   |   |
 | [9663](https://www.acmicpc.net/problem/9663) | N-Queen | ✓ |   |   |   |   |
 | [9698](https://www.acmicpc.net/problem/9698) | SAHUR & IMSA’ | ✓ |   |   |   |   |
+| [9699](https://www.acmicpc.net/problem/9699) | RICE SACK | ✓ |   |   |   |   |
 | [9772](https://www.acmicpc.net/problem/9772) | Quadrants | ✓ |   |   |   |   |
 | [9782](https://www.acmicpc.net/problem/9782) | Median | ✓ |   |   |   |   |
 | [9935](https://www.acmicpc.net/problem/9935) | 문자열 폭발 | ✓ |   |   |   |   |
@@ -313,6 +316,7 @@
 | [10699](https://www.acmicpc.net/problem/10699) | 오늘 날짜 | [✓](boj/10699/90381697.py) | [✓](boj/10699/90381637.cpp) | [✓](boj/10699/90381720.cs) | [✓](boj/10699/90381683.js) | [✓](boj/10699/90381735.txt) |
 | [10718](https://www.acmicpc.net/problem/10718) | We love kriii | ✓ |   |   |   |   |
 | [10757](https://www.acmicpc.net/problem/10757) | 큰 수 A+B | ✓ |   |   |   |   |
+| [10768](https://www.acmicpc.net/problem/10768) | 특별한 날 | ✓ |   |   |   |   |
 | [10773](https://www.acmicpc.net/problem/10773) | 제로 | ✓ |   |   |   |   |
 | [10797](https://www.acmicpc.net/problem/10797) | 10부제 | ✓ |   |   |   |   |
 | [10804](https://www.acmicpc.net/problem/10804) | 카드 역배치 | ✓ |   |   |   |   |
@@ -380,6 +384,7 @@
 | [11880](https://www.acmicpc.net/problem/11880) | 개미 | ✓ |   |   |   |   |
 | [11916](https://www.acmicpc.net/problem/11916) | 볼질 | ✓ |   |   |   |   |
 | [11942](https://www.acmicpc.net/problem/11942) | 고려대는 사랑입니다 |   |   |   |   | ✓ |
+| [11943](https://www.acmicpc.net/problem/11943) | 파일 옮기기 | ✓ |   |   |   |   |
 | [11966](https://www.acmicpc.net/problem/11966) | 2의 제곱인가? | ✓ |   |   |   |   |
 | [12015](https://www.acmicpc.net/problem/12015) | 가장 긴 증가하는 부분 수열 2 | ✓ |   |   |   |   |
 | [12605](https://www.acmicpc.net/problem/12605) | 단어순서 뒤집기 | ✓ |   |   |   |   |
