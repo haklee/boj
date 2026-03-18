@@ -682,6 +682,7 @@
 | [30664](https://www.acmicpc.net/problem/30664) | Loteria Falha | ✓ |   |   |   |   |
 | [30676](https://www.acmicpc.net/problem/30676) | 이 별은 무슨 색일까 | ✓ |   |   |   |   |
 | [30786](https://www.acmicpc.net/problem/30786) | 홀수 찾아 삼만리 | ✓ |   |   |   |   |
+| [30793](https://www.acmicpc.net/problem/30793) | gahui and sousenkyo 3 | ✓ |   |   |   |   |
 | [30794](https://www.acmicpc.net/problem/30794) | 가희와 클럽 오디션 1 | ✓ |   |   |   |   |
 | [30875](https://www.acmicpc.net/problem/30875) | Recovering the Region | ✓ |   |   |   |   |
 | [30876](https://www.acmicpc.net/problem/30876) | Tren del Fin del Mundo | ✓ |   |   |   |   |
