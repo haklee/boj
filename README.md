@@ -35,6 +35,7 @@
 | [1212](https://www.acmicpc.net/problem/1212) | 8진수 2진수 | [✓](boj/1212/94692869.py) |   |   |   |   |
 | [1244](https://www.acmicpc.net/problem/1244) | 스위치 켜고 끄기 | ✓ |   |   |   |   |
 | [1246](https://www.acmicpc.net/problem/1246) | 온라인 판매 | ✓ |   |   |   |   |
+| [1254](https://www.acmicpc.net/problem/1254) | 팰린드롬 만들기 | ✓ |   |   |   |   |
 | [1259](https://www.acmicpc.net/problem/1259) | 팰린드롬수 | [✓](boj/1259/90741930.py) |   |   |   |   |
 | [1264](https://www.acmicpc.net/problem/1264) | 모음의 개수 | ✓ |   |   |   |   |
 | [1271](https://www.acmicpc.net/problem/1271) | 엄청난 부자2 | [✓](boj/1271/93769960.py) |   |   |   |   |
@@ -187,6 +188,7 @@
 | [4153](https://www.acmicpc.net/problem/4153) | 직각삼각형 | ✓ |   |   |   |   |
 | [4181](https://www.acmicpc.net/problem/4181) | Convex Hull | ✓ |   |   |   |   |
 | [4187](https://www.acmicpc.net/problem/4187) | Scrolling Sign | ✓ |   |   |   |   |
+| [4291](https://www.acmicpc.net/problem/4291) | Brownie Points I | ✓ |   |   |   |   |
 | [4299](https://www.acmicpc.net/problem/4299) | AFC 윔블던 | ✓ |   |   |   |   |
 | [4307](https://www.acmicpc.net/problem/4307) | 개미 | ✓ |   |   |   |   |
 | [4320](https://www.acmicpc.net/problem/4320) | 완전 P제곱수 | ✓ |   |   |   |   |
