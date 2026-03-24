@@ -395,6 +395,7 @@
 | [12910](https://www.acmicpc.net/problem/12910) | 사탕 나눠주기 | ✓ |   |   |   |   |
 | [13018](https://www.acmicpc.net/problem/13018) | 특이한 수열 | ✓ |   |   |   |   |
 | [13072](https://www.acmicpc.net/problem/13072) | Fence | ✓ |   |   |   |   |
+| [13118](https://www.acmicpc.net/problem/13118) | 뉴턴과 사과 | ✓ |   |   |   |   |
 | [13172](https://www.acmicpc.net/problem/13172) | Σ | ✓ |   |   |   |   |
 | [13192](https://www.acmicpc.net/problem/13192) | Router 1 | ✓ |   |   |   |   |
 | [13268](https://www.acmicpc.net/problem/13268) | 셔틀런 | ✓ |   |   |   |   |
@@ -405,6 +406,8 @@
 | [13417](https://www.acmicpc.net/problem/13417) | 카드 문자열 | ✓ |   |   |   |   |
 | [13623](https://www.acmicpc.net/problem/13623) | Zero or One | ✓ |   |   |   |   |
 | [13698](https://www.acmicpc.net/problem/13698) | Hawk eyes | ✓ |   |   |   |   |
+| [13752](https://www.acmicpc.net/problem/13752) | 히스토그램 | ✓ |   |   |   |   |
+| [13866](https://www.acmicpc.net/problem/13866) | 팀 나누기 | ✓ |   |   |   |   |
 | [13910](https://www.acmicpc.net/problem/13910) | 개업 | ✓ |   |   |   |   |
 | [13977](https://www.acmicpc.net/problem/13977) | 이항 계수와 쿼리 | ✓ |   |   |   |   |
 | [14004](https://www.acmicpc.net/problem/14004) | ICPC | ✓ |   |   |   |   |
@@ -434,6 +437,7 @@
 | [15232](https://www.acmicpc.net/problem/15232) | Rectangles | ✓ |   |   |   |   |
 | [15299](https://www.acmicpc.net/problem/15299) | Best Rational Approximation | ✓ |   |   |   |   |
 | [15311](https://www.acmicpc.net/problem/15311) | 약 팔기 | ✓ |   |   |   |   |
+| [15474](https://www.acmicpc.net/problem/15474) | 鉛筆 (Pencils) | ✓ |   |   |   |   |
 | [15486](https://www.acmicpc.net/problem/15486) | 퇴사 2 | ✓ |   |   |   |   |
 | [15552](https://www.acmicpc.net/problem/15552) | 빠른 A+B | ✓ |   |   | ✓ |   |
 | [15624](https://www.acmicpc.net/problem/15624) | 피보나치 수 7 | ✓ |   |   |   |   |
@@ -446,10 +450,12 @@
 | [15666](https://www.acmicpc.net/problem/15666) | N과 M (12) | ✓ |   |   |   |   |
 | [15680](https://www.acmicpc.net/problem/15680) | 연세대학교 | ✓ |   |   |   |   |
 | [15681](https://www.acmicpc.net/problem/15681) | 트리와 쿼리 | ✓ |   |   |   |   |
+| [15700](https://www.acmicpc.net/problem/15700) | 타일 채우기 4 | ✓ |   |   |   |   |
 | [15727](https://www.acmicpc.net/problem/15727) | 조별과제를 하려는데 조장이 사라졌다 | ✓ |   |   |   |   |
 | [15733](https://www.acmicpc.net/problem/15733) | 나는 누구인가 |   |   |   |   | ✓ |
 | [15734](https://www.acmicpc.net/problem/15734) | 명장 남정훈 | ✓ |   |   |   |   |
 | [15740](https://www.acmicpc.net/problem/15740) | A+B - 9 | ✓ |   |   |   |   |
+| [15794](https://www.acmicpc.net/problem/15794) | Count | ✓ |   |   |   |   |
 | [15810](https://www.acmicpc.net/problem/15810) | 풍선 공장 | ✓ |   |   |   |   |
 | [15824](https://www.acmicpc.net/problem/15824) | 너 봄에는 캡사이신이 맛있단다 | ✓ |   |   |   |   |
 | [15835](https://www.acmicpc.net/problem/15835) | Explorace | ✓ |   |   |   |   |
