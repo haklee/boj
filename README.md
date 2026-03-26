@@ -387,6 +387,8 @@
 | [11916](https://www.acmicpc.net/problem/11916) | 볼질 | ✓ |   |   |   |   |
 | [11942](https://www.acmicpc.net/problem/11942) | 고려대는 사랑입니다 |   |   |   |   | ✓ |
 | [11943](https://www.acmicpc.net/problem/11943) | 파일 옮기기 | ✓ |   |   |   |   |
+| [11945](https://www.acmicpc.net/problem/11945) | 뜨거운 붕어빵 | ✓ |   |   |   |   |
+| [11948](https://www.acmicpc.net/problem/11948) | 과목선택 | ✓ |   |   |   |   |
 | [11966](https://www.acmicpc.net/problem/11966) | 2의 제곱인가? | ✓ |   |   |   |   |
 | [12015](https://www.acmicpc.net/problem/12015) | 가장 긴 증가하는 부분 수열 2 | ✓ |   |   |   |   |
 | [12605](https://www.acmicpc.net/problem/12605) | 단어순서 뒤집기 | ✓ |   |   |   |   |
@@ -396,6 +398,7 @@
 | [13018](https://www.acmicpc.net/problem/13018) | 특이한 수열 | ✓ |   |   |   |   |
 | [13072](https://www.acmicpc.net/problem/13072) | Fence | ✓ |   |   |   |   |
 | [13118](https://www.acmicpc.net/problem/13118) | 뉴턴과 사과 | ✓ |   |   |   |   |
+| [13136](https://www.acmicpc.net/problem/13136) | Do Not Touch Anything | ✓ |   |   |   |   |
 | [13172](https://www.acmicpc.net/problem/13172) | Σ | ✓ |   |   |   |   |
 | [13192](https://www.acmicpc.net/problem/13192) | Router 1 | ✓ |   |   |   |   |
 | [13268](https://www.acmicpc.net/problem/13268) | 셔틀런 | ✓ |   |   |   |   |
@@ -417,6 +420,7 @@
 | [14438](https://www.acmicpc.net/problem/14438) | 수열과 쿼리 17 | ✓ |   |   |   |   |
 | [14470](https://www.acmicpc.net/problem/14470) | 전자레인지 | ✓ |   |   |   |   |
 | [14487](https://www.acmicpc.net/problem/14487) | 욱제는 효도쟁이야!! | ✓ |   |   |   |   |
+| [14489](https://www.acmicpc.net/problem/14489) | 치킨 두 마리 (...) | ✓ |   |   |   |   |
 | [14566](https://www.acmicpc.net/problem/14566) | Dongjak N1 | ✓ |   |   |   |   |
 | [14581](https://www.acmicpc.net/problem/14581) | 팬들에게 둘러싸인 홍준 | ✓ |   |   |   |   |
 | [14608](https://www.acmicpc.net/problem/14608) | 구분구적법 (Small) | ✓ |   |   |   |   |
