@@ -455,6 +455,7 @@
 | [15680](https://www.acmicpc.net/problem/15680) | 연세대학교 | ✓ |   |   |   |   |
 | [15681](https://www.acmicpc.net/problem/15681) | 트리와 쿼리 | ✓ |   |   |   |   |
 | [15700](https://www.acmicpc.net/problem/15700) | 타일 채우기 4 | ✓ |   |   |   |   |
+| [15726](https://www.acmicpc.net/problem/15726) | 이칙연산 | ✓ |   |   |   |   |
 | [15727](https://www.acmicpc.net/problem/15727) | 조별과제를 하려는데 조장이 사라졌다 | ✓ |   |   |   |   |
 | [15733](https://www.acmicpc.net/problem/15733) | 나는 누구인가 |   |   |   |   | ✓ |
 | [15734](https://www.acmicpc.net/problem/15734) | 명장 남정훈 | ✓ |   |   |   |   |
