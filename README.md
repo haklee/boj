@@ -90,6 +90,7 @@
 | [2163](https://www.acmicpc.net/problem/2163) | 초콜릿 자르기 | ✓ |   |   |   |   |
 | [2166](https://www.acmicpc.net/problem/2166) | 다각형의 면적 | ✓ |   |   |   |   |
 | [2167](https://www.acmicpc.net/problem/2167) | 2차원 배열의 합 | ✓ |   |   |   |   |
+| [2168](https://www.acmicpc.net/problem/2168) | 타일 위의 대각선 | ✓ |   |   |   |   |
 | [2225](https://www.acmicpc.net/problem/2225) | 합분해 | ✓ |   |   |   |   |
 | [2231](https://www.acmicpc.net/problem/2231) | 분해합 | ✓ |   |   |   |   |
 | [2239](https://www.acmicpc.net/problem/2239) | 스도쿠 | ✓ |   |   |   |   |
@@ -192,6 +193,7 @@
 | [4299](https://www.acmicpc.net/problem/4299) | AFC 윔블던 | ✓ |   |   |   |   |
 | [4307](https://www.acmicpc.net/problem/4307) | 개미 | ✓ |   |   |   |   |
 | [4320](https://www.acmicpc.net/problem/4320) | 완전 P제곱수 | ✓ |   |   |   |   |
+| [4322](https://www.acmicpc.net/problem/4322) | Dead Fraction | ✓ |   |   |   |   |
 | [4470](https://www.acmicpc.net/problem/4470) | 줄번호 | ✓ |   |   |   |   |
 | [4485](https://www.acmicpc.net/problem/4485) | 녹색 옷 입은 애가 젤다지? | ✓ |   |   |   |   |
 | [4562](https://www.acmicpc.net/problem/4562) | No Brainer | ✓ |   |   |   |   |
@@ -429,6 +431,7 @@
 | [14645](https://www.acmicpc.net/problem/14645) | 와이버스 부릉부릉 | [✓](boj/14645/90473517.py) |   |   |   | [✓](boj/14645/90473544.txt) |
 | [14655](https://www.acmicpc.net/problem/14655) | 욱제는 도박쟁이야!! | ✓ |   |   |   |   |
 | [14681](https://www.acmicpc.net/problem/14681) | 사분면 고르기 | ✓ |   |   |   |   |
+| [14709](https://www.acmicpc.net/problem/14709) | 여우 사인 | ✓ |   |   |   |   |
 | [14710](https://www.acmicpc.net/problem/14710) | 고장난 시계 | ✓ |   |   |   |   |
 | [14719](https://www.acmicpc.net/problem/14719) | 빗물 | ✓ |   |   |   |   |
 | [14725](https://www.acmicpc.net/problem/14725) | 개미굴 | ✓ |   |   |   |   |
@@ -507,6 +510,7 @@
 | [17386](https://www.acmicpc.net/problem/17386) | 선분 교차 1 | ✓ |   |   |   |   |
 | [17387](https://www.acmicpc.net/problem/17387) | 선분 교차 2 | ✓ |   |   |   |   |
 | [17404](https://www.acmicpc.net/problem/17404) | RGB거리 2 | ✓ |   |   |   |   |
+| [17425](https://www.acmicpc.net/problem/17425) | 약수의 합 | ✓ |   |   |   |   |
 | [17433](https://www.acmicpc.net/problem/17433) | 신비로운 수 | ✓ |   |   |   |   |
 | [17608](https://www.acmicpc.net/problem/17608) | 막대기 | ✓ |   |   |   |   |
 | [17848](https://www.acmicpc.net/problem/17848) | Flight Turbulence | ✓ |   |   |   |   |
@@ -575,6 +579,7 @@
 | [23977](https://www.acmicpc.net/problem/23977) | To Find Password | ✓ |   |   |   |   |
 | [24009](https://www.acmicpc.net/problem/24009) | Huge Numbers | ✓ |   |   |   |   |
 | [24040](https://www.acmicpc.net/problem/24040) | 예쁜 케이크 | ✓ |   |   |   |   |
+| [24049](https://www.acmicpc.net/problem/24049) | 정원 (Easy) | ✓ |   |   |   |   |
 | [24057](https://www.acmicpc.net/problem/24057) | 실수 | ✓ |   |   |   |   |
 | [24078](https://www.acmicpc.net/problem/24078) | 余り (Remainder) | ✓ |   |   |   |   |
 | [24082](https://www.acmicpc.net/problem/24082) | 立方体 (Cube) | ✓ |   |   |   |   |
@@ -751,6 +756,7 @@
 | [32905](https://www.acmicpc.net/problem/32905) | RACI | ✓ |   |   |   |   |
 | [32929](https://www.acmicpc.net/problem/32929) | UOS 문자열 | ✓ |   |   |   |   |
 | [32942](https://www.acmicpc.net/problem/32942) | 그래프와 그래프 | ✓ |   |   |   |   |
+| [32948](https://www.acmicpc.net/problem/32948) | 삼각형의 부분합 | ✓ |   |   |   |   |
 | [32951](https://www.acmicpc.net/problem/32951) | AI 선도대학 | ✓ |   |   |   |   |
 | [32978](https://www.acmicpc.net/problem/32978) | 아 맞다 마늘 | ✓ |   |   |   |   |
 | [33161](https://www.acmicpc.net/problem/33161) | 鉛筆 2 (Pencils 2) | ✓ |   |   |   |   |
