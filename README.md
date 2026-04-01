@@ -444,6 +444,7 @@
 | [15232](https://www.acmicpc.net/problem/15232) | Rectangles | ✓ |   |   |   |   |
 | [15299](https://www.acmicpc.net/problem/15299) | Best Rational Approximation | ✓ |   |   |   |   |
 | [15311](https://www.acmicpc.net/problem/15311) | 약 팔기 | ✓ |   |   |   |   |
+| [15439](https://www.acmicpc.net/problem/15439) | 베라의 패션 | ✓ |   |   |   |   |
 | [15474](https://www.acmicpc.net/problem/15474) | 鉛筆 (Pencils) | ✓ |   |   |   |   |
 | [15486](https://www.acmicpc.net/problem/15486) | 퇴사 2 | ✓ |   |   |   |   |
 | [15552](https://www.acmicpc.net/problem/15552) | 빠른 A+B | ✓ |   |   | ✓ |   |
@@ -486,6 +487,7 @@
 | [16410](https://www.acmicpc.net/problem/16410) | Goat Rope | ✓ |   |   |   |   |
 | [16430](https://www.acmicpc.net/problem/16430) | 제리와 톰 | ✓ |   |   |   |   |
 | [16483](https://www.acmicpc.net/problem/16483) | 접시 안의 원 | ✓ |   |   |   |   |
+| [16486](https://www.acmicpc.net/problem/16486) | 운동장 한 바퀴 | ✓ |   |   |   |   |
 | [16533](https://www.acmicpc.net/problem/16533) | Mount Marathon | ✓ |   |   |   |   |
 | [16565](https://www.acmicpc.net/problem/16565) | N포커 | ✓ |   |   |   |   |
 | [16609](https://www.acmicpc.net/problem/16609) | Inflation | ✓ |   |   |   |   |
@@ -495,6 +497,7 @@
 | [16945](https://www.acmicpc.net/problem/16945) | 매직 스퀘어로 변경하기 | ✓ |   |   |   |   |
 | [16953](https://www.acmicpc.net/problem/16953) | A → B | ✓ |   |   |   |   |
 | [16969](https://www.acmicpc.net/problem/16969) | 차량 번호판 2 | ✓ |   |   |   |   |
+| [17010](https://www.acmicpc.net/problem/17010) | Time to Decompress | ✓ |   |   |   |   |
 | [17029](https://www.acmicpc.net/problem/17029) | Guess the Animal | ✓ |   |   |   |   |
 | [17072](https://www.acmicpc.net/problem/17072) | 아스키 아트 | ✓ |   |   |   |   |
 | [17173](https://www.acmicpc.net/problem/17173) | 배수들의 합 | ✓ |   |   |   |   |
@@ -507,6 +510,7 @@
 | [17266](https://www.acmicpc.net/problem/17266) | 어두운 굴다리 | ✓ |   |   |   |   |
 | [17292](https://www.acmicpc.net/problem/17292) | 바둑이 포커 | ✓ |   |   |   |   |
 | [17298](https://www.acmicpc.net/problem/17298) | 오큰수 | ✓ |   |   |   |   |
+| [17362](https://www.acmicpc.net/problem/17362) | 수학은 체육과목 입니다 2 | ✓ |   |   |   |   |
 | [17386](https://www.acmicpc.net/problem/17386) | 선분 교차 1 | ✓ |   |   |   |   |
 | [17387](https://www.acmicpc.net/problem/17387) | 선분 교차 2 | ✓ |   |   |   |   |
 | [17404](https://www.acmicpc.net/problem/17404) | RGB거리 2 | ✓ |   |   |   |   |
@@ -527,6 +531,8 @@
 | [18245](https://www.acmicpc.net/problem/18245) | 이상한 나라의 암호 | ✓ |   |   |   |   |
 | [18269](https://www.acmicpc.net/problem/18269) | Where Am I? | ✓ |   |   |   |   |
 | [18301](https://www.acmicpc.net/problem/18301) | Rats | ✓ |   |   |   |   |
+| [18398](https://www.acmicpc.net/problem/18398) | HOMWRK | ✓ |   |   |   |   |
+| [18408](https://www.acmicpc.net/problem/18408) | 3 つの整数 (Three Integers) | ✓ |   |   |   |   |
 | [18409](https://www.acmicpc.net/problem/18409) | 母音を数える (Counting Vowels) | ✓ |   |   |   |   |
 | [18422](https://www.acmicpc.net/problem/18422) | Emacs | ✓ |   |   |   |   |
 | [18436](https://www.acmicpc.net/problem/18436) | 수열과 쿼리 37 | ✓ |   |   |   |   |
