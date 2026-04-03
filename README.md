@@ -440,6 +440,7 @@
 | [14928](https://www.acmicpc.net/problem/14928) | 큰 수 (BIG) | ✓ |   |   |   |   |
 | [14954](https://www.acmicpc.net/problem/14954) | Happy Number | ✓ |   |   |   |   |
 | [15000](https://www.acmicpc.net/problem/15000) | CAPS | ✓ |   |   |   |   |
+| [15080](https://www.acmicpc.net/problem/15080) | Every Second Counts | ✓ |   |   |   |   |
 | [15228](https://www.acmicpc.net/problem/15228) | 3D Printed Statues | ✓ |   |   |   |   |
 | [15232](https://www.acmicpc.net/problem/15232) | Rectangles | ✓ |   |   |   |   |
 | [15299](https://www.acmicpc.net/problem/15299) | Best Rational Approximation | ✓ |   |   |   |   |
