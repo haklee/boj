@@ -38,6 +38,7 @@
 | [1254](https://www.acmicpc.net/problem/1254) | 팰린드롬 만들기 | ✓ |   |   |   |   |
 | [1259](https://www.acmicpc.net/problem/1259) | 팰린드롬수 | [✓](boj/1259/90741930.py) |   |   |   |   |
 | [1264](https://www.acmicpc.net/problem/1264) | 모음의 개수 | ✓ |   |   |   |   |
+| [1270](https://www.acmicpc.net/problem/1270) | 전쟁 - 땅따먹기 | ✓ |   |   |   |   |
 | [1271](https://www.acmicpc.net/problem/1271) | 엄청난 부자2 | [✓](boj/1271/93769960.py) |   |   |   |   |
 | [1275](https://www.acmicpc.net/problem/1275) | 커피숍2 | ✓ |   |   |   |   |
 | [1303](https://www.acmicpc.net/problem/1303) | 전쟁 - 전투 | ✓ |   |   |   |   |
@@ -184,6 +185,7 @@
 | [3803](https://www.acmicpc.net/problem/3803) | Networking | ✓ |   |   |   |   |
 | [3944](https://www.acmicpc.net/problem/3944) | 나머지 계산 | ✓ |   |   |   |   |
 | [4030](https://www.acmicpc.net/problem/4030) | 포켓볼 | ✓ |   |   |   |   |
+| [4090](https://www.acmicpc.net/problem/4090) | 뱀파이어 숫자 | ✓ |   |   |   |   |
 | [4101](https://www.acmicpc.net/problem/4101) | 크냐? | ✓ |   |   |   |   |
 | [4150](https://www.acmicpc.net/problem/4150) | 피보나치 수 | ✓ |   |   |   |   |
 | [4153](https://www.acmicpc.net/problem/4153) | 직각삼각형 | ✓ |   |   |   |   |
@@ -282,6 +284,7 @@
 | [9255](https://www.acmicpc.net/problem/9255) | The Friend of My Enemy is My Enemy | ✓ |   |   |   |   |
 | [9288](https://www.acmicpc.net/problem/9288) | More Dice | ✓ |   |   |   |   |
 | [9295](https://www.acmicpc.net/problem/9295) | 주사위 | ✓ |   |   |   |   |
+| [9306](https://www.acmicpc.net/problem/9306) | Practice: Roll Call | ✓ |   |   |   |   |
 | [9316](https://www.acmicpc.net/problem/9316) | Hello Judge | ✓ |   |   |   |   |
 | [9322](https://www.acmicpc.net/problem/9322) | 철벽 보안 알고리즘 | ✓ |   |   |   |   |
 | [9339](https://www.acmicpc.net/problem/9339) | 마라토너 | ✓ |   |   |   |   |
@@ -511,6 +514,7 @@
 | [17266](https://www.acmicpc.net/problem/17266) | 어두운 굴다리 | ✓ |   |   |   |   |
 | [17292](https://www.acmicpc.net/problem/17292) | 바둑이 포커 | ✓ |   |   |   |   |
 | [17298](https://www.acmicpc.net/problem/17298) | 오큰수 | ✓ |   |   |   |   |
+| [17356](https://www.acmicpc.net/problem/17356) | 욱 제 | ✓ |   |   |   |   |
 | [17362](https://www.acmicpc.net/problem/17362) | 수학은 체육과목 입니다 2 | ✓ |   |   |   |   |
 | [17386](https://www.acmicpc.net/problem/17386) | 선분 교차 1 | ✓ |   |   |   |   |
 | [17387](https://www.acmicpc.net/problem/17387) | 선분 교차 2 | ✓ |   |   |   |   |
@@ -597,6 +601,7 @@
 | [24309](https://www.acmicpc.net/problem/24309) | РАВЕНСТВО | ✓ |   |   |   |   |
 | [24392](https://www.acmicpc.net/problem/24392) | 영재의 징검다리 | ✓ |   |   |   |   |
 | [24416](https://www.acmicpc.net/problem/24416) | 알고리즘 수업 - 피보나치 수 1 | ✓ |   |   |   |   |
+| [24446](https://www.acmicpc.net/problem/24446) | 알고리즘 수업 - 너비 우선 탐색 3 | ✓ |   |   |   |   |
 | [24568](https://www.acmicpc.net/problem/24568) | Cupcake Party | ✓ |   |   |   |   |
 | [24723](https://www.acmicpc.net/problem/24723) | 녹색거탑 | ✓ |   |   |   |   |
 | [24736](https://www.acmicpc.net/problem/24736) | Football Scoring | ✓ |   |   |   |   |
@@ -763,6 +768,7 @@
 | [32905](https://www.acmicpc.net/problem/32905) | RACI | ✓ |   |   |   |   |
 | [32929](https://www.acmicpc.net/problem/32929) | UOS 문자열 | ✓ |   |   |   |   |
 | [32942](https://www.acmicpc.net/problem/32942) | 그래프와 그래프 | ✓ |   |   |   |   |
+| [32943](https://www.acmicpc.net/problem/32943) | 자리 신청 | ✓ |   |   |   |   |
 | [32948](https://www.acmicpc.net/problem/32948) | 삼각형의 부분합 | ✓ |   |   |   |   |
 | [32951](https://www.acmicpc.net/problem/32951) | AI 선도대학 | ✓ |   |   |   |   |
 | [32978](https://www.acmicpc.net/problem/32978) | 아 맞다 마늘 | ✓ |   |   |   |   |
