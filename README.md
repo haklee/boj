@@ -351,6 +351,7 @@
 | [10987](https://www.acmicpc.net/problem/10987) | 모음의 개수 | ✓ |   |   |   |   |
 | [10989](https://www.acmicpc.net/problem/10989) | 수 정렬하기 3 | ✓ |   |   |   |   |
 | [10998](https://www.acmicpc.net/problem/10998) | A×B | [✓](boj/10998/90873842.py) |   |   | [✓](boj/10998/95038020.js) |   |
+| [11005](https://www.acmicpc.net/problem/11005) | 진법 변환 2 | ✓ |   |   |   |   |
 | [11021](https://www.acmicpc.net/problem/11021) | A+B - 7 | ✓ |   |   |   |   |
 | [11022](https://www.acmicpc.net/problem/11022) | A+B - 8 | ✓ |   |   |   |   |
 | [11024](https://www.acmicpc.net/problem/11024) | 더하기 4 | ✓ |   |   |   |   |
@@ -400,6 +401,7 @@
 | [12738](https://www.acmicpc.net/problem/12738) | 가장 긴 증가하는 부분 수열 3 | ✓ |   |   |   |   |
 | [12904](https://www.acmicpc.net/problem/12904) | A와 B | ✓ |   |   |   |   |
 | [12910](https://www.acmicpc.net/problem/12910) | 사탕 나눠주기 | ✓ |   |   |   |   |
+| [12945](https://www.acmicpc.net/problem/12945) | 재미있는 박스 정리 | ✓ |   |   |   |   |
 | [13018](https://www.acmicpc.net/problem/13018) | 특이한 수열 | ✓ |   |   |   |   |
 | [13072](https://www.acmicpc.net/problem/13072) | Fence | ✓ |   |   |   |   |
 | [13118](https://www.acmicpc.net/problem/13118) | 뉴턴과 사과 | ✓ |   |   |   |   |
@@ -448,6 +450,7 @@
 | [15232](https://www.acmicpc.net/problem/15232) | Rectangles | ✓ |   |   |   |   |
 | [15299](https://www.acmicpc.net/problem/15299) | Best Rational Approximation | ✓ |   |   |   |   |
 | [15311](https://www.acmicpc.net/problem/15311) | 약 팔기 | ✓ |   |   |   |   |
+| [15372](https://www.acmicpc.net/problem/15372) | A Simple Problem. | ✓ |   |   |   |   |
 | [15439](https://www.acmicpc.net/problem/15439) | 베라의 패션 | ✓ |   |   |   |   |
 | [15474](https://www.acmicpc.net/problem/15474) | 鉛筆 (Pencils) | ✓ |   |   |   |   |
 | [15486](https://www.acmicpc.net/problem/15486) | 퇴사 2 | ✓ |   |   |   |   |
