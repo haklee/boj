@@ -638,6 +638,7 @@
 | [25775](https://www.acmicpc.net/problem/25775) | Letter Frequency | ✓ |   |   |   |   |
 | [25858](https://www.acmicpc.net/problem/25858) | Divide the Cash |   |   |   | ✓ |   |
 | [25979](https://www.acmicpc.net/problem/25979) | 시간 구간 다중 업데이트 최대 합 | ✓ |   |   |   |   |
+| [25991](https://www.acmicpc.net/problem/25991) | Lots of Liquid | ✓ |   |   |   |   |
 | [26082](https://www.acmicpc.net/problem/26082) | WARBOY | ✓ |   |   |   |   |
 | [26091](https://www.acmicpc.net/problem/26091) | 현대모비스 소프트웨어 아카데미 | ✓ |   |   |   |   |
 | [26099](https://www.acmicpc.net/problem/26099) | 설탕 배달 2 | ✓ |   |   |   |   |
