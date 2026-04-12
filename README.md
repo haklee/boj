@@ -401,6 +401,7 @@
 | [12015](https://www.acmicpc.net/problem/12015) | 가장 긴 증가하는 부분 수열 2 | ✓ |   |   |   |   |
 | [12605](https://www.acmicpc.net/problem/12605) | 단어순서 뒤집기 | ✓ |   |   |   |   |
 | [12738](https://www.acmicpc.net/problem/12738) | 가장 긴 증가하는 부분 수열 3 | ✓ |   |   |   |   |
+| [12790](https://www.acmicpc.net/problem/12790) | Mini Fantasy War | ✓ |   |   |   |   |
 | [12904](https://www.acmicpc.net/problem/12904) | A와 B | ✓ |   |   |   |   |
 | [12910](https://www.acmicpc.net/problem/12910) | 사탕 나눠주기 | ✓ |   |   |   |   |
 | [12945](https://www.acmicpc.net/problem/12945) | 재미있는 박스 정리 | ✓ |   |   |   |   |
@@ -636,6 +637,7 @@
 | [25640](https://www.acmicpc.net/problem/25640) | MBTI | ✓ |   |   |   |   |
 | [25758](https://www.acmicpc.net/problem/25758) | 유전자 조합 | ✓ |   |   |   |   |
 | [25775](https://www.acmicpc.net/problem/25775) | Letter Frequency | ✓ |   |   |   |   |
+| [25784](https://www.acmicpc.net/problem/25784) | Easy-to-Solve Expressions | ✓ |   |   |   |   |
 | [25858](https://www.acmicpc.net/problem/25858) | Divide the Cash |   |   |   | ✓ |   |
 | [25979](https://www.acmicpc.net/problem/25979) | 시간 구간 다중 업데이트 최대 합 | ✓ |   |   |   |   |
 | [25991](https://www.acmicpc.net/problem/25991) | Lots of Liquid | ✓ |   |   |   |   |
