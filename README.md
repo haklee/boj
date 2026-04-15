@@ -216,6 +216,8 @@
 | [5338](https://www.acmicpc.net/problem/5338) | 마이크로소프트 로고 |   |   |   |   | [✓](boj/5338/90507110.txt) |
 | [5339](https://www.acmicpc.net/problem/5339) | 콜센터 |   |   |   |   | ✓ |
 | [5341](https://www.acmicpc.net/problem/5341) | Pyramids | ✓ |   |   |   |   |
+| [5357](https://www.acmicpc.net/problem/5357) | Dedupe | ✓ |   |   |   |   |
+| [5358](https://www.acmicpc.net/problem/5358) | Football Team | ✓ |   |   |   |   |
 | [5426](https://www.acmicpc.net/problem/5426) | 비밀 편지 | ✓ |   |   |   |   |
 | [5464](https://www.acmicpc.net/problem/5464) | 주차장 | ✓ |   |   |   |   |
 | [5522](https://www.acmicpc.net/problem/5522) | 카드 게임 | ✓ |   |   |   |   |
@@ -234,6 +236,7 @@
 | [5698](https://www.acmicpc.net/problem/5698) | Tautogram | ✓ |   |   |   |   |
 | [5717](https://www.acmicpc.net/problem/5717) | 상근이의 친구들 | ✓ |   |   |   |   |
 | [5753](https://www.acmicpc.net/problem/5753) | Pascal Library | ✓ |   |   |   |   |
+| [5928](https://www.acmicpc.net/problem/5928) | Contest Timing | ✓ |   |   |   |   |
 | [5957](https://www.acmicpc.net/problem/5957) | Cleaning the Dishes | ✓ |   |   |   |   |
 | [6012](https://www.acmicpc.net/problem/6012) | The Big Dance | ✓ |   |   |   |   |
 | [6124](https://www.acmicpc.net/problem/6124) | Good Grass | ✓ |   |   |   |   |
@@ -248,6 +251,7 @@
 | [6549](https://www.acmicpc.net/problem/6549) | 히스토그램에서 가장 큰 직사각형 | ✓ |   |   |   |   |
 | [6640](https://www.acmicpc.net/problem/6640) | Suspicious Stocks | ✓ |   |   |   |   |
 | [6749](https://www.acmicpc.net/problem/6749) | Next in line | ✓ |   |   |   |   |
+| [6763](https://www.acmicpc.net/problem/6763) | Speed fines are not fine! | ✓ |   |   |   |   |
 | [6778](https://www.acmicpc.net/problem/6778) | Which Alien? | ✓ |   |   |   |   |
 | [6840](https://www.acmicpc.net/problem/6840) | Who is in the middle? | ✓ |   |   |   |   |
 | [6850](https://www.acmicpc.net/problem/6850) | Cows | ✓ |   |   |   |   |
@@ -545,6 +549,7 @@
 | [18398](https://www.acmicpc.net/problem/18398) | HOMWRK | ✓ |   |   |   |   |
 | [18408](https://www.acmicpc.net/problem/18408) | 3 つの整数 (Three Integers) | ✓ |   |   |   |   |
 | [18409](https://www.acmicpc.net/problem/18409) | 母音を数える (Counting Vowels) | ✓ |   |   |   |   |
+| [18411](https://www.acmicpc.net/problem/18411) | 試験 (Exam) | ✓ |   |   |   |   |
 | [18422](https://www.acmicpc.net/problem/18422) | Emacs | ✓ |   |   |   |   |
 | [18436](https://www.acmicpc.net/problem/18436) | 수열과 쿼리 37 | ✓ |   |   |   |   |
 | [18964](https://www.acmicpc.net/problem/18964) | Questionnaire | ✓ |   |   |   |   |
